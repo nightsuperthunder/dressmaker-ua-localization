@@ -31,7 +31,7 @@ namespace DressmakerUA
     public class Plugin : BaseUnityPlugin
     {
         public const string Guid = "ua.dressmaker.localization";
-        public const string Version = "1.2.0";
+        public const string Version = "1.2.1";
 
         internal static ManualLogSource Log;
         internal static Plugin Instance;

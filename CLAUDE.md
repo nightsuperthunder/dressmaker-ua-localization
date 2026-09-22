@@ -63,11 +63,23 @@ If `src` doesn't match the current source, translate.py treats the record as unt
 Ollama, default `hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0` (Ukrainian fine-tune of Gemma 3 12B), ~1.1–2.5 s/string. Options: temp 0.3 (proofread 0.2), num_ctx 16384, keep_alive 30m. Alternatives installed: `gemma3:12b`, `gemma4:12b`; `gemma4:26b-a4b-it-q4_K_M` suggested (use `--no-think`).
 Known model weaknesses: calques, gender slips, ignores placeholder-sentence rule, drops `<i>` tags occasionally, **wraps whole strings in «»** (was 3185 strings — fixed by script; prompt + validator now guard it).
 
-## Current state (2026-09-22)
-- All strings translated + proofread (1188 changed). Stats: ok 5492, manual 59, skip 335, error 0. 1 validator false positive (credits line with Latin names).
-- UI hand-corrected (45 rows, `manual`); 14 dialogue rows hand-fixed (lost `<i>` tags, quotes).
-- Mod built and installed into the game; main menu verified in Ukrainian with screenshot.
-- TODO / open: in-game playtest (dialogues, tutorial, dress editor, newspaper, `{0}` sentences, language menu switching); better Cyrillic fonts (EB Garamond has official Cyrillic under OFL; find matches for Amaranth/Cantora One/Freude) — needs download permission; player gender decision; localized images (5 in `Images` asset table: shop name, newspaper title) stay English.
+## Current state (2026-09-23)
+- Stats: ok 5231, manual 320, skip 335, error 0 (1 known validator false positive: credits line with Latin names).
+- Repo (public): `nightsuperthunder/dressmaker-ua-localization`, remote `origin`, branch `main`. Old pre-cleanup history lives in the **private** `…-archive` repo (remote `archive`, branches `archive-main`, `remove-game-texts`) — it contains game texts and must stay private.
+- Releases: v1.0.0 … **v1.2.0** (latest). Listed on kuli.com.ua? — form data: Steam appid **4019220**, platform Windows only, category «Неофіційні», type «Текст», author `nightsuperthunder`, screenshots in `docs/screenshots/*.png` (raw.githubusercontent links).
+- Mod verified in game (main menu, settings, dialogue, sketchbook screenshots in docs/screenshots).
+- TODO / open: better Cyrillic fonts (EB Garamond has official Cyrillic under OFL — drop .ttf into `mod/fonts/`, filename = latin font name or `default.ttf`; needs a download); player gender decision («Кравчиня»); localized images (5 in `Images` asset table) stay English; ~120 `{0}` colour/fabric sentences need in-game checking; grammar/gender errors are invisible to the issue finder — only players catch them.
+
+## Working with a community fix batch (the routine)
+User sends string IDs + what's wrong. For each: look up `work/strings.json` (en + dev comment) and neighbouring lines by `order` for context, judge the English, explain the verdict briefly in Ukrainian, then apply with a small inline Python script: `T[key] = {"src": src_hash(en), "uk": ..., "status": "manual"}` + `scripts/common.validate()` before saving. Manual rows are never overwritten by the model.
+Then: `python scripts/build_mod.py --install` (close the game first), and when the user says so:
+1. bump `Version` in `mod/DressmakerUA/Plugin.cs`;
+2. `python scripts/build_mod.py --install --with-bepinex <extracted BepInEx dir>` (BepInEx 5.4.23.5 zip: re-download from GitHub releases if the scratchpad copy is gone);
+3. verify the zip has no personal data: no `yaroslav`/`gmail` strings;
+4. `cp mod/DressmakerUA.zip mod/DressmakerUA-vX.Y.Z.zip`, commit, push;
+5. `gh release create vX.Y.Z <zip> --target main --title "Українська локалізація vX.Y.Z" --notes-file -` with Ukrainian notes: what changed, install steps, known limitations, BepInEx credit;
+6. delete the temporary versioned zip.
+Release notes and repo description are Ukrainian; commit messages and this file are English.
 
 ## Game internals (from decompiling with ilspycmd)
 Game: `E:\Games\SteamLibrary\steamapps\common\Dressmaker` — Unity **6000.3.4**, **Mono** (`Dressmaker_Data/Managed`), Unity Localization + Addressables.

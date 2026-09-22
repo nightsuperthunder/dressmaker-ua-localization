@@ -1123,9 +1123,8 @@
  },
  "ui:20737358323236864": {
   "src": "7fef960c0f73",
-  "uk": "Великий майстер",
-  "status": "manual",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0"
+  "uk": "Велика майстриня",
+  "status": "manual"
  },
  "ui:21752065242939392": {
   "src": "5d12bd53552c",

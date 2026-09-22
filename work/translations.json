@@ -461,70 +461,53 @@
  },
  "ui:2543357405413376": {
   "src": "bc7819b34ff8",
-  "uk": "Невідомо",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Невідома",
+  "status": "manual"
  },
  "ui:2543357413801984": {
   "src": "16ca44702a9b",
-  "uk": "Початківець",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Новачка",
+  "status": "manual"
  },
  "ui:2543357413801985": {
   "src": "e22cccd20b15",
-  "uk": "Учень",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Учениця",
+  "status": "manual"
  },
  "ui:2543357413801986": {
   "src": "42b72e421501",
-  "uk": "Підмайстер",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ремісниця",
+  "status": "manual"
  },
  "ui:2543357417996288": {
   "src": "908800b8dc65",
-  "uk": "Поважний",
-  "status": "manual",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0"
+  "uk": "Поважна",
+  "status": "manual"
  },
  "ui:2543357417996289": {
   "src": "6f719fb045c0",
-  "uk": "Професіонал",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Фахівчиня",
+  "status": "manual"
  },
  "ui:2543357417996290": {
   "src": "98b998dc4574",
-  "uk": "Знаний",
-  "status": "manual",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0"
+  "uk": "Знана",
+  "status": "manual"
  },
  "ui:2543357417996291": {
   "src": "5375b85cf721",
-  "uk": "Шанований",
-  "status": "manual",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0"
+  "uk": "Шанована",
+  "status": "manual"
  },
  "ui:2543357417996292": {
   "src": "7c641fb5ebf8",
-  "uk": "Видатний",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Славетна",
+  "status": "manual"
  },
  "ui:2543357417996293": {
   "src": "78f3842f0201",
-  "uk": "Майстер",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Майстриня",
+  "status": "manual"
  },
  "ui:2543357417996294": {
   "src": "ca73ab65568c",

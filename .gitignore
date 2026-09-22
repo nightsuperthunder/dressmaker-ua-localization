@@ -14,6 +14,9 @@ work/*.csv
 work/*.log
 work/*.tmp
 work/test_*.json
+work/backtranslate.json
+work/context_review_state.json
+work/suspects.txt
 work/_*
 
 # obsolete leftovers

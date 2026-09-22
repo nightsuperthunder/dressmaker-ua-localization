@@ -1491,10 +1491,8 @@
  },
  "tutorial:1016171696133": {
   "src": "1b6d4f137b92",
-  "uk": "<style=c1>Поверніть шестерні</style>, щоб відрегулювати пропорції манекена. Зіставте примарні контури, щоб отримати найкращу посадку.",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "<style=c1>Поверніть шестерні</style>, щоб відрегулювати пропорції манекена. Сумістіть із напівпрозорим контуром, щоб посадка була якнайкращою.",
+  "status": "manual"
  },
  "tutorial:1016171696134": {
   "src": "36bf0b719979",
@@ -3437,10 +3435,8 @@
  },
  "content:67952241000451": {
   "src": "361f199aad09",
-  "uk": "Одяг для дня",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Денне вбрання",
+  "status": "manual"
  },
  "content:67952241000452": {
   "src": "1c1b4990936b",
@@ -3458,10 +3454,8 @@
  },
  "content:67952241000454": {
   "src": "b162bb51f440",
-  "uk": "Вечірній одяг",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вечірнє вбрання",
+  "status": "manual"
  },
  "content:67952241000455": {
   "src": "d4e7d7d330f0",
@@ -33088,10 +33082,8 @@
  },
  "dialogue:7392685330370835": {
   "src": "e32354e72d3f",
-  "uk": "Замружити вії…",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Затріпотіти віями…",
+  "status": "manual"
  },
  "dialogue:7392685330370836": {
   "src": "3369de345562",
@@ -37265,10 +37257,8 @@
  },
  "dialogue:7392685334564999": {
   "src": "7980cd80a389",
-  "uk": "Прийняти замовлення (Пропустити підручник)",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Прийняти замовлення (пропустити навчання)",
+  "status": "manual"
  },
  "dialogue:7392685334565000": {
   "src": "5426c38cd116",
@@ -37279,11 +37269,8 @@
  },
  "dialogue:7392685334565001": {
   "src": "8d6c0f5f9522",
-  "uk": "Хоча, припускаю, стара сукня була радше <i>безбожною</i>. Якщо так подумати. Бо молі повиїдали в ній дірки…",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Хоча, припускаю, стара сукня була радше <i>безбожною</i>. Якщо так подумати. Бо молі повиїдали в ній дірки…"
+  "uk": "Хоча, мабуть, та стара сукня була радше <i>свята</i>. Якщо подумати. Бо молі повиїдали в ній дірки — аж світилася…",
+  "status": "manual"
  },
  "dialogue:7392685334565002": {
   "src": "8721eb15a055",

@@ -15,6 +15,7 @@ using UnityEngine.Localization.Metadata;
 using UnityEngine.Localization.Settings;
 using UnityEngine.Localization.Tables;
 using UnityEngine.ResourceManagement.AsyncOperations;
+using UnityEngine.SceneManagement;
 using UnityEngine.TextCore.LowLevel;
 
 namespace DressmakerUA
@@ -37,6 +38,8 @@ namespace DressmakerUA
         internal static ConfigEntry<string> LocaleCode;
         internal static ConfigEntry<string> DisplayName;
         internal static ConfigEntry<string> OsFontFallback;
+        internal static ConfigEntry<bool> AutoSizeText;
+        internal static ConfigEntry<float> AutoSizeMinRatio;
 
         // колекція ("UI", "Dialogue"...) -> id рядка -> переклад
         internal static Dictionary<string, Dictionary<long, string>> Translations =
@@ -54,12 +57,18 @@ namespace DressmakerUA
             DisplayName = Config.Bind("General", "DisplayName", "Українська", "Назва мови в меню вибору мови.");
             OsFontFallback = Config.Bind("Fonts", "OsFontFallback", "Georgia",
                 "Системний шрифт з кирилицею, якщо в папці fonts немає власних шрифтів.");
+            AutoSizeText = Config.Bind("Fonts", "AutoSizeText", true,
+                "Автоматично зменшувати текст, який не вміщається в кнопку чи напис "
+                + "(українські слова довші за англійські).");
+            AutoSizeMinRatio = Config.Bind("Fonts", "AutoSizeMinRatio", 0.6f,
+                "Наскільки максимально дозволено зменшити текст: 0.6 = до 60% від авторського розміру.");
 
             LoadTranslations();
 
             LocalizationSettings.StringDatabase.TableProvider = new UkTableProvider();
 
             new Harmony(Guid).PatchAll(typeof(Patches));
+            SceneManager.sceneLoaded += ScanScene;
 
             // якщо ініціалізація вже пройшла — додати мову зараз, інакше після неї
             var init = LocalizationSettings.InitializationOperation;
@@ -67,6 +76,32 @@ namespace DressmakerUA
             else init.Completed += _ => EnsureLocale(LocalizationSettings.AvailableLocales);
 
             Log.LogInfo($"Завантажено перекладів: {Translations.Sum(t => t.Value.Count)} рядків у {Translations.Count} таблицях");
+        }
+
+        // ---------- текст, що не вміщається у вузькі кнопки ----------
+
+        private static readonly HashSet<int> AutoSized = new HashSet<int>();
+
+        /// <summary>
+        /// Вмикає автомасштабування напису: якщо переклад не вміщається, TMP зменшить шрифт,
+        /// замість того щоб рвати слово посередині. Авторський розмір лишається максимумом.
+        /// </summary>
+        internal static void ApplyAutoSize(TMP_Text text)
+        {
+            if (text == null || !AutoSizeText.Value || text.enableAutoSizing) return;
+            if (!IsOurLocale(LocalizationSettings.SelectedLocale)) return;
+            if (!AutoSized.Add(text.GetInstanceID())) return;
+            float authored = text.fontSize;
+            if (authored <= 0f) return;
+            text.fontSizeMax = authored;
+            text.fontSizeMin = Mathf.Max(6f, authored * Mathf.Clamp(AutoSizeMinRatio.Value, 0.2f, 1f));
+            text.enableAutoSizing = true;
+        }
+
+        private static void ScanScene(Scene scene, LoadSceneMode mode)
+        {
+            foreach (var text in Resources.FindObjectsOfTypeAll<TMP_Text>())
+                ApplyAutoSize(text);
         }
 
         private void LoadTranslations()
@@ -231,6 +266,11 @@ namespace DressmakerUA
             if (__result == null && latin != null && Plugin.IsOurLocale(locale))
                 __result = Plugin.GetCyrillicFont(latin);
         }
+
+        // написи, створені під час гри (кнопки в спливних вікнах тощо)
+        [HarmonyPatch(typeof(TextMeshProUGUI), "OnEnable")]
+        [HarmonyPostfix]
+        private static void TextEnabled(TextMeshProUGUI __instance) => Plugin.ApplyAutoSize(__instance);
 
         // назва мови в меню
         [HarmonyPatch(typeof(LanguageSelectorPopup), "NativeName")]

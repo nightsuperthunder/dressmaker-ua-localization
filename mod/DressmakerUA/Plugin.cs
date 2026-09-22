@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 using BepInEx;
 using BepInEx.Configuration;
 using BepInEx.Logging;
@@ -266,6 +267,31 @@ namespace DressmakerUA
             if (__result == null && latin != null && Plugin.IsOurLocale(locale))
                 __result = Plugin.GetCyrillicFont(latin);
         }
+
+        // Гра шукає назви деталей викрійки за ключем виду "Panel/BodiceButtonPlacket1",
+        // але ключів з номерами в її таблиці немає — тоді вона показує англійську назву з коду.
+        // Беремо переклад базового ключа ("Panel/BodiceButtonPlacket") і додаємо номер.
+        [HarmonyPatch(typeof(LocalizedContent), nameof(LocalizedContent.Get))]
+        [HarmonyPostfix]
+        private static void LocalizedGet(string table, string key, string fallback, ref string __result)
+        {
+            if (__result != fallback || string.IsNullOrEmpty(key)) return;
+            if (!Plugin.IsOurLocale(LocalizationSettings.SelectedLocale)) return;
+            var m = NumberedKey.Match(key);
+            if (!m.Success) return;
+            try
+            {
+                string uk = LocalizationSettings.StringDatabase.GetTable(table)
+                    ?.GetEntry(m.Groups[1].Value)?.GetLocalizedString();
+                if (!string.IsNullOrEmpty(uk)) __result = uk + " " + m.Groups[2].Value;
+            }
+            catch (Exception e)
+            {
+                Plugin.Log.LogDebug("Не вдалося підставити " + key + ": " + e.Message);
+            }
+        }
+
+        private static readonly Regex NumberedKey = new Regex(@"^(.*?)[ _]?(\d+)$", RegexOptions.Compiled);
 
         // написи, створені під час гри (кнопки в спливних вікнах тощо)
         [HarmonyPatch(typeof(TextMeshProUGUI), "OnEnable")]

@@ -6,6 +6,14 @@
 - Переклад зроблено локальною LLM ([MamayLM](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF), українська версія Gemma 3) з глосарієм, контекстом і коментарями розробників, другим проходом-вичиткою та частковою ручною редактурою.
 - У гру переклад потрапляє через плагін для [BepInEx 5](https://github.com/BepInEx/BepInEx). Плагін додає мову «Українська» в меню гри і підключає шрифт з кирилицею. **Файли гри не змінюються**, тож оновлення Steam переклад не ламають.
 
+## Скріншоти
+
+| Головне меню | Налаштування |
+|---|---|
+| ![Головне меню](docs/screenshots/01-menu.png) | ![Налаштування](docs/screenshots/02-settings.png) |
+| **Діалог** | **Альбом ескізів** |
+| ![Діалог](docs/screenshots/03-dialogue.png) | ![Альбом ескізів](docs/screenshots/04-sketchbook.png) |
+
 ## Встановлення
 
 1. Завантажте `DressmakerUA-vX.Y.Z.zip` з розділу [Releases](../../releases).

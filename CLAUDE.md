@@ -7,6 +7,7 @@ User-facing language: **Ukrainian** (answer the user in Ukrainian). Code comment
 - **The user is cost-sensitive about Claude tokens.** Bulk work (translating, proofreading hundreds of strings) must go to the **local LLM via the scripts**, not be done by Claude. Claude's role: scripts, glossary, style guide, prompts, plugin code, analysing *small samples*, fixing a handful of strings.
 - Long jobs: run in background (`scripts/run_all.py` keeps Windows awake itself), don't poll.
 - Ask before downloading anything (fonts, tools, packages).
+- **Never commit generated artifacts.** `work/backtranslate.json` (contains English back-translations of the game text!), `work/suspects.txt`, `work/context_review_state.json`, CSVs, logs — all git-ignored. Only `work/translations.json` is tracked. Check `git status` before `git add -A`.
 - **Never commit original game texts** (copyrighted): no `*.yaml` table exports, no `work/strings.json`, no `en` field in `translations.json`, no English text dumps. They are git-ignored; every contributor extracts them from their own game copy.
 - Commits: author only `nightsuperthunder` (already set in repo git config), **no `Co-Authored-By` or other Claude attribution** in commits, PRs, releases.
 

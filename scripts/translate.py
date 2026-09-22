@@ -125,12 +125,13 @@ def build_prompt(batch, prev, nxt, file_key, terms, ui=()):
     return "\n\n".join(parts)
 
 
-def call_ollama(args, system, user, temperature):
+def call_raw(args, system, user, temperature, schema):
+    """Запит до Ollama зі структурованою відповіддю; повертає розібраний JSON."""
     body = {
         "model": args.model,
         "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
         "stream": False,
-        "format": SCHEMA,
+        "format": schema,
         "keep_alive": "30m",
         "options": {
             "temperature": temperature,
@@ -145,8 +146,12 @@ def call_ollama(args, system, user, temperature):
                                  headers={"Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=900) as r:
         data = json.loads(r.read().decode("utf-8"))
-    content = data["message"]["content"]
-    out = json.loads(content)["t"]
+    return json.loads(data["message"]["content"])
+
+
+def call_ollama(args, system, user, temperature):
+    """Переклад: повертає {номер рядка: переклад}."""
+    out = call_raw(args, system, user, temperature, SCHEMA)["t"]
     return {int(o["n"]): o["uk"] for o in out if isinstance(o, dict) and "n" in o}
 
 

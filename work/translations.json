@@ -5210,11 +5210,8 @@
  },
  "content:801922582822913": {
   "src": "a1f3421c46f7",
-  "uk": "Бавовна з принтом «Деко «Бебі Блю»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Бавовна з принтом «Деко «Бебі Блю»»"
+  "uk": "Бавовна з ніжно-блакитним принтом ар-деко",
+  "status": "manual"
  },
  "content:801922582822914": {
   "src": "7722331f417e",
@@ -5808,10 +5805,8 @@
  },
  "content:801922587017270": {
   "src": "de7f1066abdc",
-  "uk": "Шовк «Принт «Апельсиновий сад» з облямівкою»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Шовк з принтом-облямівкою «Апельсиновий сад»",
+  "status": "manual"
  },
  "content:801922587017271": {
   "src": "5ccd335a3288",
@@ -5959,17 +5954,13 @@
  },
  "content:801922587017291": {
   "src": "4b75ac106325",
-  "uk": "Шовк «Принт «Рожева гвоздика»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Шовк із принтом «Рожева гвоздика»",
+  "status": "manual"
  },
  "content:801922587017292": {
   "src": "d2b676d94032",
-  "uk": "Шовк «Принт «Помазані видіння»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Шовк із принтом «Помазані видіння»",
+  "status": "manual"
  },
  "content:801922587017293": {
   "src": "55194d0a4e69",
@@ -5983,10 +5974,8 @@
  },
  "content:801922587017295": {
   "src": "e8cc70fb9da8",
-  "uk": "Шовк «Принт «Беладона»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Шовк із принтом «Беладона»",
+  "status": "manual"
  },
  "content:801922587017296": {
   "src": "20dbf58e45a1",
@@ -5995,10 +5984,8 @@
  },
  "content:801922587017297": {
   "src": "ebfb69789468",
-  "uk": "Шовк «Принт «Криваві видіння»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Шовк із принтом «Криваві видіння»",
+  "status": "manual"
  },
  "content:801922587017298": {
   "src": "96643e1991d6",
@@ -6007,10 +5994,8 @@
  },
  "content:801922587017299": {
   "src": "ebff42de0232",
-  "uk": "Шовк «Пейслі «Золота троянда»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Шовк з візерунком пейслі кольору рожевого золота",
+  "status": "manual"
  },
  "content:801922587017300": {
   "src": "777f93398d9a",
@@ -6028,10 +6013,8 @@
  },
  "content:801922587017302": {
   "src": "16d710f08d4a",
-  "uk": "Шовк «Принт «Кораловий блиск» з облямівкою»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Шовк з принтом-облямівкою «Кораловий блиск»",
+  "status": "manual"
  },
  "content:801922587017303": {
   "src": "230dd51e490a",
@@ -6042,7 +6025,7 @@
  },
  "content:801922587017304": {
   "src": "2498f6e01de6",
-  "uk": "Шовк «Пейслі «Фіолетове омбре»",
+  "uk": "Шовк омбре з фіолетовим візерунком пейслі",
   "status": "manual"
  },
  "content:801922587017305": {
@@ -6054,25 +6037,18 @@
  },
  "content:801922587017306": {
   "src": "c3a8719ee7d6",
-  "uk": "Оксамит «Деворе «Ар-Деко»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Оксамит «Деворе «Ар-деко»"
+  "uk": "Оксамит деворе «Ар-деко»",
+  "status": "manual"
  },
  "content:801922587017307": {
   "src": "0523d7d2ff37",
-  "uk": "Оксамит «Деворе «Козеріг»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оксамит деворе «Козеріг»",
+  "status": "manual"
  },
  "content:801922587017308": {
   "src": "034e6ba2dd66",
-  "uk": "Оксамит «Деворе «Мідний журавель»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оксамит деворе «Мідний журавель»",
+  "status": "manual"
  },
  "content:801922587017309": {
   "src": "c6ed92b68931",
@@ -6081,17 +6057,13 @@
  },
  "content:801922587017310": {
   "src": "5ff53a7493c5",
-  "uk": "Оксамит «Деворе «Медуза»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оксамит деворе «Медуза»",
+  "status": "manual"
  },
  "content:801922587017311": {
   "src": "54ac1ae43be1",
-  "uk": "Оксамит «Деворе «Рубінове багатство»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оксамит деворе «Рубіновий скарб»",
+  "status": "manual"
  },
  "content:801922587017312": {
   "src": "ba256e80bfee",
@@ -6102,17 +6074,13 @@
  },
  "content:801922587017313": {
   "src": "7f2148822088",
-  "uk": "Оксамит «Жатий «Фуксія»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Жатий оксамит «Фуксія»",
+  "status": "manual"
  },
  "content:801922587017314": {
   "src": "79edc93a7b8a",
-  "uk": "Оксамит «Жатий «Міраж»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Жатий оксамит «Міраж»",
+  "status": "manual"
  },
  "content:801922587017315": {
   "src": "539ea9a332f0",
@@ -6121,17 +6089,13 @@
  },
  "content:801922587017316": {
   "src": "5449930c36fb",
-  "uk": "Оксамит «Чорний «Зоряна ніч» з оздобленням»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Чорний оксамит з оздобленням «Зоряна ніч»",
+  "status": "manual"
  },
  "content:801922587017317": {
   "src": "c0d012a39d2b",
-  "uk": "Оксамит «Червоний «Зоряна ніч» з оздобленням»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Червоний оксамит з оздобленням «Зоряна ніч»",
+  "status": "manual"
  },
  "content:801922587017318": {
   "src": "834b0bd67991",
@@ -6149,10 +6113,8 @@
  },
  "content:801922587017320": {
   "src": "e51fe68c0159",
-  "uk": "Оксамит «Деворе «Блідий дамаск»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оксамит деворе «Блідий дамаск»",
+  "status": "manual"
  },
  "content:801922587017321": {
   "src": "ff60da2232d7",
@@ -19821,10 +19783,8 @@
  },
  "dialogue:7392685317788078": {
   "src": "4950224c517c",
-  "uk": "«Будь ласка, якщо я дам вам {0}, ви вдовольните примху мого духу? Боюся, ніщо інше його не задовольнить, а він жахливо голосний».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Будь ласка, якщо я дам вам {0}, ви вдовольните примху мого духу? Боюся, ніщо інше його не задовольнить, а він жахливо голосний.",
+  "status": "manual"
  },
  "dialogue:7392685317788079": {
   "src": "d78b783a1ed4",
@@ -19840,32 +19800,23 @@
  },
  "dialogue:7392685317788081": {
   "src": "4f544a77fa55",
-  "uk": "«Ох, слава богу».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ох, слава богу.",
+  "status": "manual"
  },
  "dialogue:7392685317788082": {
   "src": "ad363b4c41fc",
-  "uk": "«Я ДОЗВОЛЮ ВАМ ДОПОМОГТИ МЕНІ В РЕАЛІЗАЦІЇ МОЇХ ЗЛОЧИННИХ ЗАДУМІВ, ПРОДАВЕЦЮ ТКАНИН».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Я ДОЗВОЛЮ ВАМ ДОПОМОГТИ МЕНІ В РЕАЛІЗАЦІЇ МОЇХ ЗЛОЧИННИХ ЗАДУМІВ, ПРОДАВЕЦЬ ТКАНИН»."
+  "uk": "Я ДОЗВОЛЮ ВАМ ДОПОМОГТИ МЕНІ В РЕАЛІЗАЦІЇ МОЇХ ЗЛОЧИННИХ ЗАДУМІВ, ПРОДАВЕЦЮ ТКАНИН.",
+  "status": "manual"
  },
  "dialogue:7392685317788083": {
   "src": "bb7cb3a7dbf7",
-  "uk": "«Я, НАВПАКІ, ВИМАГАТИМУ ЦІЛИЙ ГАРДЕРОБ».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я, НАВПАКІ, ВИМАГАТИМУ ЦІЛИЙ ГАРДЕРОБ.",
+  "status": "manual"
  },
  "dialogue:7392685317788084": {
   "src": "80238f21f8b1",
-  "uk": "«Ні, ви <i>зовсім не</i> будете. Ми зараз підемо».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ні, ви <i>зовсім не</i> будете. Ми зараз підемо.",
+  "status": "manual"
  },
  "dialogue:7392685317788085": {
   "src": "f256ea509b31",
@@ -19904,11 +19855,8 @@
  },
  "dialogue:7392685317788090": {
   "src": "0a609c440790",
-  "uk": "«Алісо, я хочу додому».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«АЛІСО, Я ХОЧУ ДОДОМУ»."
+  "uk": "Алісо, я хочу додому.",
+  "status": "manual"
  },
  "dialogue:7392685317788092": {
   "src": "87ae8d56c368",
@@ -19917,24 +19865,18 @@
  },
  "dialogue:7392685317788093": {
   "src": "baf64fea0242",
-  "uk": "«Будь ласка, вибачте нас».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Будь ласка, вибачте нас.",
+  "status": "manual"
  },
  "dialogue:7392685317788097": {
   "src": "b81252252987",
-  "uk": "«Алісі потрібна сукня для спіритичного сеансу».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Алісі потрібна сукня для спіритичного сеансу.",
+  "status": "manual"
  },
  "dialogue:7392685317788098": {
   "src": "db3fe1f2328f",
-  "uk": "«Як і було передбачено, я повернувся».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Як і було передбачено, я повернувся.",
+  "status": "manual"
  },
  "dialogue:7392685317788099": {
   "src": "2c3f0751802a",
@@ -19955,17 +19897,13 @@
  },
  "dialogue:7392685317788102": {
   "src": "b17791c2e528",
-  "uk": "«Я також не зміг завести нових друзів, попри те, що сумлінно виганяв своїх демонів».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я також не зміг завести нових друзів, попри те, що сумлінно виганяв своїх демонів.",
+  "status": "manual"
  },
  "dialogue:7392685317788103": {
   "src": "390f18f7b607",
-  "uk": "«Я розвинув досить значну мускулатуру».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я розвинув досить значну мускулатуру.",
+  "status": "manual"
  },
  "dialogue:7392685317788104": {
   "src": "bd036154d33b",
@@ -19974,11 +19912,8 @@
  },
  "dialogue:7392685317788105": {
   "src": "11336a73a9ad",
-  "uk": "«І піднімати помірно важкі предмети».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«І ПІДНІМАТИ ПОМІРНО ВАЖКІ ПРЕДМЕТИ»."
+  "uk": "І піднімати помірно важкі предмети.",
+  "status": "manual"
  },
  "dialogue:7392685317788106": {
   "src": "5fda4a77ef21",
@@ -20010,32 +19945,23 @@
  },
  "dialogue:7392685317788111": {
   "src": "d45ac7ecbd58",
-  "uk": "«Або ж… я і є той недолік».",
+  "uk": "Або ж… я і є той недолік.",
   "status": "manual"
  },
  "dialogue:7392685317788112": {
   "src": "0101a9bdba7d",
-  "uk": "«Ні, я не думаю, що це так».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ні, я не думаю, що це так."
+  "uk": "Ні, я не думаю, що це так.",
+  "status": "manual"
  },
  "dialogue:7392685317788114": {
   "src": "821baf80bf0f",
-  "uk": "«Ви щира людина».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ви добра людина."
+  "uk": "Ви щира людина.",
+  "status": "manual"
  },
  "dialogue:7392685317788115": {
   "src": "d3858c97fb6a",
-  "uk": "«Мені потрібне подальше керівництво. Зрештою, Крок і Селафі не можуть володіти всією мудрістю нематеріального світу».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Мені потрібне подальше керівництво. Зрештою, від Крока і Селафі не можна очікувати, що вони володітимуть усією мудрістю нематеріального світу."
+  "uk": "Мені потрібне подальше керівництво. Зрештою, Крок і Селафі не можуть володіти всією мудрістю нематеріального світу.",
+  "status": "manual"
  },
  "dialogue:7392685317788116": {
   "src": "558d46a8af45",
@@ -20047,59 +19973,38 @@
  },
  "dialogue:7392685317788117": {
   "src": "ed255647714c",
-  "uk": "«Не впадайте у відчай, Селафі. Я дуже ціную ваші старання, але ви не можете нести відповідальність за всі мої особисті невдачі».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Не впадайте у відчай, Селафі. Я дуже ціную ваші зусилля, але ви не можете нести відповідальність за всі мої особисті невдачі."
+  "uk": "Не впадайте у відчай, Селафі. Я дуже ціную ваші старання, але ви не можете нести відповідальність за всі мої особисті невдачі.",
+  "status": "manual"
  },
  "dialogue:7392685317788118": {
   "src": "b53b6853554a",
-  "uk": "«Я вирішив провести сеанс і покликати мудрість Потойбіччя. Леді Вівіан погодилася допомогти мені в цьому».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Я вирішив провести сеанс і покликати мудрість Потойбіччя. Леді Вівіан погодилася допомогти мені в цьому."
+  "uk": "Я вирішив провести сеанс і покликати мудрість Потойбіччя. Леді Вівіан погодилася допомогти мені в цьому.",
+  "status": "manual"
  },
  "dialogue:7392685317788119": {
   "src": "9f50397f281a",
-  "uk": "«Я спробую поговорити з батьками».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Я спробую поговорити з батьками."
+  "uk": "Я спробую поговорити з батьками.",
+  "status": "manual"
  },
  "dialogue:7392685317788120": {
   "src": "90b83d16aa18",
-  "uk": "«Ох».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ох."
+  "uk": "Ох.",
+  "status": "manual"
  },
  "dialogue:7392685317788121": {
   "src": "a8d7597929fd",
-  "uk": "«Вони пішли, коли я був ще дитиною. Але хто краще за них може дати мені пораду? Кажуть, більшість людей звертаються до своїх матерів чи батьків, коли потребують допомоги».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вони пішли, коли я був ще дитиною. Але хто краще за них може дати мені пораду? Кажуть, більшість людей звертаються до своїх матерів чи батьків, коли потребують допомоги."
+  "uk": "Вони пішли, коли я був ще дитиною. Але хто краще за них може дати мені пораду? Кажуть, більшість людей звертаються до своїх матерів чи батьків, коли потребують допомоги.",
+  "status": "manual"
  },
  "dialogue:7392685317788122": {
   "src": "98cab0cf09c5",
-  "uk": "«Мої пішли надто рано. Я пригадаю їх».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Мої пішли надто рано. Я пригадаю їх."
+  "uk": "Мої пішли надто рано. Я пригадаю їх.",
+  "status": "manual"
  },
  "dialogue:7392685317788123": {
   "src": "c2a78504b1e8",
-  "uk": "«Я мушу бути належним чином одягнена для цього завдання. Зробіть мені сукню готичну та вишукану, яка сяятиме при свічках — можливо, коштовності допоможуть у цьому? Я також віддаю перевагу мереживу».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Я мушу бути належним чином одягнена для цього завдання. Зробіть мені сукню готичну та вишукану, яка сяятиме при свічках — можливо, коштовності допоможуть у цьому? Я також віддаю перевагу мереживу."
+  "uk": "Я мушу бути належним чином одягнена для цього завдання. Зробіть мені сукню готичну та вишукану, яка сяятиме при свічках — можливо, коштовності допоможуть у цьому? Я також віддаю перевагу мереживу.",
+  "status": "manual"
  },
  "dialogue:7392685317788124": {
   "src": "c292477df088",
@@ -20789,11 +20694,8 @@
  },
  "dialogue:7392685317788229": {
   "src": "33e73c6c830d",
-  "uk": "—якщо тільки сила справжнього кохання і подорожі в часі не зможуть запобігти їхній трагічній долі.»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "—якщо сила справжнього кохання і подорожей у часі не зможе запобігти їхній трагічній долі.»"
+  "uk": "—якщо тільки сила справжнього кохання і подорожі в часі не зможуть запобігти їхній трагічній долі.",
+  "status": "manual"
  },
  "dialogue:7392685317788230": {
   "src": "48ae210e8228",
@@ -20972,11 +20874,8 @@
  },
  "dialogue:7392685317788258": {
   "src": "e037cc854e7c",
-  "uk": "«<size=60%>Замовкніть, обидва! Я намагаюся завести подругу, і вони подумають, що я дивна!</size=60%>",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "<size=60%>Замовкніть, обидва! Я намагаюся завести подругу, і вони подумають, що я дивна!</size=60%>"
+  "uk": "<size=60%>Замовкніть, обидва! Я намагаюся завести подругу, і вони подумають, що я дивна!</size=60%>",
+  "status": "manual"
  },
  "dialogue:7392685317788259": {
   "src": "439e3d24fd9a",
@@ -21401,10 +21300,8 @@
  },
  "dialogue:7392685317788328": {
   "src": "dac84f6a9cb7",
-  "uk": "«Правильно. Мало не вгадав».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Правильно. Мало не вгадав.",
+  "status": "manual"
  },
  "dialogue:7392685317788329": {
   "src": "1f4ba634df10",
@@ -21413,194 +21310,133 @@
  },
  "dialogue:7392685317788330": {
   "src": "8aa91236ea4a",
-  "uk": "«Тут щось коїться. Щось…потойбічне».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Тут щось коїться. Щось…потойбічне.",
+  "status": "manual"
  },
  "dialogue:7392685317788331": {
   "src": "bddb458fdc39",
-  "uk": "«Так хвилююче! Може, когось <dangle>викрадуть!</dangle>».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Так хвилююче! Може, когось <dangle>викрадуть!</dangle>"
+  "uk": "Так хвилююче! Може, когось <dangle>викрадуть!</dangle>.",
+  "status": "manual"
  },
  "dialogue:7392685317788332": {
   "src": "ec3cd09b40f4",
-  "uk": "«Я хочу зробити себе більш помітною мішенню».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я хочу зробити себе більш помітною мішенню.",
+  "status": "manual"
  },
  "dialogue:7392685317788333": {
   "src": "015815732a3f",
-  "uk": "«Ви хочете, щоб вас забрали прибульці?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Ви хочете, щоб вас підібрали позаземні?»."
+  "uk": "Ви хочете, щоб вас забрали прибульці?.",
+  "status": "manual"
  },
  "dialogue:7392685317788334": {
   "src": "0e76c861fa12",
-  "uk": "«Хіба це не звучить весело? Я впевнена, вони потім мене повернуть».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Хіба це не звучить весело? Я впевнена, вони потім мене повернуть.",
+  "status": "manual"
  },
  "dialogue:7392685317788335": {
   "src": "a43c785ca59a",
-  "uk": "«Щоб зацікавити якнайширшу позаземну аудиторію, я хотіла б, щоб ви пошили для мене незвичайну сукню. Вона має містити велику різноманітність різних типів тканин. Чи не всі? Тобто, шовк, льон, бавовна, мереживо, паєтковий, оксамит і вовна, будь ласка. Я заплачу вам {0}».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Щоб зацікавити якнайширшу позаземну аудиторію, я хотіла б, щоб ви пошили для мене незвичайну сукню. Вона має містити велику різноманітність різних типів тканин. Чи не всі? Тобто, шовк, льон, бавовна, мереживо, паєтковий, оксамит і вовна, будь ласка. Я заплачу вам {0}.",
+  "status": "manual"
  },
  "dialogue:7392685317788336": {
   "src": "d78b783a1ed4",
-  "uk": "«Прийняти замовлення».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Прийняти замовлення.",
+  "status": "manual"
  },
  "dialogue:7392685321981952": {
   "src": "af1df53a4916",
-  "uk": "«Як неймовірно…чудернацько».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Як неймовірно…чужо»."
+  "uk": "Як неймовірно…чудернацько.",
+  "status": "manual"
  },
  "dialogue:7392685321981953": {
   "src": "cbb75a1c5c58",
-  "uk": "«Це точно спрацює! Хі-хі!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Це точно спрацює! Хі-хі!.",
+  "status": "manual"
  },
  "dialogue:7392685321981954": {
   "src": "6a1e69ada6af",
-  "uk": "«До зірок!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "До зірок!.",
+  "status": "manual"
  },
  "dialogue:7392685321981955": {
   "src": "c61d3f9c0dce",
-  "uk": "«Дякую, люба!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Дякую, люба!.",
+  "status": "manual"
  },
  "dialogue:7392685321981956": {
   "src": "505e198264ce",
-  "uk": "«Я не розумію, як ви могли не зрозуміти таке просте замовлення, Кравчине».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я не розумію, як ви могли не зрозуміти таке просте замовлення, Кравчине.",
+  "status": "manual"
  },
  "dialogue:7392685321981957": {
   "src": "2cf04b3b8e3b",
-  "uk": "«Якщо тільки…».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Якщо тільки….",
+  "status": "manual"
  },
  "dialogue:7392685321981959": {
   "src": "641ad6c2c8a8",
-  "uk": "«Ви…випадково не самозванка?!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ви…випадково не самозванка?!.",
+  "status": "manual"
  },
  "dialogue:7392685321981960": {
   "src": "4718bd83007c",
-  "uk": "«Я буду за вами спостерігати, Кравчине».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я буду за вами спостерігати, Кравчине.",
+  "status": "manual"
  },
  "dialogue:7392685321981964": {
   "src": "2869f60c954a",
-  "uk": "«Дороті хоче нову сукню для годування птахів у парку».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Дороті хоче нову сукню для годування птахів у парку.",
+  "status": "manual"
  },
  "dialogue:7392685321981965": {
   "src": "6b2747275141",
-  "uk": "«Я… Я бачу».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Я…Я бачу»."
+  "uk": "Я… Я бачу.",
+  "status": "manual"
  },
  "dialogue:7392685321981966": {
   "src": "25622f4bb087",
-  "uk": "«Так? Хі-хі. Як скандально».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Так? Хе-хе. Як скандально»."
+  "uk": "Так? Хі-хі. Як скандально.",
+  "status": "manual"
  },
  "dialogue:7392685321981967": {
   "src": "bc4318e9004b",
-  "uk": "«Чи можу я вам допомогти, пані?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Чи можу я вам допомогти, пані?.",
+  "status": "manual"
  },
  "dialogue:7392685321981968": {
   "src": "ccb15a349e57",
-  "uk": "«Який чудовий магазин! Усе місто про нього говорить, знаєте. Ви наробили <i>чималого</i> галасу».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Який чудовий магазин! Усе місто про нього говорить, знаєте. Ви наробили <i>чималого</i> галасу.",
+  "status": "manual"
  },
  "dialogue:7392685321981969": {
   "src": "e1ae40a0be73",
-  "uk": "«Але не буду вам докучати. Мене звати Дороті Паркер, а це — Джудіт, Монтгомері та Егберт».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Але не буду вам докучати. Мене звати Дороті Паркер, а це — Джудіт, Монтгомері та Егберт.",
+  "status": "manual"
  },
  "dialogue:7392685321981970": {
   "src": "6a090c89aee2",
-  "uk": "«Звісно. Ви також, мабуть, приймаєте духів».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Звісно. Ви також, мабуть, приймаєте духів.",
+  "status": "manual"
  },
  "dialogue:7392685321981971": {
   "src": "be65b9e34737",
-  "uk": "«Що?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Що?"
+  "uk": "Що?.",
+  "status": "manual"
  },
  "dialogue:7392685321981972": {
   "src": "615eb6b4ad50",
-  "uk": "«Ох! Ох, я бачу, куди ви заблукали! Ха-ха!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ох! Ох, я бачу, куди ви заблукали! Ха-ха!"
+  "uk": "Ох! Ох, я бачу, куди ви заблукали! Ха-ха!.",
+  "status": "manual"
  },
  "dialogue:7392685321981973": {
   "src": "4824f34c6a61",
-  "uk": "«Ні, Джуді, Монті та Берті — мої любі друзі… і найкращі голуби в окрузі. Вони також невичерпні пліткарі, хі-хі».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Ні, Джуді, Монті та Берті — мої любі друзі…і найкращі голуби в окрузі. Вони також невичерпні пліткарі, хі-хі». "
+  "uk": "Ні, Джуді, Монті та Берті — мої любі друзі… і найкращі голуби в окрузі. Вони також невичерпні пліткарі, хі-хі.",
+  "status": "manual"
  },
  "dialogue:7392685321981974": {
   "src": "fbc63d4038f6",
-  "uk": "«Гаразд».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Гаразд». "
+  "uk": "Гаразд.",
+  "status": "manual"
  },
  "dialogue:7392685321981975": {
   "src": "b4b159318b7a",
@@ -21609,27 +21445,18 @@
  },
  "dialogue:7392685321981976": {
   "src": "a7516a0cd960",
-  "uk": "«Він каже, що вам слід вважати це за честь. Ви вважаєте це за честь?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Він каже, що вам слід вважати це за честь. Ви вважаєте це за честь?» "
+  "uk": "Він каже, що вам слід вважати це за честь. Ви вважаєте це за честь?.",
+  "status": "manual"
  },
  "dialogue:7392685321981977": {
   "src": "b50768c38a5e",
-  "uk": "«Ух… звісно. Дуже за честь?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Ух…звісно. Дуже за честь?» "
+  "uk": "Ух… звісно. Дуже за честь?.",
+  "status": "manual"
  },
  "dialogue:7392685321981978": {
   "src": "f3282acbd03e",
-  "uk": "«Добре! Берті схвалює».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Добре! Берті схвалює». "
+  "uk": "Добре! Берті схвалює.",
+  "status": "manual"
  },
  "dialogue:7392685321981979": {
   "src": "bc523ba6254c",
@@ -21641,98 +21468,73 @@
  },
  "dialogue:7392685321981980": {
   "src": "c53c562dab4b",
-  "uk": "«Так». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Так.",
+  "status": "manual"
  },
  "dialogue:7392685321981981": {
   "src": "f724f8753946",
-  "uk": "«Птах сказав тобі це?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Птах сказав тобі це?",
+  "status": "manual"
  },
  "dialogue:7392685321981982": {
   "src": "c53c562dab4b",
-  "uk": "«Так». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Так.",
+  "status": "manual"
  },
  "dialogue:7392685321981983": {
   "src": "661aa1ac419f",
-  "uk": "«І це звичайна річ для тебе?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "І це звичайна річ для тебе?",
+  "status": "manual"
  },
  "dialogue:7392685321981984": {
   "src": "c53c562dab4b",
-  "uk": "«Так». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Так.",
+  "status": "manual"
  },
  "dialogue:7392685321981985": {
   "src": "9dc07bdcbec7",
-  "uk": "«Ви, здається, трохи повільно схоплюєте суть, люба». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Ви, здається, трохи повільно вловлюєте суть, люба». "
+  "uk": "Ви, здається, трохи повільно схоплюєте суть, люба.",
+  "status": "manual"
  },
  "dialogue:7392685321981986": {
   "src": "56131feb3a33",
-  "uk": "«У мене вже є кіт, тож…» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "У мене вже є кіт, тож…",
+  "status": "manual"
  },
  "dialogue:7392685321981987": {
   "src": "070fac5dbb44",
-  "uk": "«Це прикро. Берті наполягає на тому, щоб його негайно виселили з приміщення». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Це прикро. Берті наполягає на тому, щоб його негайно виселили з приміщення.",
+  "status": "manual"
  },
  "dialogue:7392685321981988": {
   "src": "e79acd6a3d3f",
-  "uk": "«Я не виселятиму Баттонса».",
+  "uk": "Я не виселятиму Баттонса.",
   "status": "manual"
  },
  "dialogue:7392685321981989": {
   "src": "21944aa0ea01",
-  "uk": "«Берті каже, що це теж прикро». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Берті каже, що це теж прикро.",
+  "status": "manual"
  },
  "dialogue:7392685321981990": {
   "src": "63bbd8d8b834",
-  "uk": "«Берті візьме це до уваги і намагатиметься бути мужнім перед лицем негараздів». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Берті візьме це до уваги і намагатиметься бути мужнім перед лицем негараздів.",
+  "status": "manual"
  },
  "dialogue:7392685321981991": {
   "src": "4f89a2f52e87",
-  "uk": "«У будь-якому разі, голуб, безсумнівно, буде вам дуже корисним. Якщо Берті забере вас до себе, він буде готовий доставляти вашу кореспонденцію».",
+  "uk": "У будь-якому разі, голуб, безсумнівно, буде вам дуже корисним. Якщо Берті забере вас до себе, він буде готовий доставляти вашу кореспонденцію.",
   "status": "manual"
  },
  "dialogue:7392685321981992": {
   "src": "0bba5eec22bd",
-  "uk": "«Якщо, наприклад, він відчує, що клієнт може мати <i>додаткову</i> потребу у ваших послугах, він може попередити вас про їхній інтерес». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Якщо, наприклад, він відчує, що клієнт може мати <i>додаткову</i> потребу у ваших послугах, він може попередити вас про їхній інтерес.",
+  "status": "manual"
  },
  "dialogue:7392685321981993": {
   "src": "f9d7f74b52b1",
-  "uk": "«Звісно, не потрібно займатися УСІМ цим додатковим пошиттям! Але пошиття додаткових суконь для ваших улюблених клієнтів може поглибити ваші стосунки з ними». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Звісно, не потрібно займатися УСІМ цим додатковим пошиттям! Але пошиття додаткових суконь для ваших улюблених клієнтів може поглибити ваші стосунки з ними.",
+  "status": "manual"
  },
  "dialogue:7392685321981994": {
   "src": "78d4483d9e15",
@@ -21744,18 +21546,13 @@
  },
  "dialogue:7392685321981995": {
   "src": "4ea66e715600",
-  "uk": "«У будь-якому разі, ці додаткові замовлення не закінчаться, хоча я уявляю, що клієнти іноді можуть тимчасово бути недоступними з особистих причин». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«У будь-якому разі, ці додаткові завдання не закінчаться, хоча я уявляю, що клієнти іноді можуть тимчасово стати недоступними з особистих причин». "
+  "uk": "У будь-якому разі, ці додаткові замовлення не закінчаться, хоча я уявляю, що клієнти іноді можуть тимчасово бути недоступними з особистих причин.",
+  "status": "manual"
  },
  "dialogue:7392685321981996": {
   "src": "0f897b4a88a0",
-  "uk": "«Берті сподівається, що все зрозуміло. Він також сподівається, що ви знаєте, що голуби потребують щоденного погладжування і дієти, що складається лише з найкращих зерен». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Берті сподівається, що все зрозуміло. Він також сподівається, що ви знаєте, що голуби потребують щоденного погладжування і дієти, що складається лише з найкращих зерен.",
+  "status": "manual"
  },
  "dialogue:7392685321981997": {
   "src": "d75c1b55c352",
@@ -23814,10 +23611,8 @@
  },
  "dialogue:7392685321982328": {
   "src": "79846bce49e8",
-  "uk": "«До речі… мені потрібна сукня для прослуховування на мою наступну велику роль! Я мушу гідно представити себе — ти зробиш сукню «Едіт Свон»?",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "До речі… мені потрібна сукня для прослуховування на мою наступну велику роль! Я мушу гідно представити себе — ти зробиш сукню «Едіт Свон»?",
+  "status": "manual"
  },
  "dialogue:7392685321982329": {
   "src": "143ea606ada6",
@@ -28444,123 +28239,78 @@
  },
  "dialogue:7392685326176602": {
   "src": "4cc382579829",
-  "uk": "«Кравчиня».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Кравчине."
+  "uk": "Кравчиня.",
+  "status": "manual"
  },
  "dialogue:7392685326176603": {
   "src": "efa222701292",
-  "uk": "«Кравчине, ми тут намагаємося створити мистецтво».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Кравчине, ми тут намагаємося створити мистецтво."
+  "uk": "Кравчине, ми тут намагаємося створити мистецтво.",
+  "status": "manual"
  },
  "dialogue:7392685326176604": {
   "src": "c1894a725a66",
-  "uk": "«І мистецтво мусить же торкатися незручних питань, чи не так?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "І мистецтво, мусить же воно торкатися незручних питань, чи не так?"
+  "uk": "І мистецтво мусить же торкатися незручних питань, чи не так?.",
+  "status": "manual"
  },
  "dialogue:7392685326176605": {
   "src": "6648d82cb437",
-  "uk": "«Наприклад… смороду?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Наприклад… сморід?"
+  "uk": "Наприклад… смороду?.",
+  "status": "manual"
  },
  "dialogue:7392685326176606": {
   "src": "c23aaf3c0f26",
-  "uk": "«Гаразд».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Гаразд."
+  "uk": "Гаразд.",
+  "status": "manual"
  },
  "dialogue:7392685326176607": {
   "src": "c0807c6895c2",
-  "uk": "«Вітаємо, Кравчино. Разом ми написали, можливо, найгірший вірш, який коли-небудь був написаний».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вітаємо, Кравчино. Разом ми написали, можливо, найгірший вірш, який коли-небудь був написаний."
+  "uk": "Вітаємо, Кравчино. Разом ми написали, можливо, найгірший вірш, який коли-небудь був написаний.",
+  "status": "manual"
  },
  "dialogue:7392685326176609": {
   "src": "54232f641bad",
-  "uk": "«Боже мій».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Боже мій."
+  "uk": "Боже мій.",
+  "status": "manual"
  },
  "dialogue:7392685326176610": {
   "src": "f8cc3ba0f978",
-  "uk": "«Писемність не заслуговувала на це».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Писемність не заслуговувала на це."
+  "uk": "Писемність не заслуговувала на це.",
+  "status": "manual"
  },
  "dialogue:7392685326176611": {
   "src": "22ce1007e87e",
-  "uk": "«І все ж ми мусимо якось увічнити наше досягнення».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "І все ж ми мусимо якось увічнити наше досягнення."
+  "uk": "І все ж ми мусимо якось увічнити наше досягнення.",
+  "status": "manual"
  },
  "dialogue:7392685326176612": {
   "src": "c53c562dab4b",
-  "uk": "«Так».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Так."
+  "uk": "Так.",
+  "status": "manual"
  },
  "dialogue:7392685326176613": {
   "src": "912bdfa7d12f",
-  "uk": "«Так, ви зробите мені сукню, натхненну цим віршем».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Так, ви зробите мені сукню, натхненну цим віршем."
+  "uk": "Так, ви зробите мені сукню, натхненну цим віршем.",
+  "status": "manual"
  },
  "dialogue:7392685326176614": {
   "src": "35702bf3a3fa",
-  "uk": "«Вона має бути {0}, {1} та {2}. Ваш бюджет — {3}».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вона має бути {0}, {1} та {2}. Ваш бюджет — {3}."
+  "uk": "Вона має бути {0}, {1} та {2}. Ваш бюджет — {3}.",
+  "status": "manual"
  },
  "dialogue:7392685326176615": {
   "src": "0872badafb13",
-  "uk": "«Поділіться нашим баченням зі світом, Кравчино».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Поділіться нашим баченням зі світом, Кравчино."
+  "uk": "Поділіться нашим баченням зі світом, Кравчино.",
+  "status": "manual"
  },
  "dialogue:7392685326176616": {
   "src": "d78b783a1ed4",
-  "uk": "«Прийняти замовлення».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Прийняти замовлення"
+  "uk": "Прийняти замовлення.",
+  "status": "manual"
  },
  "dialogue:7392685326176617": {
   "src": "343665e3aa56",
-  "uk": "«Захопливо».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Захопливо."
+  "uk": "Захопливо.",
+  "status": "manual"
  },
  "dialogue:7392685326176618": {
   "src": "e7d28968049e",
@@ -28947,10 +28697,8 @@
  },
  "dialogue:7392685326176676": {
   "src": "9960fdf23d8c",
-  "uk": "«Викладай! Викладай! Викладай!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Викладай! Викладай! Викладай!.",
+  "status": "manual"
  },
  "dialogue:7392685326176677": {
   "src": "26a2a1dcef51",
@@ -28962,24 +28710,18 @@
  },
  "dialogue:7392685326176678": {
   "src": "c98b495b54d3",
-  "uk": "«Ой лишенько».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ой лишенько.",
+  "status": "manual"
  },
  "dialogue:7392685326176679": {
   "src": "f9ca2d660283",
-  "uk": "«Хасан зізнався, що має до мене почуття. Романтичні».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Хасан зізнався, що має до мене почуття. Романтичні.",
+  "status": "manual"
  },
  "dialogue:7392685326176680": {
   "src": "1ecfd450f642",
-  "uk": "«Він був, е-е…».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Він був, е-е….",
+  "status": "manual"
  },
  "dialogue:7392685326176681": {
   "src": "00b1107f7c3d",
@@ -28990,172 +28732,118 @@
  },
  "dialogue:7392685326176682": {
   "src": "fedd7367c5f5",
-  "uk": "«Поезія!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Вірші!»."
+  "uk": "Поезія!.",
+  "status": "manual"
  },
  "dialogue:7392685326176683": {
   "src": "440d2e6e4c30",
-  "uk": "«Тихіше!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Тихіше!.",
+  "status": "manual"
  },
  "dialogue:7392685326176684": {
   "src": "929a7596e74a",
-  "uk": "«Я теж дуже його люблю. Коли моя душа неспокійна, його — спокійний. У його товаристві я ніколи не відчуваю потреби ховати свої справжні почуття».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я теж дуже його люблю. Коли моя душа неспокійна, його — спокійний. У його товаристві я ніколи не відчуваю потреби ховати свої справжні почуття.",
+  "status": "manual"
  },
  "dialogue:7392685326176685": {
   "src": "062347604690",
-  "uk": "«Але це залицяння… я боюся…».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Але це залицяння… я боюся….",
+  "status": "manual"
  },
  "dialogue:7392685326176686": {
   "src": "23487b4fd570",
-  "uk": "«Якщо люди дізнаються, вони припустять, що мені запропонували посаду лише через вплив Хасана».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Якщо люди дізнаються, вони припустять, що мені запропонували посаду лише через вплив Хасана.",
+  "status": "manual"
  },
  "dialogue:7392685326176687": {
   "src": "58cb4a774c41",
-  "uk": "«І… і якщо вони мають рацію?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "І… і якщо вони мають рацію?.",
+  "status": "manual"
  },
  "dialogue:7392685326176688": {
   "src": "75bafc45081e",
-  "uk": "«Можливо, це просто те, що герцог <i>балує</i> мене. Або, що гірше, намагається підкупити мої почуття».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Можливо, це просто те, що герцог <i>балує</i> мене. Або, що гірше, намагається підкупити мої почуття.",
+  "status": "manual"
  },
  "dialogue:7392685326176690": {
   "src": "2c7b922e3c70",
-  "uk": "«Я мушу розповісти йому, що мене турбує. Я побачу його на Весняному святі і поясню все».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я мушу розповісти йому, що мене турбує. Я побачу його на Весняному святі і поясню все.",
+  "status": "manual"
  },
  "dialogue:7392685326176691": {
   "src": "853240764460",
-  "uk": "«Але для цього мені знадобиться нова сукня».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Але для цього мені знадобиться нова сукня.",
+  "status": "manual"
  },
  "dialogue:7392685326176692": {
   "src": "d2a0ecd195ad",
-  "uk": "«Чи можу я попросити розкішну сукню? Вечірню, звісно, і я хотіла б, щоб ця сукня була, знаєте…<size=60%>романтичною.</size=60%> Я уявляю собі вільні, спадаючі шовки? Я можу запропонувати вам {0} за роботу».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Чи можу я попросити розкішну сукню? Вечірню, звісно, і я хотіла б, щоб ця сукня була, знаєте…<size=60%>романтичною.</size=60%> Я уявляю собі вільні, спадаючі шовки? Я можу запропонувати вам {0} за роботу.",
+  "status": "manual"
  },
  "dialogue:7392685326176693": {
   "src": "d78b783a1ed4",
-  "uk": "«Прийняти замовлення».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Прийняти замовлення.",
+  "status": "manual"
  },
  "dialogue:7392685326176694": {
   "src": "65164e2e1ec1",
-  "uk": "«О, Боже. Це прекрасніше, ніж я очікувала. Ви стаєте кращою з кожним замовленням, Кравчине».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "О, Боже. Це прекрасніше, ніж я очікувала. Ви стаєте кращою з кожним замовленням, Кравчине.",
+  "status": "manual"
  },
  "dialogue:7392685326176695": {
   "src": "a1d3b88bc0c1",
-  "uk": "«Сподіваюся, я скоро побачу вас знову».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Сподіваюся, я скоро побачу вас знову.",
+  "status": "manual"
  },
  "dialogue:7392685326176696": {
   "src": "5419440de709",
-  "uk": "«Добре, що герцогу вже подобаюся, бо ця сукня могла б змусити його втекти інакше».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Добре, що герцогу вже подобаюся, бо ця сукня могла б змусити його втекти інакше.",
+  "status": "manual"
  },
  "dialogue:7392685326176697": {
   "src": "f43fc2843fe8",
-  "uk": "«…вона все ще може це зробити, насправді».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "…вона все ще може це зробити, насправді.",
+  "status": "manual"
  },
  "dialogue:7392685326176698": {
   "src": "59fc3850d004",
-  "uk": "«Я не знаю, Кравчине. Чи не буде для вас надто великої мороки ще раз подивитися на цю сукню?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Я не знаю, Кравчине. Чи не буде для вас надто клопітно ще раз подивитися на цю сукню?»."
+  "uk": "Я не знаю, Кравчине. Чи не буде для вас надто великої мороки ще раз подивитися на цю сукню?.",
+  "status": "manual"
  },
  "dialogue:7392685326176699": {
   "src": "9cb58e08a029",
-  "uk": "«Ні, звісно, ні».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ні, звісно, ні.",
+  "status": "manual"
  },
  "dialogue:7392685326176700": {
   "src": "8cb702e63ff6",
-  "uk": "«Справді? О, дуже дякую».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Справді? О, дуже дякую"
+  "uk": "Справді? О, дуже дякую.",
+  "status": "manual"
  },
  "dialogue:7392685326176701": {
   "src": "8f1501839f0e",
-  "uk": "«Змінити замовлення».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Змінити замовлення"
+  "uk": "Змінити замовлення.",
+  "status": "manual"
  },
  "dialogue:7392685326176705": {
   "src": "3a059b680e68",
-  "uk": "«Марі показує подрузі Твіллфорд і їй потрібна сукня для пікніка».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Марі показує своїй подрузі Твіллфорд і їй потрібна сукня для пікніка"
+  "uk": "Марі показує подрузі Твіллфорд і їй потрібна сукня для пікніка.",
+  "status": "manual"
  },
  "dialogue:7392685326176706": {
   "src": "9b56d519ccd9",
-  "uk": "«Привіт».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Привіт"
+  "uk": "Привіт.",
+  "status": "manual"
  },
  "dialogue:7392685326176707": {
   "src": "eea8b6989819",
-  "uk": "«Який чудовий сонячний день! Вам не варто сидіти в чотирьох стінах!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Який чудовий сонячний день! Вам не варто сидіти вдома!"
+  "uk": "Який чудовий сонячний день! Вам не варто сидіти в чотирьох стінах!.",
+  "status": "manual"
  },
  "dialogue:7392685326176708": {
   "src": "42288c2156a9",
-  "uk": "«На жаль, мене переслідує потреба заробляти на життя».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "На жаль, мене мучить потреба заробляти на життя"
+  "uk": "На жаль, мене переслідує потреба заробляти на життя.",
+  "status": "manual"
  },
  "dialogue:7392685326176709": {
   "src": "39b63f3912a8",
@@ -29166,51 +28854,33 @@
  },
  "dialogue:7392685326176710": {
   "src": "bc81330a5325",
-  "uk": "«Сонячне світло мене не вабить. Я єдине ціле з темрявою та тканиною».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Сонячне світло мене не вабить. Я єдине ціле з темрявою та тканиною"
+  "uk": "Сонячне світло мене не вабить. Я єдине ціле з темрявою та тканиною.",
+  "status": "manual"
  },
  "dialogue:7392685326176712": {
   "src": "68adf3519822",
-  "uk": "«Ні, я справді думаю, що вам слід більше бувати на свіжому повітрі».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ні, я справді думаю, що вам слід більше виходити"
+  "uk": "Ні, я справді думаю, що вам слід більше бувати на свіжому повітрі.",
+  "status": "manual"
  },
  "dialogue:7392685326176713": {
   "src": "ec374a97fd56",
-  "uk": "«Може, я візьму завтра вихідний?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Може, я візьму завтра вихідний?"
+  "uk": "Може, я візьму завтра вихідний?.",
+  "status": "manual"
  },
  "dialogue:7392685326176714": {
   "src": "30e85849b6b9",
-  "uk": "«Варто! Ви занадто багато працюєте».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Варто! Ви занадто багато працюєте"
+  "uk": "Варто! Ви занадто багато працюєте.",
+  "status": "manual"
  },
  "dialogue:7392685326176715": {
   "src": "e3288fea98ad",
-  "uk": "«Яка чудова погода для пікніка!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Яка чудова погода для пікніка!"
+  "uk": "Яка чудова погода для пікніка!.",
+  "status": "manual"
  },
  "dialogue:7392685326176716": {
   "src": "623e72900650",
-  "uk": "«У мене в гостях подруга з Шармезу. Завтра я покажу їй місто, а потім ми поп’ємо чай на галявині біля бібліотеки».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "У мене в гостях подруга з Шармезу. Завтра я покажу їй місто, а потім ми поп’ємо чай на галявині біля бібліотеки"
+  "uk": "У мене в гостях подруга з Шармезу. Завтра я покажу їй місто, а потім ми поп’ємо чай на галявині біля бібліотеки.",
+  "status": "manual"
  },
  "dialogue:7392685326176717": {
   "src": "4bd37386c55f",
@@ -29394,10 +29064,8 @@
  },
  "dialogue:7392685326176751": {
   "src": "c31ae579421d",
-  "uk": "««Аранжування хризантем цього року чудові».»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "«Аранжування хризантем цього року чудові».",
+  "status": "manual"
  },
  "dialogue:7392685326176752": {
   "src": "e860cb6fd7b8",
@@ -29474,7 +29142,7 @@
  },
  "dialogue:7392685326176762": {
   "src": "0b942f2d8987",
-  "uk": "«Тоді, звісно, вона <i>зіпсувала</i> свою шляхетність, заявивши, що ніколи не дозволить таким нудотам турбувати мене «коли ми станемо сестрами»»}, {",
+  "uk": "Тоді, звісно, вона <i>зіпсувала</i> свою шляхетність, заявивши, що ніколи не дозволить таким нудотам турбувати мене, «коли ми станемо сестрами».",
   "status": "manual"
  },
  "dialogue:7392685326176763": {
@@ -30955,18 +30623,13 @@
  },
  "dialogue:7392685330370591": {
   "src": "867a05bf6f50",
-  "uk": "«Небезпечно».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Небезпечно.",
+  "status": "manual"
  },
  "dialogue:7392685330370592": {
   "src": "518d644a66c5",
-  "uk": "«Смілива».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Смілива."
+  "uk": "Смілива.",
+  "status": "manual"
  },
  "dialogue:7392685330370593": {
   "src": "208795128703",
@@ -30991,10 +30654,8 @@
  },
  "dialogue:7392685330370596": {
   "src": "6e503df69c98",
-  "uk": "«Дякую, так, але я хочу, щоб і інші це побачили». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Дякую, так, але я хочу, щоб і інші це побачили.",
+  "status": "manual"
  },
  "dialogue:7392685330370597": {
   "src": "150e1ad85dad",
@@ -31399,234 +31060,163 @@
  },
  "dialogue:7392685330370657": {
   "src": "f3acecbf009a",
-  "uk": "«Ви теж можете бути трохи безглуздою». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ви теж можете бути трохи безглуздою.",
+  "status": "manual"
  },
  "dialogue:7392685330370658": {
   "src": "f5d1ac7e1647",
-  "uk": "«Ви, мабуть, думаєте про когось іншого. Але… але я тепер відчуваю, що все буде гаразд». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ви, мабуть, думаєте про когось іншого. Але… але я тепер відчуваю, що все буде гаразд.",
+  "status": "manual"
  },
  "dialogue:7392685330370659": {
   "src": "0aaad2bef54f",
-  "uk": "«Знаєте, тієї ночі, коли я спостерігала за зірками, був зорепад?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Знаєте, тієї ночі, коли я спостерігала за зірками, був зорепад?",
+  "status": "manual"
  },
  "dialogue:7392685330370660": {
   "src": "9f268575502d",
-  "uk": "«Я піднялася на пагорб за садом сама. Коли я досягла вершини, я подивилася вгору і побачила, як падаюча зірка промайнула по небу». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я піднялася на пагорб за садом сама. Коли я досягла вершини, я подивилася вгору і побачила, як падаюча зірка промайнула по небу.",
+  "status": "manual"
  },
  "dialogue:7392685330370661": {
   "src": "1bb7a480edff",
-  "uk": "«У ту мить це здалося мені маленьким дивом, призначеним лише для мене». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«У той момент це здалося маленьким дивом, призначеним лише для мене». "
+  "uk": "У ту мить це здалося мені маленьким дивом, призначеним лише для мене.",
+  "status": "manual"
  },
  "dialogue:7392685330370662": {
   "src": "1459164ce6ac",
-  "uk": "«І коли я знову подивилася вниз, там вона стояла. Пруденс». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "І коли я знову подивилася вниз, там вона стояла. Пруденс.",
+  "status": "manual"
  },
  "dialogue:7392685330370663": {
   "src": "b6118b07937e",
-  "uk": "«Немов відповідь — і єдина, яку я хотіла». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Немов відповідь — і єдина відповідь, яку я хотіла». "
+  "uk": "Немов відповідь — і єдина, яку я хотіла.",
+  "status": "manual"
  },
  "dialogue:7392685330370664": {
   "src": "a68965165ed1",
-  "uk": "«Тож! Я хочу, щоб ви пошили мені весільну сукню. Чи впораєтесь із цим завданням?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Тож! Я вимагатиму від вас весільну сукню. Ви впораєтеся з цим завданням?» "
+  "uk": "Тож! Я хочу, щоб ви пошили мені весільну сукню. Чи впораєтесь із цим завданням?",
+  "status": "manual"
  },
  "dialogue:7392685330370665": {
   "src": "9be9fffe121a",
-  "uk": "«Я не можу дочекатися». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я не можу дочекатися.",
+  "status": "manual"
  },
  "dialogue:7392685330370666": {
   "src": "a0be7ab797d1",
-  "uk": "«Чудово! Ви візьмете {0}?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Чудово! Ви візьмете {0}?",
+  "status": "manual"
  },
  "dialogue:7392685330370667": {
   "src": "bc07856e13ab",
-  "uk": "«Звісно, сукня має бути елегантною, урочистою і романтичною. Але я також хочу, щоб вона сяяла, як зірка, на весіллі». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Звісно, сукня має бути елегантною, урочистою і романтичною. Але я також хочу, щоб вона сяяла, як зірка, на весіллі.",
+  "status": "manual"
  },
  "dialogue:7392685330370668": {
   "src": "087d7a3fd577",
-  "uk": "«Небесна сукня, Кравчине — як данина падаючій зірці, яку я побачила тієї ночі, і моєму тихому проханню». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Небесна сукня, Кравчине — як данина падаючій зірці, яку я побачила тієї ночі, і моєму тихому проханню.",
+  "status": "manual"
  },
  "dialogue:7392685330370669": {
   "src": "d78b783a1ed4",
-  "uk": "«Прийняти замовлення» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Прийняти замовлення",
+  "status": "manual"
  },
  "dialogue:7392685330370670": {
   "src": "b4f5a806504c",
-  "uk": "«О, це чудово!» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "О, це чудово!",
+  "status": "manual"
  },
  "dialogue:7392685330370671": {
   "src": "90117931c851",
-  "uk": "«Це все, що я могла б побажати, Кравчине! Ви — найвидатніший митець, якого я коли-небудь знатиму». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Це все, що я могла б побажати, Кравчине! Ви — найвидатніший митець, якого я коли-небудь знатиму.",
+  "status": "manual"
  },
  "dialogue:7392685330370672": {
   "src": "765634b44943",
-  "uk": "«Дякую. За все, що ви зробили». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Дякую. За все, що ви зробили.",
+  "status": "manual"
  },
  "dialogue:7392685330370673": {
   "src": "2d2d1940af77",
-  "uk": "«Від митця до митця, Кравчине, було задоволення». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Від митця до митця, Кравчине, було задоволення.",
+  "status": "manual"
  },
  "dialogue:7392685330370674": {
   "src": "e2a292b7c9aa",
-  "uk": "«Бережіть себе». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Бережіть себе.",
+  "status": "manual"
  },
  "dialogue:7392685330370675": {
   "src": "0de680186e57",
-  "uk": "«Я просила небесну сукню, але тепер бачу, що всі мої надії знову падають на землю». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я просила небесну сукню, але тепер бачу, що всі мої надії знову падають на землю.",
+  "status": "manual"
  },
  "dialogue:7392685330370676": {
   "src": "b802d12317b2",
-  "uk": "«Дайте мені лише мить! Я поправлю цю сукню». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Дайте мені лише мить! Я виправлю цю сукню». "
+  "uk": "Дайте мені лише мить! Я поправлю цю сукню.",
+  "status": "manual"
  },
  "dialogue:7392685330370677": {
   "src": "54bb3577766a",
-  "uk": "«Ви — зірка». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ви — зірка.",
+  "status": "manual"
  },
  "dialogue:7392685330370678": {
   "src": "8f1501839f0e",
-  "uk": "«Змінити замовлення» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Змінити замовлення",
+  "status": "manual"
  },
  "dialogue:7392685330370682": {
   "src": "fe37e312280b",
-  "uk": "«Прія засмучена і хоче провітритися. Їй потрібна сукня для споглядання зірок». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Прія засмучена і хоче провітритися. Їй потрібна сукня, щоб подивитися на зорі». "
+  "uk": "Прія засмучена і хоче провітритися. Їй потрібна сукня для споглядання зірок.",
+  "status": "manual"
  },
  "dialogue:7392685330370683": {
   "src": "62b87b30020c",
-  "uk": "«Привіт, Кравчине». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Привіт, Кравчине.",
+  "status": "manual"
  },
  "dialogue:7392685330370684": {
   "src": "8a488223baf6",
-  "uk": "«Прія? Що трапилося?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Прія? Що сталося?» "
+  "uk": "Прія? Що трапилося?",
+  "status": "manual"
  },
  "dialogue:7392685330370685": {
   "src": "07b8f58b8199",
-  "uk": "«Ви завжди такі добрі, що питаєте. Нічого страшного, насправді. Я просто трохи пригнічена». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Ви завжди такі добрі, що питаєте. Нічого страшного, насправді. Я просто трохи пригнічена в даний момент». "
+  "uk": "Ви завжди такі добрі, що питаєте. Нічого страшного, насправді. Я просто трохи пригнічена.",
+  "status": "manual"
  },
  "dialogue:7392685330370686": {
   "src": "87fca02066c1",
-  "uk": "«Я маю труднощі з моїм мистецтвом». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я маю труднощі з моїм мистецтвом.",
+  "status": "manual"
  },
  "dialogue:7392685330370687": {
   "src": "1143112bed34",
-  "uk": "«Тобто, я маю труднощі з <i>сенсом</i> мого мистецтва. Я завжди вважала, що воно про спілкування з іншими, але…» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Тобто, я маю труднощі з <i>сенсом</i> мого мистецтва. Я завжди вважала, що воно про спілкування з іншими, але…",
+  "status": "manual"
  },
  "dialogue:7392685330370688": {
   "src": "a98e6052144f",
-  "uk": "«…але моє мистецтво <i>нічого</i> не передає». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "…але моє мистецтво <i>нічого</i> не передає.",
+  "status": "manual"
  },
  "dialogue:7392685330370689": {
   "src": "a594917d172b",
-  "uk": "«Я впевнена, що це не так». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я впевнена, що це не так.",
+  "status": "manual"
  },
  "dialogue:7392685330370690": {
   "src": "0c8abf31af43",
-  "uk": "«Не знаю. Мені здається, що я говорю, але мене не розуміють. Чи буває так у вас, з вашим пошиттям?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Не знаю. Мені здається, що я говорю, але мене не розуміють. Чи буває так у вас, з вашим пошиттям?",
+  "status": "manual"
  },
  "dialogue:7392685330370691": {
   "src": "1c1f54ed171f",
-  "uk": "«Можливо, я просто зараз не натхненна. Або, можливо, я просто не дуже талановита». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Можливо, я просто зараз не натхненна. Або, можливо, я просто не дуже талановита.",
+  "status": "manual"
  },
  "dialogue:7392685330370692": {
   "src": "30ce75aa5ad9",
@@ -31635,170 +31225,118 @@
  },
  "dialogue:7392685330370693": {
   "src": "83036d0ff8d7",
-  "uk": "«Ні, нічого. Я не знаю, що зі мною сталося». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ні, нічого. Я не знаю, що зі мною сталося.",
+  "status": "manual"
  },
  "dialogue:7392685330370694": {
   "src": "d90badcbf374",
-  "uk": "«Ні, насправді, я знаю». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ні, насправді, я знаю.",
+  "status": "manual"
  },
  "dialogue:7392685330370695": {
   "src": "66b06a2d7e91",
-  "uk": "«Ви розмовляли з Пруденс?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ви розмовляли з Пруденс?",
+  "status": "manual"
  },
  "dialogue:7392685330370696": {
   "src": "e7a42bda4920",
-  "uk": "«Вона попросила мене пошити їй сукню на весілля Марі». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вона попросила мене пошити їй сукню на весілля Марі.",
+  "status": "manual"
  },
  "dialogue:7392685330370697": {
   "src": "b575f9662078",
-  "uk": "«Сукню? <i>Сукню?</i>» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Сукню? <i>Сукню?</i>",
+  "status": "manual"
  },
  "dialogue:7392685330370698": {
   "src": "41ce66ea0753",
-  "uk": "«Це… так, це приблизно те, чим я тут займаюся». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Це… так, це приблизно те, чим я тут займаюся.",
+  "status": "manual"
  },
  "dialogue:7392685330370699": {
   "src": "67a8c2978d65",
-  "uk": "«О, не вдавайте з себе невинну. Ви не просто пошили їй сукню, ви створили справжній <i>маніфест.</i> Ви зробили з неї видовище».",
+  "uk": "О, не вдавайте з себе невинну. Ви не просто пошили їй сукню, ви створили справжній <i>маніфест.</i> Ви зробили з неї видовище.",
   "status": "manual"
  },
  "dialogue:7392685330370700": {
   "src": "df1acc0ef285",
-  "uk": "«Вона виглядала приголомшливо. Про що ви думали? Про що <i>вона</i> думала?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вона виглядала приголомшливо. Про що ви думали? Про що <i>вона</i> думала?",
+  "status": "manual"
  },
  "dialogue:7392685330370701": {
   "src": "f0233d683620",
-  "uk": "«Знаєте, яка найгірша частина? Вона не промовила жодного слова до мене на весіллі — ніби це була моя вина». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Знаєте, яка найгірша частина? Вона не промовила жодного слова до мене на весіллі — ніби це була моя вина.",
+  "status": "manual"
  },
  "dialogue:7392685330370702": {
   "src": "84fc2f5c056c",
-  "uk": "«Що вона сказала тобі, Кравчине?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Що вона ТАМЕ ТОБІ СКАЗАЛА, Кравчине?"
+  "uk": "Що вона сказала тобі, Кравчине?",
+  "status": "manual"
  },
  "dialogue:7392685330370703": {
   "src": "3e7ef314ca55",
-  "uk": "«Вибачте, Прія, але наша розмова була приватною. Я не порушу довіру Пруденс». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вибачте, Прія, але наша розмова була приватною. Я не порушу довіру Пруденс.",
+  "status": "manual"
  },
  "dialogue:7392685330370704": {
   "src": "07cc453bcbce",
-  "uk": "«Але—» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Але—",
+  "status": "manual"
  },
  "dialogue:7392685330370706": {
   "src": "0afc2e60d131",
-  "uk": "«Ні, я розумію. Звісно. Звісно». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ні, я розумію. Звісно. Звісно.",
+  "status": "manual"
  },
  "dialogue:7392685330370707": {
   "src": "a6f189df5c43",
-  "uk": "«Вона сказала, що хотіла довести, що вона краща за всіх». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вона сказала, що хотіла довести, що вона краща за всіх.",
+  "status": "manual"
  },
  "dialogue:7392685330370708": {
   "src": "76b6de0f32fa",
-  "uk": "«Жахлива жінка! Ох, я могла б її задушити». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Жахлива жінка! Ох, я могла б її задушити.",
+  "status": "manual"
  },
  "dialogue:7392685330370709": {
   "src": "8aea9082a008",
-  "uk": "«Ні, ні, я не те мала на увазі. Я просто… я зовсім її не розумію». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ні, ні, я не те мала на увазі. Я просто… я зовсім її не розумію.",
+  "status": "manual"
  },
  "dialogue:7392685330370710": {
   "src": "1ae13eae05be",
-  "uk": "«Вона сказала, що в тебе ідеальне волосся». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Вона сказала, що у вас ідеальне волосся». "
+  "uk": "Вона сказала, що в тебе ідеальне волосся.",
+  "status": "manual"
  },
  "dialogue:7392685330370711": {
   "src": "af0c4a26ca89",
-  "uk": "«Що? Що моє волосся має до чогось? Будь ласка, серйозно». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Що? Що моє волосся має до чогось? Будь ласка, серйозно."
+  "uk": "Що? Що моє волосся має до чогось? Будь ласка, серйозно.",
+  "status": "manual"
  },
  "dialogue:7392685330370712": {
   "src": "073fd609025d",
-  "uk": "«Мені здається, Пруденс перебуває під набагато більшим тиском, ніж люди усвідомлюють». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Мені здається, Пруденс перебуває під набагато більшим тиском, ніж люди усвідомлюють."
+  "uk": "Мені здається, Пруденс перебуває під набагато більшим тиском, ніж люди усвідомлюють.",
+  "status": "manual"
  },
  "dialogue:7392685330370713": {
   "src": "82109a8a8d0d",
-  "uk": "«Це може бути так, але як я маю знати, якщо вона не хоче зі мною говорити? Вона ж не очікує, що я читатиму її думки?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Це може бути так, але як я маю знати, якщо вона не хоче зі мною говорити? Вона ж не очікує, що я читатиму її думки?"
+  "uk": "Це може бути так, але як я маю знати, якщо вона не хоче зі мною говорити? Вона ж не очікує, що я читатиму її думки?",
+  "status": "manual"
  },
  "dialogue:7392685330370714": {
   "src": "ebaaa1d56b0c",
-  "uk": "«Вибачте. Я роздратована». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вибачте. Я роздратована."
+  "uk": "Вибачте. Я роздратована.",
+  "status": "manual"
  },
  "dialogue:7392685330370715": {
   "src": "128ffa3d1f6b",
-  "uk": "«Просто вона виглядала настільки нестерпно сумною». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Просто вона виглядала настільки нестерпно сумною."
+  "uk": "Просто вона виглядала настільки нестерпно сумною.",
+  "status": "manual"
  },
  "dialogue:7392685330370716": {
   "src": "1ab760a82bb8",
-  "uk": "«Я мушу поговорити з Пруденс. Просто мушу знайти спосіб висловити себе». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Я мушу поговорити з Пруденс. Просто мушу знайти спосіб висловити себе."
+  "uk": "Я мушу поговорити з Пруденс. Просто мушу знайти спосіб висловити себе.",
+  "status": "manual"
  },
  "dialogue:7392685330370717": {
   "src": "9202e4c23164",
@@ -31807,59 +31345,38 @@
  },
  "dialogue:7392685330370719": {
   "src": "844c78aaf9dd",
-  "uk": "«Я думаю, мені спочатку потрібно зібратися з думками». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Я думаю, мені спочатку потрібно зібратися з думками."
+  "uk": "Я думаю, мені спочатку потрібно зібратися з думками.",
+  "status": "manual"
  },
  "dialogue:7392685330370720": {
   "src": "c8cc974e0eb5",
-  "uk": "«Я думаю, я піду на вечір астрономії Фіони. Можливо, це допоможе мені прояснити голову». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Я думаю, я піду на вечір астрономії Фіони. Можливо, це допоможе мені прояснити голову."
+  "uk": "Я думаю, я піду на вечір астрономії Фіони. Можливо, це допоможе мені прояснити голову.",
+  "status": "manual"
  },
  "dialogue:7392685330370721": {
   "src": "f3ed68532570",
-  "uk": "«Зрештою, інші художники часто знаходили натхнення в нічному небі». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Зрештою, інші художники часто знаходили натхнення в нічному небі."
+  "uk": "Зрештою, інші художники часто знаходили натхнення в нічному небі.",
+  "status": "manual"
  },
  "dialogue:7392685330370722": {
   "src": "366928efbfea",
-  "uk": "«Чи не зробили б ви мені сукню на вечір? Вона має бути милою, романтичною і теплою. Я була б рада заплатити {0} за роботу». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Чи не зробили б ви мені сукню на вечір? Вона має бути милою, романтичною і теплою. Я була б рада заплатити {0} за роботу."
+  "uk": "Чи не зробили б ви мені сукню на вечір? Вона має бути милою, романтичною і теплою. Я була б рада заплатити {0} за роботу.",
+  "status": "manual"
  },
  "dialogue:7392685330370723": {
   "src": "d78b783a1ed4",
-  "uk": "«Прийняти замовлення» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Прийняти замовлення"
+  "uk": "Прийняти замовлення",
+  "status": "manual"
  },
  "dialogue:7392685330370724": {
   "src": "de06955a93bc",
-  "uk": "«Дякую. Ваша робота така ж прекрасна, як завжди». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Дякую. Ваша робота така ж прекрасна, як завжди."
+  "uk": "Дякую. Ваша робота така ж прекрасна, як завжди.",
+  "status": "manual"
  },
  "dialogue:7392685330370725": {
   "src": "c882dba16e3a",
-  "uk": "«Якщо ви знову побачите Пруденс, чи не могли б ви їй сказати…?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Якщо ви знову побачите Пруденс, чи не могли б ви їй сказати…?"
+  "uk": "Якщо ви знову побачите Пруденс, чи не могли б ви їй сказати…?",
+  "status": "manual"
  },
  "dialogue:7392685330370726": {
   "src": "1b00a61f67a5",
@@ -33192,9 +32709,8 @@
  },
  "dialogue:7392685330370942": {
   "src": "4d80040218c0",
-  "uk": "«Кравчино, я, мабуть, віддав би перевагу гарно різьбленій гарбузу над герцогом Хасаном».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0"
+  "uk": "Кравчино, я, мабуть, віддав би перевагу гарно різьбленій гарбузу над герцогом Хасаном.",
+  "status": "manual"
  },
  "dialogue:7392685330370943": {
   "src": "e211d69d3ef8",
@@ -35395,7 +34911,7 @@
  },
  "dialogue:7392685330371282": {
   "src": "59c69034c923",
-  "uk": "««Ніхто не захоче справжнього тебе», — казала я собі. «Краще бути ніким, ніж викликати ненависть.»»",
+  "uk": "«Ніхто не захоче справжньої тебе», — казала я собі. «Краще бути ніким, ніж викликати ненависть».",
   "status": "manual"
  },
  "dialogue:7392685330371283": {
@@ -35997,7 +35513,7 @@
  },
  "dialogue:7392685334564888": {
   "src": "3f6af1ea6f5e",
-  "uk": "«Шипи на корінцях».",
+  "uk": "Шипи на корінцях.",
   "status": "manual"
  },
  "dialogue:7392685334564889": {
@@ -36080,10 +35596,8 @@
  },
  "dialogue:7392685334564900": {
   "src": "44d89827eb4c",
-  "uk": "«Як і Сігінус у знаменитій епопеї Монро, <i>Мандрівник Білих Пустель.</i> Не думаю, що ви читали —",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Як і Сігінус у знаменитій епопеї Монро, <i>Мандрівник Білих Пустель.</i> Не думаю, що ви читали —",
+  "status": "manual"
  },
  "dialogue:7392685334564901": {
   "src": "47e54e9578fb",
@@ -36124,10 +35638,8 @@
  },
  "dialogue:7392685334564909": {
   "src": "15406c730214",
-  "uk": "«Доброго вечора, Кравчине. Про всяк випадок, якщо ви мене не пам’ятаєте —",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Доброго вечора, Кравчине. Про всяк випадок, якщо ви мене не пам’ятаєте —",
+  "status": "manual"
  },
  "dialogue:7392685334564910": {
   "src": "801eb290fcd4",
@@ -36187,11 +35699,8 @@
  },
  "dialogue:7392685334564919": {
   "src": "dc6aa00c25de",
-  "uk": ":Я одягла вашу сукню, зробила зачіску. Сказала собі: «Я впевнена, професійна бібліотекарка, гідна того, щоб її запам’ятали».»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": ":Я одягла вашу сукню, зробила зачіску. Я сказала собі: “ти впевнена, професійна бібліотекарка, гідна того, щоб її запам’ятали”.»"
+  "uk": ":Я одягла вашу сукню, зробила зачіску. Сказала собі: «Ти впевнена, професійна бібліотекарка, гідна того, щоб тебе запам’ятали».",
+  "status": "manual"
  },
  "dialogue:7392685334564920": {
   "src": "59f92f44436f",
@@ -36961,45 +36470,33 @@
  },
  "dialogue:7392685334565040": {
   "src": "cc5326a3a1d7",
-  "uk": "«Ніхто раніше не чув цього імені».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ніхто раніше не чув цього імені.",
+  "status": "manual"
  },
  "dialogue:7392685334565041": {
   "src": "327e014e19f3",
-  "uk": "«Тімблтред молода, але виграла всі змагання. Невже це можливо? Хіба що в неї є щось, чого ми не бачимо».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Тімблтред молода, але виграла всі змагання. Невже це можливо? Хіба що в неї є щось, чого ми не бачимо.",
+  "status": "manual"
  },
  "dialogue:7392685334565042": {
   "src": "f4617549183e",
-  "uk": "«Такій могутній істоті не можна дозволити закріпитися на <i>моїй</i> території!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Такій могутній істоті не можна дозволити закріпитися на <i>моїй</i> території!.",
+  "status": "manual"
  },
  "dialogue:7392685334565043": {
   "src": "f7187b63b23f",
-  "uk": "«Ваша…територія?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ваша…територія?.",
+  "status": "manual"
  },
  "dialogue:7392685334565045": {
   "src": "827a5f6b929d",
-  "uk": "«Ох, ви, мабуть, не так почули, ягнятко. Не хвилюйтеся. Забудьте про це».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ох, ви, мабуть, не так почули, ягнятко. Не хвилюйтеся. Забудьте про це.",
+  "status": "manual"
  },
  "dialogue:7392685334565046": {
   "src": "93ce9cd30edc",
-  "uk": "«Утім, мої джерела повідомляють, що Тімблтред планує відвідати останню виставку картин Прії Саммер».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Утім, мої джерела повідомляють, що Тімблтред планує відвідати останню виставку картин Прії Саммер.",
+  "status": "manual"
  },
  "dialogue:7392685334565047": {
   "src": "0ba302d49a79",
@@ -37010,53 +36507,38 @@
  },
  "dialogue:7392685334565048": {
   "src": "1c8cfd50bc98",
-  "uk": "«Можливо, і я піду на цю виставку. Якщо матиму настрій. Подивитися на картини. І поспостерігати за нашим новим…мешканцем міста».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Можливо, і я піду на цю виставку. Якщо матиму настрій. Подивитися на картини. І поспостерігати за нашим новим…мешканцем міста.",
+  "status": "manual"
  },
  "dialogue:7392685334565049": {
   "src": "12af140037a0",
-  "uk": "«Ягнятко, ти не зробила б мені сукню, всипану паєтками, розкішну для цієї нагоди? Щось пікантне, готичне, вишукане. Задовольни мене, і я винагороджу тебе {0}».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ягнятко, ти не зробила б мені сукню, всипану паєтками, розкішну для цієї нагоди? Щось пікантне, готичне, вишукане. Задовольни мене, і я винагороджу тебе {0}.",
+  "status": "manual"
  },
  "dialogue:7392685334565050": {
   "src": "d78b783a1ed4",
-  "uk": "«Прийняти замовлення».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Прийняти замовлення.",
+  "status": "manual"
  },
  "dialogue:7392685334565051": {
   "src": "8d392fc19f1c",
-  "uk": "«Ох, ох».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ох, ох.",
+  "status": "manual"
  },
  "dialogue:7392685334565052": {
   "src": "70ca445a3f55",
-  "uk": "«Ти добре попрацювала, ягнятко. Ця сукня чудово на мені сидить».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ти добре попрацювала, ягнятко. Ця сукня чудово на мені сидить.",
+  "status": "manual"
  },
  "dialogue:7392685334565053": {
   "src": "59f56ff730f9",
-  "uk": "«Обережно. Я можу до тебе надміру прив’язатися».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Обережно. Я можу до тебе небезпечно прив’язатися»."
+  "uk": "Обережно. Я можу до тебе надміру прив’язатися.",
+  "status": "manual"
  },
  "dialogue:7392685334565054": {
   "src": "bf8ede6939e0",
-  "uk": "«На добраніч».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "На добраніч.",
+  "status": "manual"
  },
  "dialogue:7392685334565055": {
   "src": "2b206f0cf7f8",
@@ -37065,10 +36547,8 @@
  },
  "dialogue:7392685334565056": {
   "src": "80122c9b83c2",
-  "uk": "«Хіба ти не знаєш, що в твоїх інтересах мене радувати?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Хіба ти не знаєш, що в твоїх інтересах мене радувати?.",
+  "status": "manual"
  },
  "dialogue:7392685334565057": {
   "src": "9b0eea45e164",
@@ -37077,18 +36557,13 @@
  },
  "dialogue:7392685334565058": {
   "src": "9ba734a94530",
-  "uk": "«Задля твого ж блага».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Заради тебе самої»."
+  "uk": "Задля твого ж блага.",
+  "status": "manual"
  },
  "dialogue:7392685334565062": {
   "src": "371e471ec963",
-  "uk": "«Вівіан хоче оксамитову сукню, щоб полювати вночі».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вівіан хоче оксамитову сукню, щоб полювати вночі.",
+  "status": "manual"
  },
  "dialogue:7392685334565063": {
   "src": "8d392fc19f1c",
@@ -37097,31 +36572,23 @@
  },
  "dialogue:7392685334565064": {
   "src": "aedeccb20cf0",
-  "uk": "«Свіжа кров у Твіллфорді».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Свіжа кров у Твіллфорді.",
+  "status": "manual"
  },
  "dialogue:7392685334565065": {
   "src": "b80c91f3e539",
-  "uk": "«Е…добрий вечір…».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Е…добрий вечір….",
+  "status": "manual"
  },
  "dialogue:7392685334565066": {
   "src": "381c440d28e4",
-  "uk": "«Остання кравчиня покинула місто майже десять років тому. Вона була милою. Лагідною. Завжди готова догодити».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Остання кравчиня покинула місто майже десять років тому. Вона була милою. Лагідною. Завжди готова догодити.",
+  "status": "manual"
  },
  "dialogue:7392685334565067": {
   "src": "a70dda9c6db5",
-  "uk": "«Відтоді про неї нічого не чути. Дивно, чи…вона не зустріла на дорозі неприємностей».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Відтоді про неї нічого не чути. Дивно, чи…вона не зустріла на дорозі неприємностей.",
+  "status": "manual"
  },
  "dialogue:7392685334565068": {
   "src": "6c97a8aad97b",
@@ -37132,262 +36599,183 @@
  },
  "dialogue:7392685334565069": {
   "src": "1ad97e898f7e",
-  "uk": "«Хоча тепер у нас є ви, чи не так? Дивовижна нова кравчиня».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Хоча тепер у нас є ви, чи не так? Дивовижна нова кравчиня». "
+  "uk": "Хоча тепер у нас є ви, чи не так? Дивовижна нова кравчиня.",
+  "status": "manual"
  },
  "dialogue:7392685334565070": {
   "src": "12f8bdf47c66",
-  "uk": "«Мм. Підозрюю, що ви припадете мені до смаку навіть більше, ніж дорога покійна Міна».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Мм. Підозрюю, що ви припадете мені до смаку навіть більше, ніж дорога покійна Міна». "
+  "uk": "Мм. Підозрюю, що ви припадете мені до смаку навіть більше, ніж дорога покійна Міна.",
+  "status": "manual"
  },
  "dialogue:7392685334565072": {
   "src": "5af9348fbce5",
-  "uk": "«Ця красуня — твоя?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Ця прекрасна істота — ваша?» "
+  "uk": "Ця красуня — твоя?",
+  "status": "manual"
  },
  "dialogue:7392685334565073": {
   "src": "078d2d3e558f",
-  "uk": "«Так, це моя кішка». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Так, це моя кішка.",
+  "status": "manual"
  },
  "dialogue:7392685334565074": {
   "src": "485bdecd97ef",
-  "uk": "«Як розчаровує. Кішка не відповідає на мої ніжні почуття». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Як розчаровує. Кішка не відповідає на мої ніжні почуття.",
+  "status": "manual"
  },
  "dialogue:7392685334565075": {
   "src": "901fdd2d0ba6",
-  "uk": "«Вибачте, вона ніколи раніше так не робила». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вибачте, вона ніколи раніше так не робила.",
+  "status": "manual"
  },
  "dialogue:7392685334565076": {
   "src": "0e706087082a",
-  "uk": "«Мм? Ну, вона, мабуть, ніколи раніше не зустрічала нікого мого… типу». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Мм? Ну, вона, мабуть, ніколи раніше не зустрічала нікого мого… типу.",
+  "status": "manual"
  },
  "dialogue:7392685334565077": {
   "src": "493e5a4a235f",
-  "uk": "«Я — леді Вівіан Даскборн. А ви —?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я — леді Вівіан Даскборн. А ви —?",
+  "status": "manual"
  },
  "dialogue:7392685334565078": {
   "src": "61afaf61bb59",
-  "uk": "«Переймаюся моєю кішкою». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Переймаюся моєю кішкою.",
+  "status": "manual"
  },
  "dialogue:7392685334565079": {
   "src": "bddff0823097",
-  "uk": "«Більшість чудових нічних хижаків можуть самі про себе подбати, знаєте». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Більшість чудових нічних хижаків можуть самі про себе подбати, знаєте.",
+  "status": "manual"
  },
  "dialogue:7392685334565080": {
   "src": "101160a0147f",
-  "uk": "«Ваш покірний слуга». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ваш покірний слуга.",
+  "status": "manual"
  },
  "dialogue:7392685334565081": {
   "src": "8e924fe1bf8b",
-  "uk": "«О, о. Вже прагнете служити?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "О, о. Вже прагнете служити?",
+  "status": "manual"
  },
  "dialogue:7392685334565082": {
   "src": "3e17a1d0bfff",
-  "uk": "«Збираюся купити часник». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Збираюся купити часник.",
+  "status": "manual"
  },
  "dialogue:7392685334565083": {
   "src": "cb819029ad11",
-  "uk": "«Але навіщо?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Але навіщо?",
+  "status": "manual"
  },
  "dialogue:7392685334565085": {
   "src": "7c51a784911f",
-  "uk": "«Я передбачаю, що ми станемо набагато ближче знайомі, Кравчине. Дозвольте запропонувати вам замовлення». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я передбачаю, що ми станемо набагато ближче знайомі, Кравчине. Дозвольте запропонувати вам замовлення.",
+  "status": "manual"
  },
  "dialogue:7392685334565086": {
   "src": "cef8a339d8ea",
-  "uk": "«Я часто буваю вночі за кордоном — не могли б ви одягнути мене в розкішний оксамит? Я хочу щось зухвале, готичне та гламурне. А щодо оплати… ви отримаєте {0}». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я часто буваю вночі за кордоном — не могли б ви одягнути мене в розкішний оксамит? Я хочу щось зухвале, готичне та гламурне. А щодо оплати… ви отримаєте {0}.",
+  "status": "manual"
  },
  "dialogue:7392685334565087": {
   "src": "d78b783a1ed4",
-  "uk": "«Прийняти замовлення» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Прийняти замовлення",
+  "status": "manual"
  },
  "dialogue:7392685334565088": {
   "src": "8ee4996b7d0f",
-  "uk": "«Хм». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Хм.",
+  "status": "manual"
  },
  "dialogue:7392685334565089": {
   "src": "8fe0d52eca5d",
-  "uk": "«Ви мене потішили, Кравчине». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Ви порадували мене, Кравчине». "
+  "uk": "Ви мене потішили, Кравчине.",
+  "status": "manual"
  },
  "dialogue:7392685334565090": {
   "src": "dfcef1f1dbe7",
-  "uk": "«Продовжуйте в тому ж дусі». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Продовжуйте це робити». "
+  "uk": "Продовжуйте в тому ж дусі.",
+  "status": "manual"
  },
  "dialogue:7392685334565091": {
   "src": "9c9e32c8ff35",
-  "uk": "«На добраніч і солодких снів». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "На добраніч і солодких снів.",
+  "status": "manual"
  },
  "dialogue:7392685334565092": {
   "src": "02e89c1ac18a",
-  "uk": "«Я відчуваю певний зв’язок з вашою кішкою». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я відчуваю певний зв’язок з вашою кішкою.",
+  "status": "manual"
  },
  "dialogue:7392685334565093": {
   "src": "f0b22aa580d7",
-  "uk": "«Дивлячись на цю сукню, я теж хочу сичати». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Дивлячись на цю сукню, я теж хочу сичати.",
+  "status": "manual"
  },
  "dialogue:7392685334565094": {
   "src": "2c57b05dae17",
-  "uk": "«На добраніч, Кравчине. Солодких снів». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "На добраніч, Кравчине. Солодких снів.",
+  "status": "manual"
  },
  "dialogue:7392685334565098": {
   "src": "6f556804b466",
-  "uk": "«Вівіан потрібна нова сукня, щоб бути темним посланцем Адори». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Вівіан потрібна нова сукня, щоб служити темним посланцем Адори». "
+  "uk": "Вівіан потрібна нова сукня, щоб бути темним посланцем Адори.",
+  "status": "manual"
  },
  "dialogue:7392685334565100": {
   "src": "9c4baeca9038",
-  "uk": "«Добрий вечір, Королево Ночі». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Добрий вечір, Королево Ночі.",
+  "status": "manual"
  },
  "dialogue:7392685334565101": {
   "src": "89b3c76fe3ba",
-  "uk": "«У мене були несподівані кілька тижнів. Тижнів захопливих одкровень». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "У мене були несподівані кілька тижнів. Тижнів захопливих одкровень.",
+  "status": "manual"
  },
  "dialogue:7392685334565102": {
   "src": "0e200a891d7a",
-  "uk": "«Адора Тімблтред, наприклад, не така, як я її вважала». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Адора Тімблтред, наприклад, не така, як я її вважала.",
+  "status": "manual"
  },
  "dialogue:7392685334565103": {
   "src": "bb3452d56714",
-  "uk": "«Невже?» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Невже?",
+  "status": "manual"
  },
  "dialogue:7392685334565104": {
   "src": "8d249f98211c",
-  "uk": "«Здається, ви її довірена особа. Я бачила, як вона виходила з вашої крамниці перед моїм приходом сьогодні ввечері». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Здається, ви її довірена особа. Я бачила, як вона виходила з вашої крамниці перед моїм приходом сьогодні ввечері.",
+  "status": "manual"
  },
  "dialogue:7392685334565105": {
   "src": "fb912f62429c",
-  "uk": "«О, то не була Адора. То була принцеса Софі. Вони зовсім різні молоді жінки». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "О, то не була Адора. То була принцеса Софі. Вони зовсім різні молоді жінки.",
+  "status": "manual"
  },
  "dialogue:7392685334565106": {
   "src": "998d11fa4dc6",
-  "uk": "«Які мають однакове обличчя». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Які мають одне й те саме обличчя». "
+  "uk": "Які мають однакове обличчя.",
+  "status": "manual"
  },
  "dialogue:7392685334565107": {
   "src": "2769256ab7f8",
-  "uk": "«Не хвилюйтеся, я беру всі секрети з собою в могилу». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Не хвилюйтеся, я беру всі секрети з собою в могилу.",
+  "status": "manual"
  },
  "dialogue:7392685334565108": {
   "src": "5360d5861b57",
-  "uk": "«У будь-якому разі, два тижні тому я… хм. Спостерігала за Тімблтред». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "У будь-якому разі, два тижні тому я… хм. Спостерігала за Тімблтред.",
+  "status": "manual"
  },
  "dialogue:7392685334565109": {
   "src": "b44b0ecdb23c",
-  "uk": "«Ви за нею стежили». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ви за нею стежили.",
+  "status": "manual"
  },
  "dialogue:7392685334565110": {
   "src": "5cf8d5f3a7e0",
-  "uk": "«Вона привела мене до королівського палацу. Я бачила, як вона піднімалася по стінах, уникала варти й непомітно прослизнула в покої принцеси». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вона привела мене до королівського палацу. Я бачила, як вона піднімалася по стінах, уникала варти й непомітно прослизнула в покої принцеси.",
+  "status": "manual"
  },
  "dialogue:7392685334565111": {
   "src": "cc4a879f49c6",
@@ -37398,78 +36786,58 @@
  },
  "dialogue:7392685334565112": {
   "src": "cac9163bd2c4",
-  "uk": "«І Адора виходить з королівських покоїв, усміхаючись». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "І Адора виходить з королівських покоїв, усміхаючись.",
+  "status": "manual"
  },
  "dialogue:7392685334565113": {
   "src": "fb2fd40b356a",
-  "uk": "«Така зухвала хитрість і вміння! Було захопливо спостерігати. Моє холодне серце зігрілося від цього видовища». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Така зухвала хитрість і вміння! Було захопливо спостерігати. Моє холодне серце зігрілося від цього видовища.",
+  "status": "manual"
  },
  "dialogue:7392685334565114": {
   "src": "7839d9c14eb3",
-  "uk": "«Думати, що я все це час була обманута». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Думати, що я все це час була обманута.",
+  "status": "manual"
  },
  "dialogue:7392685334565115": {
   "src": "46399591113d",
-  "uk": "«Ну, технічно, вона ЗАХОПЛЮЄ вашу територію».",
+  "uk": "Ну, технічно, вона ЗАХОПЛЮЄ вашу територію.",
   "status": "manual"
  },
  "dialogue:7392685334565116": {
   "src": "5b1ffd009ef3",
-  "uk": "«О, королівство вдень не викликає в мене жодного інтересу. Хай сонцепечені маси сперечаються й пітніють над ним». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "О, королівство вдень не викликає в мене жодного інтересу. Хай сонцепечені маси сперечаються й пітніють над ним.",
+  "status": "manual"
  },
  "dialogue:7392685334565117": {
   "src": "9c57883c5140",
-  "uk": "«Але Адора… я думаю, нашій молодій правительці може знадобитися захисник». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Але Адора… я думаю, нашій молодій правительці може знадобитися захисник.",
+  "status": "manual"
  },
  "dialogue:7392685334565118": {
   "src": "8db7ee148cd0",
-  "uk": "«Хтось, хто спостерігатиме за нею в тіні, і, можливо, прибере з її шляху будь-які вперті перешкоди. Секретний темний посланець, так би мовити». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Хтось, хто спостерігатиме за нею в тіні, і, можливо, прибере з її шляху будь-які вперті перешкоди. Секретний темний посланець, так би мовити.",
+  "status": "manual"
  },
  "dialogue:7392685334565119": {
   "src": "84dbc9f40d13",
-  "uk": "«Чому б правителю дня і Королеві Ночі не порозумітися, хм? Звісно, мені потрібно буде одягнутися відповідно». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Чому б правителю дня і Королеві Ночі не порозумітися, хм? Звісно, мені потрібно буде одягнутися відповідно.",
+  "status": "manual"
  },
  "dialogue:7392685334565120": {
   "src": "f0380bb58e43",
-  "uk": "«Королівські кольори — білий і золотий — тож мої будуть чорні та золоті. А як темний представник принцеси, я маю виглядати відповідно готично й вишукано. Подбайте про те, щоб ви включили як коштовності, так і оздоблення. Я дам вам {0}, якщо ви мене потішите». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Королівські кольори — білий і золотий — тож мої будуть чорні та золоті. А як темний представник принцеси, я маю виглядати відповідно готично й вишукано. Подбайте про те, щоб ви включили як коштовності, так і оздоблення. Я дам вам {0}, якщо ви мене потішите.",
+  "status": "manual"
  },
  "dialogue:7392685334565121": {
   "src": "d78b783a1ed4",
-  "uk": "«Прийняти замовлення» ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Прийняти замовлення",
+  "status": "manual"
  },
  "dialogue:7392685334565122": {
   "src": "838ac6f20c09",
-  "uk": "«Бездоганна робота». ",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Бездоганна робота.",
+  "status": "manual"
  },
  "dialogue:7392685334565123": {
   "src": "9218a57f8590",
@@ -37530,7 +36898,7 @@
  },
  "dialogue:7392685334565132": {
   "src": "a7c50a9ff595",
-  "uk": "«Ну, я не проти, але це її вибір».",
+  "uk": "Ну, я не проти, але це її вибір.",
   "status": "manual"
  },
  "dialogue:7392685334565133": {
@@ -37621,7 +36989,7 @@
  },
  "dialogue:7392685334565147": {
   "src": "a7c50a9ff595",
-  "uk": "«Ну, я не проти, але це її вибір».",
+  "uk": "Ну, я не проти, але це її вибір.",
   "status": "manual"
  },
  "dialogue:7392685334565148": {
@@ -37825,52 +37193,38 @@
  },
  "dialogue:7392685334565185": {
   "src": "a2a163669151",
-  "uk": "«Лисиця».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Лисиця.",
+  "status": "manual"
  },
  "dialogue:7392685334565186": {
   "src": "548afd12e7d5",
-  "uk": "«О? То ви вважаєте мене… схожою на лисицю».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "О? То ви вважаєте мене… схожою на лисицю.",
+  "status": "manual"
  },
  "dialogue:7392685334565187": {
   "src": "3771ac9dbe39",
-  "uk": "«Лисичка».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Лисичка.",
+  "status": "manual"
  },
  "dialogue:7392685334565188": {
   "src": "516a81b1ac3f",
-  "uk": "«Ха-ха».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ха-ха.",
+  "status": "manual"
  },
  "dialogue:7392685334565189": {
   "src": "a7bee800cd62",
-  "uk": "«Зайчик-побігайчик».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Зайчик-побігайчик.",
+  "status": "manual"
  },
  "dialogue:7392685334565190": {
   "src": "9a4537ce3771",
-  "uk": "«Це не відповідь, на яку я сподівалася».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Це не відповідь, на яку я сподівалася.",
+  "status": "manual"
  },
  "dialogue:7392685334565191": {
   "src": "9ad17cd87bc2",
-  "uk": "«Це змушує мене засумніватися у вашому судженні».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Це змушує мене засумніватися у вашому судженні.",
+  "status": "manual"
  },
  "dialogue:7392685334565192": {
   "src": "37887f208ed8",
@@ -37884,107 +37238,73 @@
  },
  "dialogue:7392685334565194": {
   "src": "25b6f97099de",
-  "uk": "«Дякую, але ваш вибір мене не зовсім влаштовує».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Дякую, але ваш вибір мене не зовсім задовольняє»."
+  "uk": "Дякую, але ваш вибір мене не зовсім влаштовує.",
+  "status": "manual"
  },
  "dialogue:7392685334565195": {
   "src": "99060af36cfa",
-  "uk": "«Ви ж розумієте, я хочу собі улюбленця, фамільяра».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Ви ж розумієте, я хочу собі улюбленця, знаєте, фамільяра»."
+  "uk": "Ви ж розумієте, я хочу собі улюбленця, фамільяра.",
+  "status": "manual"
  },
  "dialogue:7392685334565196": {
   "src": "493a60de3e58",
-  "uk": "«То великий жаль, що більшість тварин інстинктивно не довіряють мені. Окрім собак, з невідомої причини».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«То великий жаль, що більшість тварин інстинктивно не довіряють мені. Окрім собак, з якоїсь причини»."
+  "uk": "То великий жаль, що більшість тварин інстинктивно не довіряють мені. Окрім собак, з невідомої причини.",
+  "status": "manual"
  },
  "dialogue:7392685334565197": {
   "src": "b831f9ab0088",
-  "uk": "«…мені не подобаються собаки».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "…мені не подобаються собаки.",
+  "status": "manual"
  },
  "dialogue:7392685334565198": {
   "src": "dca8b982706d",
-  "uk": "«Усі люблять собак!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Усі люблять собак!"
+  "uk": "Усі люблять собак!.",
+  "status": "manual"
  },
  "dialogue:7392685334565199": {
   "src": "7890940d3414",
-  "uk": "«То всі помиляються. Вони галасливі, незграбні й надто легко збудливі».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "То всі помиляються. Вони галасливі, незграбні й надто легко збудливі.",
+  "status": "manual"
  },
  "dialogue:7392685334565200": {
   "src": "5d2489bd4ccf",
-  "uk": "«Вам варто взяти цуценя».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вам варто взяти цуценя.",
+  "status": "manual"
  },
  "dialogue:7392685334565201": {
   "src": "152494652a2f",
-  "uk": "«Я не беру цуценя».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я не беру цуценя.",
+  "status": "manual"
  },
  "dialogue:7392685334565202": {
   "src": "6f7055d09ce3",
-  "uk": "«То нехай це буде бладгаунд».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "То нехай це буде бладгаунд.",
+  "status": "manual"
  },
  "dialogue:7392685334565203": {
   "src": "54f2c6e5523d",
-  "uk": "«Це не продуктивна розмова».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Це не продуктивна розмова.",
+  "status": "manual"
  },
  "dialogue:7392685334565204": {
   "src": "43f786485271",
-  "uk": "«Ви могли б назвати його Нібблз».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ви могли б назвати його Нібблз.",
+  "status": "manual"
  },
  "dialogue:7392685334565205": {
   "src": "5b37520fee34",
-  "uk": "«Гаразд! Час для пошиття суконь!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Гаразд! Час для пошиття суконь!"
+  "uk": "Гаразд! Час для пошиття суконь!.",
+  "status": "manual"
  },
  "dialogue:7392685334565206": {
   "src": "7d5a35157473",
-  "uk": "«Комахи ніколи не нехтували моєю компанією. Я хочу відзначити їхню толерантність».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комахи ніколи не нехтували моєю компанією. Я хочу відзначити їхню толерантність.",
+  "status": "manual"
  },
  "dialogue:7392685334565207": {
   "src": "fa15c1df67db",
-  "uk": "«У вас проблеми з цуценятами, але ви хочете, щоб я одягла вас як комаху??».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "У вас проблеми з цуценятами, але ви хочете, щоб я одягла вас як комаху??"
+  "uk": "У вас проблеми з цуценятами, але ви хочете, щоб я одягла вас як комаху??.",
+  "status": "manual"
  },
  "dialogue:7392685334565208": {
   "src": "e0cf71a8f584",
@@ -38005,33 +37325,23 @@
  },
  "dialogue:7392685334565211": {
   "src": "e7dfa29d7d9d",
-  "uk": "«Яка спокуслива».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Яка спокуслива річ»."
+  "uk": "Яка спокуслива.",
+  "status": "manual"
  },
  "dialogue:7392685334565212": {
   "src": "7a7785060be2",
-  "uk": "«Ти добре попрацювала, ягнятко».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ти добре попрацювала, ягнятко.",
+  "status": "manual"
  },
  "dialogue:7392685334565213": {
   "src": "259051c84a6c",
-  "uk": "«Хоча… можливо, твій темперамент краще відображає собака».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Хоча… можливо, твій характер краще відображає собака»."
+  "uk": "Хоча… можливо, твій темперамент краще відображає собака.",
+  "status": "manual"
  },
  "dialogue:7392685334565214": {
   "src": "27265854d56c",
-  "uk": "«Добра робота, цуценятко».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Добра робота, цуценятко.",
+  "status": "manual"
  },
  "dialogue:7392685334565215": {
   "src": "1b11386b1510",
@@ -38049,10 +37359,8 @@
  },
  "dialogue:7392685334565217": {
   "src": "f5f0c4d3cb3b",
-  "uk": "«Бо те, що ти створила, — це, безумовно, трагедія».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Бо те, що ти створила, — це, безумовно, трагедія.",
+  "status": "manual"
  },
  "dialogue:7392685334565221": {
   "src": "7bbd3e8a4595",
@@ -38068,24 +37376,18 @@
  },
  "dialogue:7392685334565224": {
   "src": "8ffd43abb454",
-  "uk": "«Справді. Я не можу бути <i>настільки</i> образливою».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Справді. Я не можу бути <i>настільки</i> образливою.",
+  "status": "manual"
  },
  "dialogue:7392685334565225": {
   "src": "e5e3fce39d74",
-  "uk": "«Цікаво, що ти відвідуєш мене лише ввечері».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Цікаво, що ти відвідуєш мене лише ввечері.",
+  "status": "manual"
  },
  "dialogue:7392685334565226": {
   "src": "9a57e6dd1318",
-  "uk": "«Сонце погано впливає на колір обличчя».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Сонце погано впливає на колір обличчя.",
+  "status": "manual"
  },
  "dialogue:7392685334565227": {
   "src": "868a935f486c",
@@ -38097,116 +37399,78 @@
  },
  "dialogue:7392685334565228": {
   "src": "d22bf974faff",
-  "uk": "«Вона попросила ввічливо».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вона попросила ввічливо.",
+  "status": "manual"
  },
  "dialogue:7392685334565229": {
   "src": "5368a2ca1109",
-  "uk": "«І потім менш ввічливо, і набагато голосніше. Точне формулювання було “ВІДКРИЙТЕ БРАМИ В ПІДЗЕМНИЙ СВІТ, ЗЛА НІЧНА ЛЕДІ”».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«І потім менш ввічливо, і набагато голосніше. Точне формулювання було “ВІДКРИЙТЕ БРАМИ В ПІДЗЕМНИЙ СВІТ, ЗЛА НІЧНА ПАНІ”»."
+  "uk": "І потім менш ввічливо, і набагато голосніше. Точне формулювання було “ВІДКРИЙТЕ БРАМИ В ПІДЗЕМНИЙ СВІТ, ЗЛА НІЧНА ЛЕДІ”.",
+  "status": "manual"
  },
  "dialogue:7392685334565230": {
   "src": "5abbcc3b735c",
-  "uk": "«Я вважаю це… чарівно відвертим».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Я вважаю це… чарівно прямолінійним»."
+  "uk": "Я вважаю це… чарівно відвертим.",
+  "status": "manual"
  },
  "dialogue:7392685334565231": {
   "src": "ff4199ddecd1",
-  "uk": "«Крім того, як я могла відмовити? Така мила дівчина не повинна займатися темними мистецтвами без нагляду».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Крім того, як я могла відмовити? Така мила дівчина не повинна займатися темними мистецтвами без нагляду.",
+  "status": "manual"
  },
  "dialogue:7392685334565232": {
   "src": "205a52ea2cc3",
-  "uk": "«Якщо цей сеанс настільки важливий для неї, хто я така, щоб відмовити їй?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Якщо цей сеанс настільки важливий для неї, хто я така, щоб відмовити їй?"
+  "uk": "Якщо цей сеанс настільки важливий для неї, хто я така, щоб відмовити їй?.",
+  "status": "manual"
  },
  "dialogue:7392685334565233": {
   "src": "06bfac329b1e",
-  "uk": "«Це… дивно приємно з вашого боку».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Це… дивно мило з твого боку»."
+  "uk": "Це… дивно приємно з вашого боку.",
+  "status": "manual"
  },
  "dialogue:7392685334565234": {
   "src": "55e0bfc50c88",
-  "uk": "«О, але я дуже мила, ягнятко».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "О, але я дуже мила, ягнятко.",
+  "status": "manual"
  },
  "dialogue:7392685334565235": {
   "src": "d8c88815e311",
-  "uk": "«Ти не думаєш, що я <i>лиходійка</i>, хіба ні?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ти не думаєш, що я <i>лиходійка</i>, хіба ні?"
+  "uk": "Ти не думаєш, що я <i>лиходійка</i>, хіба ні?.",
+  "status": "manual"
  },
  "dialogue:7392685334565236": {
   "src": "67078788bff2",
-  "uk": "«Без коментарів».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Без коментарів.",
+  "status": "manual"
  },
  "dialogue:7392685334565237": {
   "src": "91d38b1757de",
-  "uk": "«Хі-хі. Така напружена».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Хі-хі. Така напружена.",
+  "status": "manual"
  },
  "dialogue:7392685334565238": {
   "src": "d584d21604ae",
-  "uk": "«Не хвилюйся — Еліс надто чиста душею, щоб я могла її зіпсувати. Зі мною їй безпечно».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Не хвилюйся — Еліс надто чиста душею, щоб я могла її зіпсувати. Зі мною їй безпечно.",
+  "status": "manual"
  },
  "dialogue:7392685334565239": {
   "src": "e88ab3ea0e17",
-  "uk": "«До того ж, я знаю, що таке бути іншою. Еліс зовсім одна, і я… відчуваю обов’язок наглядати за нею».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "До того ж, я знаю, що таке бути іншою. Еліс зовсім одна, і я… відчуваю обов’язок наглядати за нею.",
+  "status": "manual"
  },
  "dialogue:7392685334565240": {
   "src": "258fa25d5418",
-  "uk": "«Ви надто м’які для лиходійки».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ви надто м’які для лиходійки."
+  "uk": "Ви надто м’які для лиходійки.",
+  "status": "manual"
  },
  "dialogue:7392685334565241": {
   "src": "b0204f3c3acd",
-  "uk": "«Обережно, ягнятко. Я все ще кусаюся».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Обережно, ягнятко. Я все ще кусаюся."
+  "uk": "Обережно, ягнятко. Я все ще кусаюся.",
+  "status": "manual"
  },
  "dialogue:7392685334565242": {
   "src": "8b1872e6dd29",
-  "uk": "«Тепер подивимось, чи зможете ви задовольнити мою останню вимогу. Мені потрібна сукня на похорон».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Тепер подивимось, чи зможете ви задовольнити мою останню вимогу. Мені потрібна сукня на похорон."
+  "uk": "Тепер подивимось, чи зможете ви задовольнити мою останню вимогу. Мені потрібна сукня на похорон.",
+  "status": "manual"
  },
  "dialogue:7392685334565243": {
   "src": "cdc559cebe4a",
@@ -38218,11 +37482,8 @@
  },
  "dialogue:7392685334565244": {
   "src": "6acf7402a893",
-  "uk": "«Який жалюгідний настрій».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Який убогий настрій»."
+  "uk": "Який жалюгідний настрій.",
+  "status": "manual"
  },
  "dialogue:7392685334565245": {
   "src": "beb290d8ace5",
@@ -38270,10 +37531,8 @@
  },
  "dialogue:7392685334565252": {
   "src": "303216f87bd4",
-  "uk": "«У цій сукні я висплюся якнайкраще».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "У цій сукні я висплюся якнайкраще.",
+  "status": "manual"
  },
  "dialogue:7392685334565253": {
   "src": "924b24b1c4e8",
@@ -38298,11 +37557,8 @@
  },
  "dialogue:7392685334565256": {
   "src": "e985a994b669",
-  "uk": "«Як цікаво з вашого боку».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Як цікаво з твого боку."
+  "uk": "Як цікаво з вашого боку.",
+  "status": "manual"
  },
  "dialogue:7392685334565257": {
   "src": "4b08547738bc",
@@ -38320,78 +37576,53 @@
  },
  "dialogue:7392685334565259": {
   "src": "5bce60567564",
-  "uk": "«Спіть з одним оком відкритим, ягнятко. Ось моя порада».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спіть з одним оком відкритим, ягнятко. Ось моя порада.",
+  "status": "manual"
  },
  "dialogue:7392685334565263": {
   "src": "84600bbf2051",
-  "uk": "«Вівіан хоче червону сукню, щоб плями не зіпсували її».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вівіан хоче червону сукню, щоб плями не зіпсували її.",
+  "status": "manual"
  },
  "dialogue:7392685334565264": {
   "src": "996a2ee43f5a",
-  "uk": "«Геть, проклята пляма; геть, кажу!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Геть, проклята пляма; геть, кажу!"
+  "uk": "Геть, проклята пляма; геть, кажу!.",
+  "status": "manual"
  },
  "dialogue:7392685334565265": {
   "src": "bab36646df1b",
-  "uk": "«Щось трапилось?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Щось трапилось?"
+  "uk": "Щось трапилось?.",
+  "status": "manual"
  },
  "dialogue:7392685334565266": {
   "src": "6a8047d60e9f",
-  "uk": "«Ох, солодка ягнятко. Я знову пролила вино на сукню. Проклята пляма не виводиться».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ох, солодка ягнятко. Я знову пролила вино на сукню. Проклята пляма не виводиться."
+  "uk": "Ох, солодка ягнятко. Я знову пролила вино на сукню. Проклята пляма не виводиться.",
+  "status": "manual"
  },
  "dialogue:7392685334565267": {
   "src": "d35ef803aab5",
-  "uk": "«Ось…чому б тобі не придивитися ближче?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ось…чому б тобі не придивитися ближче?"
+  "uk": "Ось…чому б тобі не придивитися ближче?.",
+  "status": "manual"
  },
  "dialogue:7392685334565268": {
   "src": "d52a38cb2988",
-  "uk": "«Це кравецька майстерня, а не пральня».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Це кравецька майстерня, а не пральня.",
+  "status": "manual"
  },
  "dialogue:7392685334565269": {
   "src": "91a85c36ac91",
-  "uk": "«Але хіба ви не хочете мене втішити в моїй біді? Це вже четверта сукня, яку я забруднила цього місяця».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Але хіба ви не хочете мене втішити в моїй біді? Це вже четверта сукня, яку я забруднила цього місяця.",
+  "status": "manual"
  },
  "dialogue:7392685334565270": {
   "src": "ffb7549e715c",
-  "uk": "«Я в розпачі. Підійдіть ближче».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я в розпачі. Підійдіть ближче.",
+  "status": "manual"
  },
  "dialogue:7392685334565271": {
   "src": "42852080221b",
-  "uk": "«Ну, якщо це від <i>вина</i>, я раджу поташ і гарячу воду. Інші плями, однак, потребують—».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ну, якщо це від <i>вина</i>, я раджу поташ і гарячу воду. Інші плями, однак, потребують—"
+  "uk": "Ну, якщо це від <i>вина</i>, я раджу поташ і гарячу воду. Інші плями, однак, потребують—.",
+  "status": "manual"
  },
  "dialogue:7392685334565272": {
   "src": "8b4c9f4993ed",
@@ -38400,38 +37631,28 @@
  },
  "dialogue:7392685334565273": {
   "src": "aa524da4cb8a",
-  "uk": "«Мабуть, ви думаєте, що я утримуватиму вас на плаву, зважаючи на те, скільки нових суконь я купую?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Мабуть, ви думаєте, що я утримуватиму вас на плаву, зважаючи на те, скільки нових суконь я купую?.",
+  "status": "manual"
  },
  "dialogue:7392685334565274": {
   "src": "82f7ec1e1ce7",
-  "uk": "«Я ціную ваше заступництво!».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Я ціную ваше заступництво!.",
+  "status": "manual"
  },
  "dialogue:7392685334565275": {
   "src": "e3bf82ed834d",
-  "uk": "«…вам пощастило, що я вас вважаю чарівною, ягнятко».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "…вам пощастило, що я вас вважаю чарівною, ягнятко.",
+  "status": "manual"
  },
  "dialogue:7392685334565276": {
   "src": "975043915079",
-  "uk": "«Добре — ви можете пошити мені нову вечірню сукню. Вона має бути повністю червоною, щоб майбутні плями від вина не були помітні. Щось зухвале, готичне та гламурне підійде. Ви можете мати {0}».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Добре — ви можете пошити мені нову вечірню сукню. Вона має бути повністю червоною, щоб майбутні плями від вина не були помітні. Щось зухвале, готичне та гламурне підійде. Ви можете мати {0}.",
+  "status": "manual"
  },
  "dialogue:7392685334565277": {
   "src": "d78b783a1ed4",
-  "uk": "«Прийняти замовлення».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Прийняти замовлення.",
+  "status": "manual"
  },
  "dialogue:7392685334565278": {
   "src": "4b210a7e0b44",
@@ -38440,68 +37661,48 @@
  },
  "dialogue:7392685334565279": {
   "src": "6c5886b205d1",
-  "uk": "«Саме як… вишукане вино».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Саме як…вишукане вино»."
+  "uk": "Саме як… вишукане вино.",
+  "status": "manual"
  },
  "dialogue:7392685334565280": {
   "src": "bcef9bb37d23",
-  "uk": "«Смачно».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Смачно.",
+  "status": "manual"
  },
  "dialogue:7392685334565281": {
   "src": "888f0f7d82ea",
-  "uk": "«Хм».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Хм.",
+  "status": "manual"
  },
  "dialogue:7392685334565282": {
   "src": "3f9360a13101",
-  "uk": "«Знаєте? Мені здається, моя теперішня сукня недостатньо заплямована».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Знаєте? Мені здається, моя теперішня сукня недостатньо забруднена»."
+  "uk": "Знаєте? Мені здається, моя теперішня сукня недостатньо заплямована.",
+  "status": "manual"
  },
  "dialogue:7392685334565283": {
   "src": "e8e3b5feeabf",
-  "uk": "«Можливо, мені доведеться це виправити».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Можливо, мені доведеться це виправити.",
+  "status": "manual"
  },
  "dialogue:7392685334565284": {
   "src": "cfbd33c2323b",
-  "uk": "«Можливо, я побачу вас пізніше».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Можливо, я побачу вас пізніше.",
+  "status": "manual"
  },
  "dialogue:7392685334565288": {
   "src": "665f87996936",
-  "uk": "«Вівіан потрібна страшна сукня, щоб вселити жах у серця її ворогів».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вівіан потрібна страшна сукня, щоб вселити жах у серця її ворогів.",
+  "status": "manual"
  },
  "dialogue:7392685334565289": {
   "src": "0951eb6fe650",
-  "uk": "«Привіт, ягнятко».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Привіт, ягнятко.",
+  "status": "manual"
  },
  "dialogue:7392685334565290": {
   "src": "3615f9887b7e",
-  "uk": "«До побачення, котику».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "До побачення, котику.",
+  "status": "manual"
  },
  "dialogue:7392685334565291": {
   "src": "87abd7d77f95",
@@ -38510,24 +37711,18 @@
  },
  "dialogue:7392685334565292": {
   "src": "42bf95b8a0e7",
-  "uk": "«Але я не повинна відволікатися».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Але я не повинна відволікатися.",
+  "status": "manual"
  },
  "dialogue:7392685334565293": {
   "src": "470ed7e7d596",
-  "uk": "«Ви чули, маленьке ягнятко, що Адора Тімблтред знову в русі?».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ви чули, маленьке ягнятко, що Адора Тімблтред знову в русі?.",
+  "status": "manual"
  },
  "dialogue:7392685334565294": {
   "src": "62b80a33e553",
-  "uk": "«Мої джерела повідомляють, що вона має намір взяти участь у майбутньому заході з спостереження за зірками».",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Мої джерела повідомляють, що вона має намір взяти участь у майбутньому заході з спостереження за зірками.",
+  "status": "manual"
  },
  "dialogue:7392685334565295": {
   "src": "d098a3109199",
@@ -39252,10 +38447,8 @@
  },
  "dialogue:7392685334565406": {
   "src": "9765b17ea84f",
-  "uk": "«Як витончено! Наша секція класики дуже добре укомплектована; у довідковому розділі є найрозкішніше ілюстроване видання <i>«Сніг на Попелястих Берегах»</i>.",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Як витончено! Наша секція класики дуже добре укомплектована; у довідковому розділі є найрозкішніше ілюстроване видання <i>«Сніг на Попелястих Берегах»</i>.",
+  "status": "manual"
  },
  "dialogue:7392685334565407": {
   "src": "47b66e0a14f5",
@@ -39287,11 +38480,8 @@
  },
  "dialogue:7392685334565411": {
   "src": "425a99bd7de2",
-  "uk": "«Ми нещодавно придбали повне зібрання творів Нори Девіс; ви просто мусите позичити <i>«Помста вбивчих ракоподібних»</i>.",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "«Ми нещодавно придбали повне зібрання творів Нори Девіс; ви просто мусите взяти в оренду <i>«Помста вбивчих ракоподібних»</i>."
+  "uk": "Ми нещодавно придбали повне зібрання творів Нори Девіс; ви просто мусите позичити <i>«Помста вбивчих ракоподібних»</i>.",
+  "status": "manual"
  },
  "dialogue:7392685334565412": {
   "src": "d14d23b850dc",
@@ -39506,10 +38696,8 @@
  },
  "dialogue:7392685334565445": {
   "src": "340b08db4c0d",
-  "uk": "««Бо-ок ле-ді».»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "«Бо-ок ле-ді».",
+  "status": "manual"
  },
  "dialogue:7392685334565449": {
   "src": "98ff0ab4505f",

@@ -125,12 +125,17 @@ def validate(en, uk, allowed_latin=()):
     if len(leftover) >= 3:
         errs.append(f"залишилися англійські слова: {leftover[:6]}")
     en_body = PREFIX_RE.sub("", en).lstrip()
-    uk_body = PREFIX_RE.sub("", uk)
+    # пробіли по краях і розділовий знак після лапки («Так».) не мають ховати обгортку
+    uk_body = re.sub(r"(?<=[»\"”])[.!?…]+$", "", PREFIX_RE.sub("", uk).strip())
     wrapped = (uk_body.startswith("«") and uk_body.endswith("»")) or \
               (uk_body.startswith('"') and uk_body.endswith('"')) or \
               (uk_body.startswith("“") and uk_body.endswith("”"))
     if wrapped and not en_body.startswith(('"', "“", "‘", "'", "«")):
         errs.append("зайві лапки навколо всього рядка — в оригіналі їх немає")
+    if uk != uk.rstrip() and en == en.rstrip():
+        errs.append("зайвий пробіл у кінці рядка")
+    if uk.count("«") != uk.count("»") and en.count("“") == en.count("”"):
+        errs.append("непарні лапки «»")
     if len(uk) > 3 * len(en) + 40:
         errs.append("переклад підозріло довгий")
     return errs

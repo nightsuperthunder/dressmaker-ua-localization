@@ -31,7 +31,7 @@ namespace DressmakerUA
     public class Plugin : BaseUnityPlugin
     {
         public const string Guid = "ua.dressmaker.localization";
-        public const string Version = "1.2.3";
+        public const string Version = "1.2.4";
 
         internal static ManualLogSource Log;
         internal static Plugin Instance;
@@ -81,7 +81,8 @@ namespace DressmakerUA
 
         // ---------- текст, що не вміщається у вузькі кнопки ----------
 
-        private static readonly HashSet<int> AutoSized = new HashSet<int>();
+        // id напису → авторський розмір шрифту (-1: напис з ланцюжка колонок, не чіпаємо)
+        private static readonly Dictionary<int, float> AutoSized = new Dictionary<int, float>();
 
         /// <summary>
         /// Вмикає автомасштабування напису: якщо переклад не вміщається, TMP зменшить шрифт,
@@ -91,17 +92,47 @@ namespace DressmakerUA
         {
             if (text == null || !AutoSizeText.Value || text.enableAutoSizing) return;
             if (!IsOurLocale(LocalizationSettings.SelectedLocale)) return;
-            if (!AutoSized.Add(text.GetInstanceID())) return;
+            // колонки газети: текст перетікає в наступний напис, місця вистачає й так
+            if (text.overflowMode == TextOverflowModes.Linked || text.linkedTextComponent != null) return;
+            int id = text.GetInstanceID();
+            if (AutoSized.ContainsKey(id)) return;
             float authored = text.fontSize;
             if (authored <= 0f) return;
+            AutoSized[id] = authored;
             text.fontSizeMax = authored;
-            text.fontSizeMin = Mathf.Max(6f, authored * Mathf.Clamp(AutoSizeMinRatio.Value, 0.2f, 1f));
+            // мінімум ніколи не більший за авторський розмір: написи в 3D-сцені (циферблат точності,
+            // сантиметр на манекені) мають розмір < 6, і «мінімум 6» роздував їх на пів екрана
+            text.fontSizeMin = Mathf.Min(authored,
+                Mathf.Max(6f, authored * Mathf.Clamp(AutoSizeMinRatio.Value, 0.2f, 1f)));
             text.enableAutoSizing = true;
+        }
+
+        /// <summary>
+        /// Наступні колонки ланцюжка (linkedTextComponent) самі не знають, що вони частина ланцюжка,
+        /// тому могли отримати автомасштаб в OnEnable ще до сканування сцени — повертаємо їм авторський розмір.
+        /// </summary>
+        private static void ExcludeLinkedChain(TMP_Text head)
+        {
+            var t = head.linkedTextComponent;
+            for (int i = 0; t != null && t != head && i < 32; i++, t = t.linkedTextComponent)
+            {
+                int id = t.GetInstanceID();
+                if (AutoSized.TryGetValue(id, out float authored) && authored > 0f)
+                {
+                    t.enableAutoSizing = false;
+                    t.fontSize = authored;
+                }
+                AutoSized[id] = -1f;
+            }
         }
 
         private static void ScanScene(Scene scene, LoadSceneMode mode)
         {
-            foreach (var text in Resources.FindObjectsOfTypeAll<TMP_Text>())
+            var texts = Resources.FindObjectsOfTypeAll<TMP_Text>();
+            foreach (var text in texts)
+                if (text != null && text.linkedTextComponent != null)
+                    ExcludeLinkedChain(text);
+            foreach (var text in texts)
                 ApplyAutoSize(text);
         }
 

@@ -136,6 +136,13 @@ def validate(en, uk, allowed_latin=()):
         errs.append("зайвий пробіл у кінці рядка")
     if uk.count("«") != uk.count("»") and en.count("“") == en.count("”"):
         errs.append("непарні лапки «»")
+    if re.search(r"«[“\"]|[”\"]»", uk):
+        errs.append("подвійні лапки «“…”» — лишіть тільки «…»")
+    # залишок після зняття лапок: «Тихіше!». → Тихіше!.
+    if re.search(r"[!?…]\.$", uk.strip()) and not re.search(r"[!?…]\.$", en.strip()):
+        errs.append("зайва крапка після !, ? або …")
+    if "Кравчино" in uk:
+        errs.append("кличний відмінок від «Кравчиня» — «Кравчине»")
     if len(uk) > 3 * len(en) + 40:
         errs.append("переклад підозріло довгий")
     return errs

@@ -8,14 +8,17 @@
   python scripts/context_review.py                       # усі діалоги
   python scripts/context_review.py --limit 200           # спробувати на шматку
   python scripts/context_review.py --model gemma4:26b-a4b-it-q4_K_M --no-think
+  python scripts/context_review.py --gender ...          # лише рід / фемінітиви -> work/gender_review.csv
 """
 import argparse
 import csv
+import difflib
 import json
 import time
 import urllib.error
+from pathlib import Path
 
-from common import (GLOSSARY, STRINGS, STYLE, TRANSLATIONS, WORK, load_json,
+from common import (GLOSSARY, STRINGS, STYLE, TRANSLATIONS, WORK, load_json, validate,
                     save_json)
 from translate import DEFAULT_MODEL, call_raw, glossary_for, ui_terms
 
@@ -45,6 +48,34 @@ REVIEWER = """
 Відповідь — JSON: {"issues": [{"n": номер, "kind": "meaning|gender|referent|name|pun|term",
 "why": "що саме не так, коротко", "fix": "виправлений переклад цілком"}]}
 Поле "fix" має відрізнятися від наявного перекладу і зберігати теги, плейсхолдери {0} та префікси.
+"""
+
+GENDER = """
+
+ТВОЯ РОЛЬ ЗАРАЗ — РЕДАКТОР, ЯКИЙ ПЕРЕВІРЯЄ ЛИШЕ ГРАМАТИЧНИЙ РІД. Тобі дають шматок діалогу:
+англійський оригінал, український переклад і сусідні репліки для контексту.
+
+Факти: Кравчиня (the Dressmaker, гравець) — ЖІНКА. Більшість клієнток — жінки. Стать інших
+персонажів — з глосарію, коментарів розробників і англійських займенників (she/her, he/him).
+
+Шукай ЛИШЕ такі помилки:
+- жінку (зокрема Кравчиню) названо іменником чоловічого роду: художник → художниця, продавець → продавчиня,
+  клієнт → клієнтка, друг/друже → подруга/подруго, кравець → кравчиня, співак → співачка, власник → власниця;
+- прикметник, дієприкметник чи дієслово минулого часу про жінку стоїть у чоловічому роді
+  («я був впевнений» у репліці Кравчині чи іншої жінки → «я була впевнена»; «мій дорогий друже» до Кравчині → «моя дорога подруго»);
+- навпаки: чоловіка описано жіночим родом.
+
+СУВОРО ЗАБОРОНЕНО:
+- повідомляти про будь-що інше (зміст, стиль, пунктуація, синоніми);
+- змінювати рід, якщо з контексту НЕ ясно, хто говорить чи про кого йдеться — тоді мовчи;
+- чіпати множину та звертання на «ви» з дієсловами у множині («ви зробили», «ви такі талановиті») — це правильно;
+- переробляти репліки чоловіків на жіночий рід.
+
+Якщо помилок немає — поверни порожній список. Це нормальна й найчастіша відповідь.
+
+Відповідь — JSON: {"issues": [{"n": номер, "kind": "gender",
+"why": "хто це (жінка/чоловік) і яке слово не того роду", "fix": "виправлений переклад цілком"}]}
+У "fix" змінюй лише слова з неправильним родом, решту тексту, теги й плейсхолдери лиши як є.
 """
 
 SCHEMA = {
@@ -99,7 +130,7 @@ def main():
     ap.add_argument("--limit", type=int, help="скільки рядків перевірити (для проби)")
     ap.add_argument("--start", type=int, default=0)
     ap.add_argument("--tr", default=str(TRANSLATIONS))
-    ap.add_argument("--csv", default=str(WORK / "context_review.csv"))
+    ap.add_argument("--csv")
     ap.add_argument("--items", type=int, default=10, help="рядків у партії")
     ap.add_argument("--before", type=int, default=6, help="скільки реплік контексту перед партією")
     ap.add_argument("--after", type=int, default=3, help="скільки реплік контексту після партії")
@@ -107,6 +138,10 @@ def main():
     ap.add_argument("--temp", type=float, default=0.2)
     ap.add_argument("--no-think", action="store_true")
     ap.add_argument("--only-keys", help="файл зі списком ключів (по одному в рядку) — перевіряти лише їх")
+    ap.add_argument("--gender", action="store_true",
+                    help="перевіряти лише рід / фемінітиви (вихід work/gender_review.csv)")
+    ap.add_argument("--max-words", type=int, default=6,
+                    help="--gender: більші правки не застосовуються, лише позначаються")
     ap.add_argument("--restart", action="store_true", help="почати з нуля, забувши попередній прогін")
     args = ap.parse_args()
 
@@ -114,11 +149,13 @@ def main():
     tr = load_json(args.tr, {})
     terms = load_json(GLOSSARY)["terms"]
     ui = ui_terms(strings, tr)
-    system = STYLE.read_text(encoding="utf-8") + REVIEWER
+    name = "gender_review" if args.gender else "context_review"
+    args.csv = args.csv or str(WORK / f"{name}.csv")
+    system = STYLE.read_text(encoding="utf-8") + (GENDER if args.gender else REVIEWER)
 
-    state_path = WORK / "context_review_state.json"
+    state_path = WORK / f"{name}_state.json"
     done = set() if args.restart else set(load_json(state_path, []))
-    new_csv = args.restart or not WORK.joinpath("context_review.csv").exists()
+    new_csv = args.restart or not Path(args.csv).exists()
 
     order = ["ui", "tutorial", "content", "dialogue"]
     files = args.file or ["dialogue"]
@@ -162,10 +199,22 @@ def main():
                 fix = (data.get("fix") or "").strip()
                 if not r or not fix or fix == r["uk"].strip():
                     continue  # без реальної зміни це не зауваження
+                why = f"[{data.get('kind', '?')}] {data.get('why', '')}"
+                if args.gender:
+                    for q1, q2 in ('«»', '""'):
+                        if fix[:1] == q1 and fix[-1:] == q2 and r["uk"][:1] != q1:
+                            fix = fix[1:-1].strip()
+                    if fix == r["uk"].strip():
+                        continue
+                    # модель любить заодно переписати півречення чи викинути його — таке не приймаємо
+                    a, b = r["uk"].split(), fix.split()
+                    changed = sum(max(i2 - i1, j2 - j1) for t, i1, i2, j1, j2
+                                  in difflib.SequenceMatcher(None, a, b).get_opcodes() if t != "equal")
+                    if changed > args.max_words or validate(r["en"], fix):
+                        why = f"ПЕРЕВІР ВРУЧНУ (пропозиція моделі: {fix}) {why}"
+                        fix = r["uk"]
                 writer.writerow({"key": r["key"], "file": r["file"], "status": tr[r["key"]]["status"],
-                                 "en": r["en"], "uk": data.get("fix") or r["uk"],
-                                 "comment": r["comment"],
-                                 "errors": f"[{data.get('kind', '?')}] {data.get('why', '')}"})
+                                 "en": r["en"], "uk": fix, "comment": r["comment"], "errors": why})
                 found += 1
             out.flush()
             done.update(r["key"] for r in batch)

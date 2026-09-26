@@ -16,6 +16,7 @@ work/*.tmp
 work/test_*.json
 work/backtranslate.json
 work/context_review_state.json
+work/gender_review_state.json
 work/suspects.txt
 work/_*
 

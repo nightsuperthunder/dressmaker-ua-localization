@@ -17,17 +17,19 @@ Dressmaker — українська локалізація (фанатська),
 ЯКЩО НЕ ПРАЦЮЄ
 - Перевірте, чи з'явився файл BepInEx/LogOutput.log після запуску гри.
   Якщо його немає — BepInEx не запустився: перевірте рядок у Параметрах запуску.
-- На Mac з чипом Apple (M1/M2/…) можна спробувати: ПКМ на Dressmaker.app →
-  Отримати інформацію → «Відкривати за допомогою Rosetta».
+- Не вмикайте «Відкривати за допомогою Rosetta» вручну: скрипт запуску сам запускає гру
+  через Rosetta (BepInEx поки не працює на чипах Apple нативно).
 - Напишіть нам і додайте файл BepInEx/LogOutput.log.
 
 ВИДАЛЕННЯ
 Очистіть Параметри запуску в Steam. За бажанням видаліть BepInEx, libdoorstop.dylib,
-run_bepinex.sh, install_ua_macos.sh і .doorstop_version з папки гри.
+run_bepinex.sh, install_ua_macos.sh, .doorstop_version, changelog.txt
+і doorstop_LICENSE.txt з папки гри.
 
 ДЛЯ ПЕРЕКЛАДАЧІВ
 - Переклад: BepInEx/plugins/DressmakerUA/translations/uk.json
 - Шрифти: .ttf/.otf з кирилицею в BepInEx/plugins/DressmakerUA/fonts/ (default.ttf — для всього тексту).
   Без шрифтів використовується системний Georgia (BepInEx/config/ua.dressmaker.localization.cfg).
 
-Використовується BepInEx 5 (https://github.com/BepInEx/BepInEx, LGPL-2.1).
+Використовується BepInEx 5 (https://github.com/BepInEx/BepInEx, LGPL-2.1)
+і UnityDoorstop 4.6.0 (https://github.com/NeighTools/UnityDoorstop, LGPL-2.1).

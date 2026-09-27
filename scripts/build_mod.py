@@ -4,7 +4,7 @@
   python scripts/build_mod.py                   # зібрати
   python scripts/build_mod.py --install         # зібрати і скопіювати в гру (BepInEx має бути встановлений)
   python scripts/build_mod.py --with-bepinex    # покласти в архів BepInEx (для роздачі спільноті)
-  python scripts/build_mod.py --mac-bepinex <розпакований BepInEx_macos_universal>
+  python scripts/build_mod.py --mac-bepinex <розпакований BepInEx_macos_universal> --mac-doorstop <розпакований doorstop_macos_release_4.6.0>
                                                 # додатково mod/DressmakerUA-macOS.zip
 """
 import argparse
@@ -44,14 +44,37 @@ def export_json(path):
     return n
 
 
-def build_mac(bepinex_dir):
-    """Архів для macOS: BepInEx (doorstop через run_bepinex.sh), плагін, скрипт установки."""
+# Рядки run.sh з Doorstop 4.6.0, які треба змінити (міняємо лише рядки з типовими значеннями)
+RUN_SH_EDITS = {
+    'executable_name=""': 'executable_name="Dressmaker.app"',
+    # BepInEx 5.4.23.5 не може патчити гру в нативному arm64 (BepInEx#1402) — лише через Rosetta
+    'archpreference="arm64,x86_64"': 'archpreference="x86_64"',
+    'target_assembly="Doorstop.dll"': 'target_assembly="BepInEx/core/BepInEx.Preloader.dll"',
+}
+
+
+def build_mac(bepinex_dir, doorstop_dir):
+    """Архів для macOS: BepInEx, плагін, скрипт установки.
+
+    Doorstop 4.5.0 з BepInEx 5.4.23.5 не чіпляється до Unity 6000.3 (UnityDoorstop#108),
+    тому libdoorstop.dylib і run.sh беремо з Doorstop 4.6.0 (папка universal/ з doorstop_macos_release).
+    """
     if DIST_MAC.exists():
         shutil.rmtree(DIST_MAC)
     shutil.copytree(bepinex_dir, DIST_MAC)
     shutil.copytree(DIST / "BepInEx", DIST_MAC / "BepInEx", dirs_exist_ok=True)
+    ds = Path(doorstop_dir)
+    shutil.copy2(ds / "universal" / "libdoorstop.dylib", DIST_MAC / "libdoorstop.dylib")
+    shutil.copy2(ds / "universal" / ".doorstop_version", DIST_MAC / ".doorstop_version")
+    shutil.copy2(ds / "LICENSE", DIST_MAC / "doorstop_LICENSE.txt")
     run = DIST_MAC / "run_bepinex.sh"
-    text = run.read_text(encoding="utf-8").replace('executable_name=""', 'executable_name="Dressmaker.app"')
+    text = (ds / "universal" / "run.sh").read_text(encoding="utf-8")
+    lines = text.splitlines()
+    for old, new in RUN_SH_EDITS.items():
+        if lines.count(old) != 1:
+            raise SystemExit(f"run.sh: не знайдено рядок {old!r} — інша версія Doorstop?")
+        lines[lines.index(old)] = new
+    text = "\n".join(lines) + "\n"
     # read_text перетворює CRLF на LF, write_bytes пише як є: sh на macOS потребує LF
     run.write_bytes(text.encode("utf-8"))
     inst = (MOD / "install_ua_macos.sh").read_text(encoding="utf-8")
@@ -76,6 +99,7 @@ def main():
     ap.add_argument("--install", action="store_true")
     ap.add_argument("--with-bepinex", help="шлях до розпакованого BepInEx_win_x64 (для архіву спільноти)")
     ap.add_argument("--mac-bepinex", help="шлях до розпакованого BepInEx_macos_universal (архів для macOS)")
+    ap.add_argument("--mac-doorstop", help="шлях до розпакованого doorstop_macos_release_4.6.0 (потрібен з --mac-bepinex)")
     args = ap.parse_args()
 
     subprocess.check_call(["dotnet", "build", "-c", "Release", f"-p:GameDir={args.game}", "-v", "q", "-nologo"],
@@ -104,7 +128,9 @@ def main():
             z.write(f, f.relative_to(DIST))
     print(f"Архів: {zip_path}")
     if args.mac_bepinex:
-        build_mac(args.mac_bepinex)
+        if not args.mac_doorstop:
+            raise SystemExit("Для macOS потрібен ще --mac-doorstop (Doorstop 4.6.0, див. build_mac)")
+        build_mac(args.mac_bepinex, args.mac_doorstop)
 
     if args.install:
         game = Path(args.game)

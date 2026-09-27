@@ -9,6 +9,7 @@
   python scripts/context_review.py --limit 200           # спробувати на шматку
   python scripts/context_review.py --model gemma4:26b-a4b-it-q4_K_M --no-think
   python scripts/context_review.py --gender ...          # лише рід / фемінітиви -> work/gender_review.csv
+  python scripts/context_review.py --style ...           # лише незграбні фрази / кальки -> work/style_review.csv
 """
 import argparse
 import csv
@@ -78,6 +79,39 @@ GENDER = """
 У "fix" змінюй лише слова з неправильним родом, решту тексту, теги й плейсхолдери лиши як є.
 """
 
+STYLE_ONLY = """
+
+ТВОЯ РОЛЬ ЗАРАЗ — ЛІТЕРАТУРНИЙ РЕДАКТОР. Тобі дають шматок діалогу: англійський оригінал,
+український переклад і сусідні репліки для контексту. Зміст уже перевірено — він правильний.
+
+Шукай ЛИШЕ фрази, на яких носій української спіткнеться під час читання:
+- калька з англійської («є сенс у…» замість «який сенс у…», «робить мене щасливою», «це є…»,
+  «на щоденній основі», «взяти місце», «мати ідею»);
+- зламаний синтаксис, неузгоджені слова, неправильний відмінок чи керування
+  («книжка, яку я подумала, що ти спробуєш», «дякую вас»);
+- неприродний порядок слів, через який речення доводиться перечитувати;
+- русизми та суржик («на протязі», «прийняти участь», «слідуючий», «вірно» замість «правильно»);
+- жарт чи інтонація репліки втрачені через дослівний переклад.
+
+СУВОРО ЗАБОРОНЕНО повідомляти про:
+- фрази, які звучать нормально, хоч і можна сказати інакше, — смакові правки не потрібні;
+- рід, стать, звертання на «ти»/«ви» — це перевіряють окремо;
+- пунктуацію, лапки, регістр, теги;
+- власні назви та терміни з глосарію.
+
+Кожне зауваження має бути таким, щоб редактор-людина погодився: «так, це звучить не по-українськи».
+Якщо все природно — поверни порожній список. Порожній список — нормальна й найчастіша відповідь.
+
+Для кожного зауваження вкажи "severity":
+- "high" — граматична помилка, зламане речення, незрозуміло з першого прочитання;
+- "medium" — явна калька чи русизм, яку помітить кожен читач;
+- "low" — можна сказати трохи краще. Такі зауваження НЕ ДОДАВАЙ узагалі.
+
+Відповідь — JSON: {"issues": [{"n": номер, "kind": "style", "severity": "high|medium",
+"why": "що саме звучить незграбно, коротко", "fix": "виправлений переклад цілком"}]}
+У "fix" перепиши лише незграбне місце, зміст, рід, звертання, теги й плейсхолдери {0} лиши як є.
+"""
+
 SCHEMA = {
     "type": "object",
     "properties": {
@@ -88,7 +122,8 @@ SCHEMA = {
                 "properties": {
                     "n": {"type": "integer"},
                     "kind": {"type": "string",
-                             "enum": ["meaning", "gender", "referent", "name", "pun", "term"]},
+                             "enum": ["meaning", "gender", "referent", "name", "pun", "term", "style"]},
+                    "severity": {"type": "string", "enum": ["high", "medium", "low"]},
                     "why": {"type": "string"},
                     "fix": {"type": "string"},
                 },
@@ -140,6 +175,8 @@ def main():
     ap.add_argument("--only-keys", help="файл зі списком ключів (по одному в рядку) — перевіряти лише їх")
     ap.add_argument("--gender", action="store_true",
                     help="перевіряти лише рід / фемінітиви (вихід work/gender_review.csv)")
+    ap.add_argument("--style", action="store_true",
+                    help="шукати лише незграбні фрази / кальки (вихід work/style_review.csv)")
     ap.add_argument("--max-words", type=int, default=6,
                     help="--gender: більші правки не застосовуються, лише позначаються")
     ap.add_argument("--restart", action="store_true", help="почати з нуля, забувши попередній прогін")
@@ -149,9 +186,10 @@ def main():
     tr = load_json(args.tr, {})
     terms = load_json(GLOSSARY)["terms"]
     ui = ui_terms(strings, tr)
-    name = "gender_review" if args.gender else "context_review"
+    name = "gender_review" if args.gender else "style_review" if args.style else "context_review"
     args.csv = args.csv or str(WORK / f"{name}.csv")
-    system = STYLE.read_text(encoding="utf-8") + (GENDER if args.gender else REVIEWER)
+    system = STYLE.read_text(encoding="utf-8") + (
+        GENDER if args.gender else STYLE_ONLY if args.style else REVIEWER)
 
     state_path = WORK / f"{name}_state.json"
     done = set() if args.restart else set(load_json(state_path, []))
@@ -200,12 +238,17 @@ def main():
                 if not r or not fix or fix == r["uk"].strip():
                     continue  # без реальної зміни це не зауваження
                 why = f"[{data.get('kind', '?')}] {data.get('why', '')}"
-                if args.gender:
-                    for q1, q2 in ('«»', '""'):
-                        if fix[:1] == q1 and fix[-1:] == q2 and r["uk"][:1] != q1:
-                            fix = fix[1:-1].strip()
-                    if fix == r["uk"].strip():
+                for q1, q2 in ('«»', '""'):  # модель любить загортати відповідь у лапки
+                    if fix[:1] == q1 and fix[-1:] == q2 and r["uk"][:1] != q1:
+                        fix = fix[1:-1].strip()
+                if fix == r["uk"].strip():
+                    continue
+                if args.style:
+                    sev = data.get("severity", "medium")
+                    if sev == "low":
                         continue
+                    why = f"[{sev}] {data.get('why', '')}"
+                if args.gender:
                     # модель любить заодно переписати півречення чи викинути його — таке не приймаємо
                     a, b = r["uk"].split(), fix.split()
                     changed = sum(max(i2 - i1, j2 - j1) for t, i1, i2, j1, j2
@@ -213,6 +256,9 @@ def main():
                     if changed > args.max_words or validate(r["en"], fix):
                         why = f"ПЕРЕВІР ВРУЧНУ (пропозиція моделі: {fix}) {why}"
                         fix = r["uk"]
+                elif args.style and validate(r["en"], fix):
+                    why = f"ПЕРЕВІР ВРУЧНУ (пропозиція моделі не пройшла перевірку: {fix}) {why}"
+                    fix = r["uk"]
                 writer.writerow({"key": r["key"], "file": r["file"], "status": tr[r["key"]]["status"],
                                  "en": r["en"], "uk": fix, "comment": r["comment"], "errors": why})
                 found += 1

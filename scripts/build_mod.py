@@ -4,6 +4,8 @@
   python scripts/build_mod.py                   # зібрати
   python scripts/build_mod.py --install         # зібрати і скопіювати в гру (BepInEx має бути встановлений)
   python scripts/build_mod.py --with-bepinex    # покласти в архів BepInEx (для роздачі спільноті)
+  python scripts/build_mod.py --mac-bepinex <розпакований BepInEx_macos_universal>
+                                                # додатково mod/DressmakerUA-macOS.zip
 """
 import argparse
 import json
@@ -18,6 +20,8 @@ ROOT = Path(__file__).resolve().parent.parent
 MOD = ROOT / "mod"
 PROJ = MOD / "DressmakerUA"
 DIST = MOD / "dist"
+DIST_MAC = MOD / "dist_mac"
+MAC_EXEC = ("run_bepinex.sh", "install_ua_macos.sh", "libdoorstop.dylib")
 
 
 def export_json(path):
@@ -40,11 +44,38 @@ def export_json(path):
     return n
 
 
+def build_mac(bepinex_dir):
+    """Архів для macOS: BepInEx (doorstop через run_bepinex.sh), плагін, скрипт установки."""
+    if DIST_MAC.exists():
+        shutil.rmtree(DIST_MAC)
+    shutil.copytree(bepinex_dir, DIST_MAC)
+    shutil.copytree(DIST / "BepInEx", DIST_MAC / "BepInEx", dirs_exist_ok=True)
+    run = DIST_MAC / "run_bepinex.sh"
+    text = run.read_text(encoding="utf-8").replace('executable_name=""', 'executable_name="Dressmaker.app"')
+    # read_text перетворює CRLF на LF, write_bytes пише як є: sh на macOS потребує LF
+    run.write_bytes(text.encode("utf-8"))
+    inst = (MOD / "install_ua_macos.sh").read_text(encoding="utf-8")
+    (DIST_MAC / "install_ua_macos.sh").write_bytes(inst.encode("utf-8"))
+    shutil.copy2(MOD / "README_UA_macOS.txt", DIST_MAC / "README_UA.txt")
+    zip_path = MOD / "DressmakerUA-macOS.zip"
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
+        for f in sorted(DIST_MAC.rglob("*")):
+            if f.is_dir():
+                continue
+            zi = zipfile.ZipInfo.from_file(f, f.relative_to(DIST_MAC).as_posix())
+            zi.create_system = 3  # Unix: щоб Finder зберіг права на виконання
+            zi.external_attr = (0o100755 if f.name in MAC_EXEC else 0o100644) << 16
+            zi.compress_type = zipfile.ZIP_DEFLATED
+            z.writestr(zi, f.read_bytes())
+    print(f"Архів для macOS: {zip_path}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--game", default=DEFAULT_GAME)
     ap.add_argument("--install", action="store_true")
     ap.add_argument("--with-bepinex", help="шлях до розпакованого BepInEx_win_x64 (для архіву спільноти)")
+    ap.add_argument("--mac-bepinex", help="шлях до розпакованого BepInEx_macos_universal (архів для macOS)")
     args = ap.parse_args()
 
     subprocess.check_call(["dotnet", "build", "-c", "Release", f"-p:GameDir={args.game}", "-v", "q", "-nologo"],
@@ -72,6 +103,8 @@ def main():
         for f in DIST.rglob("*"):
             z.write(f, f.relative_to(DIST))
     print(f"Архів: {zip_path}")
+    if args.mac_bepinex:
+        build_mac(args.mac_bepinex)
 
     if args.install:
         game = Path(args.game)

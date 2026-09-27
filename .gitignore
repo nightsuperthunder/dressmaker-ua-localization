@@ -2,6 +2,7 @@
 mod/DressmakerUA/bin/
 mod/DressmakerUA/obj/
 mod/dist/
+mod/dist_mac/
 mod/*.zip
 
 # original game texts — copyrighted, never commit (extract locally: scripts/export_strings.py)

@@ -18,6 +18,7 @@ work/test_*.json
 work/backtranslate.json
 work/context_review_state.json
 work/gender_review_state.json
+work/style_review_state.json
 work/suspects.txt
 work/_*
 
@@ -28,3 +29,4 @@ tutoriarl_strings*.txt
 __pycache__/
 *.pyc
 .vs/
+.idea

@@ -6,9 +6,15 @@
   python scripts/build_mod.py --with-bepinex    # покласти в архів BepInEx (для роздачі спільноті)
   python scripts/build_mod.py --mac-bepinex <розпакований BepInEx_macos_universal> --mac-doorstop <розпакований doorstop_macos_release_4.6.0>
                                                 # додатково mod/DressmakerUA-macOS.zip
+
+Версія береться з Version у Plugin.cs і записується в uk.json (_meta.version) разом із
+_meta.minPlugin (за замовчуванням X.Y.0) — за ними плагін гравця вирішує, чи можна
+автоматично взяти текст із нового релізу. Копія для релізу: mod/uk.json (додати до gh release).
+Правило: нова остання цифра — лише тексти (оновляться самі); нова перша/друга — новий плагін.
 """
 import argparse
 import json
+import re
 import shutil
 import subprocess
 import zipfile
@@ -24,9 +30,15 @@ DIST_MAC = MOD / "dist_mac"
 MAC_EXEC = ("run_bepinex.sh", "install_ua_macos.sh", "libdoorstop.dylib")
 
 
-def export_json(path):
+def plugin_version():
+    m = re.search(r'Version\s*=\s*"([\d.]+)"', (PROJ / "Plugin.cs").read_text(encoding="utf-8"))
+    return m.group(1)
+
+
+def export_json(path, version, min_plugin):
     tr = load_json(TRANSLATIONS)
-    out = {c: {} for c in COLLECTIONS.values()}
+    out = {"_meta": {"version": version, "minPlugin": min_plugin}}
+    out.update({c: {} for c in COLLECTIONS.values()})
     strings = load_json(STRINGS)
     if not strings:
         raise SystemExit("Спершу витягніть тексти з гри: python scripts/export_strings.py")
@@ -98,9 +110,12 @@ def main():
     ap.add_argument("--game", default=DEFAULT_GAME)
     ap.add_argument("--install", action="store_true")
     ap.add_argument("--with-bepinex", help="шлях до розпакованого BepInEx_win_x64 (для архіву спільноти)")
+    ap.add_argument("--min-plugin", help="мінімальна версія плагіна для цих текстів (за замовчуванням X.Y.0)")
     ap.add_argument("--mac-bepinex", help="шлях до розпакованого BepInEx_macos_universal (архів для macOS)")
     ap.add_argument("--mac-doorstop", help="шлях до розпакованого doorstop_macos_release_4.6.0 (потрібен з --mac-bepinex)")
     args = ap.parse_args()
+    version = plugin_version()
+    min_plugin = args.min_plugin or ".".join(version.split(".")[:2] + ["0"])
 
     subprocess.check_call(["dotnet", "build", "-c", "Release", f"-p:GameDir={args.game}", "-v", "q", "-nologo"],
                           cwd=PROJ)
@@ -109,7 +124,8 @@ def main():
     plug = DIST / "BepInEx" / "plugins" / "DressmakerUA"
     plug.mkdir(parents=True)
     shutil.copy2(PROJ / "bin" / "Release" / "DressmakerUA.dll", plug)
-    n = export_json(plug / "translations" / "uk.json")
+    n = export_json(plug / "translations" / "uk.json", version, min_plugin)
+    shutil.copy2(plug / "translations" / "uk.json", MOD / "uk.json")
     (plug / "fonts").mkdir()
     src_fonts = MOD / "fonts"
     if src_fonts.exists():
@@ -120,7 +136,7 @@ def main():
     readme = MOD / "README_UA.txt"
     if readme.exists():
         shutil.copy2(readme, DIST)
-    print(f"Перекладених рядків у моді: {n}")
+    print(f"Перекладених рядків у моді: {n} (версія {version}, minPlugin {min_plugin})")
 
     zip_path = MOD / "DressmakerUA.zip"
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:

@@ -31,7 +31,7 @@ namespace DressmakerUA
     public class Plugin : BaseUnityPlugin
     {
         public const string Guid = "ua.dressmaker.localization";
-        public const string Version = "1.2.9";
+        public const string Version = "1.3.0";
 
         internal static ManualLogSource Log;
         internal static Plugin Instance;
@@ -41,6 +41,11 @@ namespace DressmakerUA
         internal static ConfigEntry<string> OsFontFallback;
         internal static ConfigEntry<bool> AutoSizeText;
         internal static ConfigEntry<float> AutoSizeMinRatio;
+        internal static ConfigEntry<bool> AutoUpdate;
+
+        internal static readonly System.Version PluginVersion = new System.Version(Version);
+        // версія завантажених текстів (поле _meta.version у файлі перекладу)
+        internal static System.Version TextVersion = PluginVersion;
 
         // колекція ("UI", "Dialogue"...) -> id рядка -> переклад
         internal static Dictionary<string, Dictionary<long, string>> Translations =
@@ -63,6 +68,9 @@ namespace DressmakerUA
                 + "(українські слова довші за англійські).");
             AutoSizeMinRatio = Config.Bind("Fonts", "AutoSizeMinRatio", 0.6f,
                 "Наскільки максимально дозволено зменшити текст: 0.6 = до 60% від авторського розміру.");
+            AutoUpdate = Config.Bind("Update", "AutoUpdate", true,
+                "Під час запуску перевіряти на GitHub нову версію перекладу. Оновлені тексти завантажуються "
+                + "самі й діють після перезапуску; про нову версію плагіна з'являється напис у головному меню.");
 
             LoadTranslations();
 
@@ -77,6 +85,8 @@ namespace DressmakerUA
             else init.Completed += _ => EnsureLocale(LocalizationSettings.AvailableLocales);
 
             Log.LogInfo($"Завантажено перекладів: {Translations.Sum(t => t.Value.Count)} рядків у {Translations.Count} таблицях");
+
+            Updater.Start();
         }
 
         // ---------- текст, що не вміщається у вузькі кнопки ----------
@@ -136,31 +146,70 @@ namespace DressmakerUA
                 ApplyAutoSize(text);
         }
 
+        /// <summary>
+        /// Бере вбудований translations/uk.json або завантажений оновлювачем uk.update.json —
+        /// той, що новіший (і сумісний з цією версією плагіна).
+        /// </summary>
         private void LoadTranslations()
         {
             string path = Path.Combine(PluginDir, "translations", LocaleCode.Value + ".json");
-            if (!File.Exists(path))
+            var raw = ReadTranslations(path);
+            TextVersion = MetaVersion(raw, "version") ?? PluginVersion;
+
+            var update = ReadTranslations(Updater.UpdatePath);
+            var updateVersion = MetaVersion(update, "version");
+            if (updateVersion != null && updateVersion > TextVersion
+                && (MetaVersion(update, "minPlugin") ?? PluginVersion) <= PluginVersion)
+            {
+                raw = update;
+                path = Updater.UpdatePath;
+                TextVersion = updateVersion;
+            }
+            else if (update != null)
+            {
+                // вбудований переклад уже новіший (мод перевстановили) — старе оновлення не потрібне
+                try { File.Delete(Updater.UpdatePath); } catch { }
+            }
+
+            if (raw == null)
             {
                 Log.LogError("Не знайдено файл перекладу: " + path);
                 return;
             }
+            foreach (var table in raw)
+            {
+                if (table.Key == Updater.MetaKey) continue;
+                var dict = new Dictionary<long, string>();
+                foreach (var kv in table.Value)
+                    if (long.TryParse(kv.Key, out long id)) dict[id] = kv.Value;
+                Translations[table.Key] = dict;
+            }
+            Log.LogInfo($"Файл перекладу: {Path.GetFileName(path)}, версія текстів {TextVersion}");
+        }
+
+        internal static Dictionary<string, Dictionary<string, string>> ParseTranslations(string json) =>
+            JsonConvert.DeserializeObject<Dictionary<string, Dictionary<string, string>>>(json);
+
+        private static Dictionary<string, Dictionary<string, string>> ReadTranslations(string path)
+        {
+            if (!File.Exists(path)) return null;
             try
             {
-                var raw = JsonConvert.DeserializeObject<Dictionary<string, Dictionary<string, string>>>(
-                    File.ReadAllText(path, System.Text.Encoding.UTF8));
-                foreach (var table in raw)
-                {
-                    var dict = new Dictionary<long, string>();
-                    foreach (var kv in table.Value)
-                        if (long.TryParse(kv.Key, out long id)) dict[id] = kv.Value;
-                    Translations[table.Key] = dict;
-                }
+                return ParseTranslations(File.ReadAllText(path, System.Text.Encoding.UTF8));
             }
             catch (Exception e)
             {
                 Log.LogError("Помилка читання " + path + ": " + e);
+                return null;
             }
         }
+
+        internal static System.Version MetaVersion(Dictionary<string, Dictionary<string, string>> raw, string field) =>
+            raw != null && raw.TryGetValue(Updater.MetaKey, out var meta) && meta != null
+            && meta.TryGetValue(field, out var s) && Updater.TryParseVersion(s, out var v) ? v : null;
+
+        internal static int CountStrings(Dictionary<string, Dictionary<string, string>> raw) =>
+            raw == null ? 0 : raw.Where(t => t.Key != Updater.MetaKey && t.Value != null).Sum(t => t.Value.Count);
 
         internal static bool IsOurLocale(Locale locale) =>
             locale != null && locale.Identifier.Code == LocaleCode.Value;

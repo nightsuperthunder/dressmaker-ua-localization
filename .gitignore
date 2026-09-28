@@ -4,6 +4,7 @@ mod/DressmakerUA/obj/
 mod/dist/
 mod/dist_mac/
 mod/*.zip
+mod/uk.json
 
 # original game texts — copyrighted, never commit (extract locally: scripts/export_strings.py)
 /*.yaml

@@ -179,6 +179,7 @@ def main():
                     help="шукати лише незграбні фрази / кальки (вихід work/style_review.csv)")
     ap.add_argument("--max-words", type=int, default=6,
                     help="--gender: більші правки не застосовуються, лише позначаються")
+    ap.add_argument("--note", help="додаткова підказка для моделі (хто говорить), дописується до системного промпту")
     ap.add_argument("--restart", action="store_true", help="почати з нуля, забувши попередній прогін")
     args = ap.parse_args()
 
@@ -190,6 +191,8 @@ def main():
     args.csv = args.csv or str(WORK / f"{name}.csv")
     system = STYLE.read_text(encoding="utf-8") + (
         GENDER if args.gender else STYLE_ONLY if args.style else REVIEWER)
+    if args.note:
+        system += "\nДОДАТКОВО ПРО МОВЦІВ ЦІЄЇ СЦЕНИ: " + args.note + "\n"
 
     state_path = WORK / f"{name}_state.json"
     done = set() if args.restart else set(load_json(state_path, []))

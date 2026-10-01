@@ -10639,35 +10639,23 @@
  },
  "content:3352372876132512": {
   "src": "ba0ed5d2281d",
-  "uk": "Рукав опустити ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Рукав опустити лівий"
+  "uk": "Лівий нижній рукав",
+  "status": "manual"
  },
  "content:3352372876132513": {
   "src": "626dd087c752",
-  "uk": "Рукав опустити праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Рукав опустити правий"
+  "uk": "Правий нижній рукав",
+  "status": "manual"
  },
  "content:3352372876132514": {
   "src": "6b4ba909f944",
-  "uk": "Рукав підняти праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Рукав підняти правий"
+  "uk": "Правий верхній рукав",
+  "status": "manual"
  },
  "content:3352372876132515": {
   "src": "9bcf04f7da91",
-  "uk": "Рукав підняти ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Рукав підняти лівий"
+  "uk": "Лівий верхній рукав",
+  "status": "manual"
  },
  "content:3352372876132516": {
   "src": "88ebd2f20daf",
@@ -10743,17 +10731,13 @@
  },
  "content:3352372876132526": {
   "src": "0340b8b6eead",
-  "uk": "Правий низький єпископський рукав",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Правий нижній рукав-єпископ",
+  "status": "manual"
  },
  "content:3352372876132527": {
   "src": "e9279df561f0",
-  "uk": "Лівий низький єпископський рукав",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Лівий нижній рукав-єпископ",
+  "status": "manual"
  },
  "content:3352372876132528": {
   "src": "41e11dec83d6",
@@ -10835,19 +10819,13 @@
  },
  "content:3352372876132538": {
   "src": "6d667cde06de",
-  "uk": "Лівий рукав, ярус",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Лівий рукав ярус"
+  "uk": "Окат лівого рукава",
+  "status": "manual"
  },
  "content:3352372876132539": {
   "src": "8216299da598",
-  "uk": "Правий рукав, ярус",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Правий рукав ярус"
+  "uk": "Окат правого рукава",
+  "status": "manual"
  },
  "content:3616530821529600": {
   "src": "353378128c3c",
@@ -13118,10 +13096,8 @@
  },
  "content:20347480242634892": {
   "src": "957e86521755",
-  "uk": "Рукав, опустити, ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Лівий нижній рукав",
+  "status": "manual"
  },
  "content:20347480242634893": {
   "src": "0e4084997ee9",

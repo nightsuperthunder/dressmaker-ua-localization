@@ -4389,18 +4389,13 @@
  },
  "content:67952241000596": {
   "src": "8140e11f637b",
-  "uk": "Ліф з піднятою округлою горловиною",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Піднятий ліф з округлою горловиною"
+  "uk": "Вишуканий ліф з округлим вирізом",
+  "status": "manual"
  },
  "content:67952241000597": {
   "src": "aef938a166cb",
-  "uk": "Ліф з округлою горловиною та воланом",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вишуканий ліф з округлим вирізом і воланом",
+  "status": "manual"
  },
  "content:67952241000598": {
   "src": "fb9b5eb22a08",
@@ -4449,24 +4444,18 @@
  },
  "content:67952241000605": {
   "src": "4582cd8a9945",
-  "uk": "Ліф принцеси",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф «Принцеса»",
+  "status": "manual"
  },
  "content:67952241000606": {
   "src": "9b133d82d10a",
-  "uk": "Ліф принцеси з серцеподібним вирізом",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф «Принцеса» з вирізом «серце»",
+  "status": "manual"
  },
  "content:67952241000607": {
   "src": "2581cd2bd0c1",
-  "uk": "Ліф принцеси з округлою горловиною",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф «Принцеса» з округлим вирізом",
+  "status": "manual"
  },
  "content:67952241000608": {
   "src": "342284966117",
@@ -4478,32 +4467,23 @@
  },
  "content:67952241000609": {
   "src": "81eae22a9f8b",
-  "uk": "Ліф принцеси з V-подібним вирізом",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф «Принцеса» з V-подібним вирізом",
+  "status": "manual"
  },
  "content:67952241000610": {
   "src": "1958c73b2461",
-  "uk": "Піднятий ліф принцеси з V-подібним вирізом",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вишуканий ліф «Принцеса» з V-подібним вирізом",
+  "status": "manual"
  },
  "content:67952241000611": {
   "src": "2568cdfd91ea",
-  "uk": "Ліф принцеси з V-подібним вирізом і воланом",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ліф принцеси з V-подібним вирізом та воланом"
+  "uk": "Вишуканий ліф «Принцеса» з V-подібним вирізом і воланом",
+  "status": "manual"
  },
  "content:67952241000612": {
   "src": "b8539caaa00c",
-  "uk": "Ліф принцеси з воланом",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф «Принцеса» з V-подібним вирізом і воланом",
+  "status": "manual"
  },
  "content:67952241000613": {
   "src": "2e0653ad95d7",
@@ -4557,10 +4537,8 @@
  },
  "content:67952241000620": {
   "src": "0a1147c94c83",
-  "uk": "Піднятий ліф з серцеподібним вирізом",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вишуканий ліф з вирізом «серце»",
+  "status": "manual"
  },
  "content:67952241000621": {
   "src": "7dc7b1d17897",
@@ -6529,7 +6507,7 @@
  },
  "content:801922599600130": {
   "src": "3f051824c34f",
-  "uk": "Оздоблення з блакитного віші",
+  "uk": "Оздоблення в блакитну клітинку",
   "status": "manual"
  },
  "content:801922599600131": {
@@ -6812,11 +6790,8 @@
  },
  "content:801922599600171": {
   "src": "909eeef367f1",
-  "uk": "Оздоблення «Червона бавовна в клітинку»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Оздоблення «Червона бавовна в горошок»"
+  "uk": "Оздоблення в червону клітинку",
+  "status": "manual"
  },
  "content:801922599600172": {
   "src": "3e5d49d97bb1",
@@ -6897,14 +6872,12 @@
  },
  "content:801922603794435": {
   "src": "8841a4294336",
-  "uk": "Піднесений дірндль",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вишуканий дірндль",
+  "status": "manual"
  },
  "content:801922603794436": {
   "src": "c243aac823e2",
-  "uk": "Високий корсет",
+  "uk": "Вишуканий корсет",
   "status": "manual"
  },
  "content:801922603794437": {
@@ -8024,40 +7997,28 @@
  },
  "content:3352372859355136": {
   "src": "a8802366415b",
-  "uk": "Передня частина нижньої сорочки",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня сорочка: передня частина",
+  "status": "manual"
  },
  "content:3352372871938048": {
   "src": "b4be6de5d104",
-  "uk": "Задня частина нижньої сорочки",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня сорочка: задня частина",
+  "status": "manual"
  },
  "content:3352372871938049": {
   "src": "6e7ae40d49aa",
-  "uk": "Задня частина пояса фартуха",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Задня частина фартуха"
+  "uk": "Пасок фартуха: задня частина",
+  "status": "manual"
  },
  "content:3352372871938050": {
   "src": "ccae72551a75",
-  "uk": "Передня частина пояса фартуха",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Передня частина фартуха"
+  "uk": "Пасок фартуха: передня частина",
+  "status": "manual"
  },
  "content:3352372871938051": {
   "src": "f1c8b5ff785b",
-  "uk": "Передня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: передня частина",
+  "status": "manual"
  },
  "content:3352372871938052": {
   "src": "8871850cb0fc",
@@ -8075,533 +8036,378 @@
  },
  "content:3352372871938054": {
   "src": "09173f79e4d1",
-  "uk": "Задня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: задня частина",
+  "status": "manual"
  },
  "content:3352372871938055": {
   "src": "c423979d1c01",
-  "uk": "Ліва передня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938056": {
   "src": "bb8f283ec22c",
-  "uk": "Права передня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938057": {
   "src": "3645cd5f85cb",
-  "uk": "Ліва задня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938058": {
   "src": "36b79d7a4792",
-  "uk": "Права задня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938059": {
   "src": "6ddc8e478553",
-  "uk": "Задня частина пояса",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пасок: задня частина",
+  "status": "manual"
  },
  "content:3352372871938060": {
   "src": "81dc7e9e1d25",
-  "uk": "Перед пояса",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Передня частина пояса"
+  "uk": "Пасок: передня частина",
+  "status": "manual"
  },
  "content:3352372871938061": {
   "src": "1c271f204ce6",
-  "uk": "Спинка жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Задня частина жакета"
+  "uk": "Жакет: задня частина",
+  "status": "manual"
  },
  "content:3352372871938062": {
   "src": "9c5d6bbb7523",
-  "uk": "Ліва передня частина жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Жакет: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938063": {
   "src": "d20fbc8dd2b5",
-  "uk": "Права передня частина жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Жакет: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938064": {
   "src": "153f4430cca2",
-  "uk": "Ліва спинка жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ліва задня частина жакета"
+  "uk": "Жакет: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938065": {
   "src": "66d54e080195",
-  "uk": "Ліва передня частина жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Жакет: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938066": {
   "src": "dd0346326050",
-  "uk": "Права спинка жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Права задня частина жакета"
+  "uk": "Жакет: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938067": {
   "src": "05ceb4629e2a",
-  "uk": "Права передня частина жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Жакет: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938068": {
   "src": "e50252d394c4",
-  "uk": "Спинка болеро",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Задня частина болеро"
+  "uk": "Болеро: задня частина",
+  "status": "manual"
  },
  "content:3352372871938069": {
   "src": "9fcac355293b",
-  "uk": "Передня частина стрічки болеро",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Стрічка болеро: передня частина",
+  "status": "manual"
  },
  "content:3352372871938070": {
   "src": "4df44bcfbcc1",
-  "uk": "Ліве болеро",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Болеро ліворуч"
+  "uk": "Болеро: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938071": {
   "src": "cca0d8bf729c",
-  "uk": "Праве болеро",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Болеро праворуч"
+  "uk": "Болеро: права частина",
+  "status": "manual"
  },
  "content:3352372871938072": {
   "src": "4d2d46a5db72",
-  "uk": "Задня частина стрічки болеро",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Стрічка болеро: задня частина",
+  "status": "manual"
  },
  "content:3352372871938073": {
   "src": "5a8d8f5d5606",
-  "uk": "Ліва частина стрічки болеро",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Стрічка болеро: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938074": {
   "src": "4a2848f1dc07",
-  "uk": "Права частина стрічки болеро",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Стрічка болеро: права частина",
+  "status": "manual"
  },
  "content:3352372871938075": {
   "src": "50263556b714",
-  "uk": "Внутрішня нижня частина чашки ліфа ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліва чашка ліфа: нижня внутрішня частина",
+  "status": "manual"
  },
  "content:3352372871938076": {
   "src": "7ff854843c92",
-  "uk": "Внутрішня нижня частина чашки ліфа праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Права чашка ліфа: нижня внутрішня частина",
+  "status": "manual"
  },
  "content:3352372871938077": {
   "src": "3c48d36845a3",
-  "uk": "Зовнішня нижня частина чашки ліфа ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліва чашка ліфа: нижня зовнішня частина",
+  "status": "manual"
  },
  "content:3352372871938078": {
   "src": "b6f09d6e8088",
-  "uk": "Зовнішня нижня частина чашки ліфа праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Права чашка ліфа: нижня зовнішня частина",
+  "status": "manual"
  },
  "content:3352372871938079": {
   "src": "657b243bc98f",
-  "uk": "Верхня внутрішня частина чашки ліфа ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліва чашка ліфа: верх нижньої частини",
+  "status": "manual"
  },
  "content:3352372871938080": {
   "src": "5ddec739f17e",
-  "uk": "Верхня внутрішня частина чашки ліфа праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Права чашка ліфа: верх нижньої частини",
+  "status": "manual"
  },
  "content:3352372871938081": {
   "src": "2a3596892b1c",
-  "uk": "Права стрічка бретелі ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Стрічка правої бретелі ліфа",
+  "status": "manual"
  },
  "content:3352372871938082": {
   "src": "a56bb600f6c5",
-  "uk": "Права передня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938083": {
   "src": "940f5c4a0036",
-  "uk": "Ліва передня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938084": {
   "src": "02ad2debd3ec",
-  "uk": "Права передня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938085": {
   "src": "cd3355dda124",
-  "uk": "Планка з ґудзиками на ліфі",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Планка ліфа з ґудзиками",
+  "status": "manual"
  },
  "content:3352372871938086": {
   "src": "55fb9211e6d8",
-  "uk": "Права передня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938087": {
   "src": "67eb2d6e2bed",
-  "uk": "Права задня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938088": {
   "src": "df933c6ce0b2",
-  "uk": "Ліва задня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938089": {
   "src": "c86440beed4e",
-  "uk": "Передній рюш на ліфі",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Передній волан на ліфі"
+  "uk": "Рюш ліфа: передня частина",
+  "status": "manual"
  },
  "content:3352372871938090": {
   "src": "82e58bc779e2",
-  "uk": "Задня кокетка ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кокетка ліфа: задня частина",
+  "status": "manual"
  },
  "content:3352372871938091": {
   "src": "c120f390c249",
-  "uk": "Ліва кокетка ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кокетка ліфа: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938092": {
   "src": "2ed1e589b57f",
-  "uk": "Права кокетка ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кокетка ліфа: права частина",
+  "status": "manual"
  },
  "content:3352372871938093": {
   "src": "375abd5f7f4e",
-  "uk": "Задня частина коміра ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір ліфа: задня частина",
+  "status": "manual"
  },
  "content:3352372871938094": {
   "src": "d4e59c73a769",
-  "uk": "Передня частина ліфа в зоні грудей",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Передня частина ліфа в області грудей"
+  "uk": "Нагрудна частина ліфа",
+  "status": "manual"
  },
  "content:3352372871938095": {
   "src": "e527a145d254",
-  "uk": "Волан на ліфі (F)",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан ліфа: передня частина",
+  "status": "manual"
  },
  "content:3352372871938096": {
   "src": "1790eb903b05",
-  "uk": "Задня частина пояса ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пояс ліфа: задня частина",
+  "status": "manual"
  },
  "content:3352372871938097": {
   "src": "79246a69f550",
-  "uk": "Передня частина пояса ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пояс ліфа: передня частина",
+  "status": "manual"
  },
  "content:3352372871938098": {
   "src": "4b03f30a7b03",
-  "uk": "Волан на ліфі (B)",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан ліфа: задня частина",
+  "status": "manual"
  },
  "content:3352372871938099": {
   "src": "eea64777496f",
-  "uk": "Лівий волан на ліфі",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан ліфа: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938100": {
   "src": "a66a73ced3c8",
-  "uk": "Правий волан на ліфі",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан ліфа: права частина",
+  "status": "manual"
  },
  "content:3352372871938101": {
   "src": "891085775584",
-  "uk": "Задня частина пояса ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пасок ліфа: задня частина",
+  "status": "manual"
  },
  "content:3352372871938102": {
   "src": "fd7e9c450d59",
-  "uk": "Передня частина пояса ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пасок ліфа: передня частина",
+  "status": "manual"
  },
  "content:3352372871938103": {
   "src": "a83497406ac2",
-  "uk": "Задня частина корсету",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет ліфа: задня частина",
+  "status": "manual"
  },
  "content:3352372871938104": {
   "src": "5bb2a0aaa405",
-  "uk": "Ліва планка з люверсами на ліфі",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліва планка ліфа з люверсами",
+  "status": "manual"
  },
  "content:3352372871938105": {
   "src": "666243de16fa",
-  "uk": "Права планка з люверсами на ліфі",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Права планка ліфа з люверсами",
+  "status": "manual"
  },
  "content:3352372871938106": {
   "src": "af859202ad3c",
-  "uk": "Ліва передня частина корсету",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет ліфа: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938107": {
   "src": "1fcd9a34ffa0",
-  "uk": "Права передня частина корсету",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет ліфа: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938108": {
   "src": "ebab3bc6f20a",
-  "uk": "Ліва задня частина корсету",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет ліфа: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938109": {
   "src": "cd555c49e057",
-  "uk": "Ліва передня частина корсету",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет ліфа: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938110": {
   "src": "4a8c1b99f00d",
-  "uk": "Права задня частина корсету",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет ліфа: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938111": {
   "src": "58918b9ed91a",
-  "uk": "Права передня частина корсету",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет ліфа: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938112": {
   "src": "dcae5828f573",
-  "uk": "Задній рюш на нижній сорочці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Рюш нижньої сорочки: задня частина",
+  "status": "manual"
  },
  "content:3352372871938113": {
   "src": "96aa47fe9c25",
-  "uk": "Передній рюш на нижній сорочці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Рюш нижньої сорочки: передня частина",
+  "status": "manual"
  },
  "content:3352372871938114": {
   "src": "5883d823f53f",
-  "uk": "Стрічка для корсету",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Стрічка корсета",
+  "status": "manual"
  },
  "content:3352372871938115": {
   "src": "ee3feafabe84",
-  "uk": "Ліва лямка корсету",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліва бретель корсета",
+  "status": "manual"
  },
  "content:3352372871938116": {
   "src": "2bbe345313db",
-  "uk": "Права лямка корсету",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Права бретель корсета",
+  "status": "manual"
  },
  "content:3352372871938117": {
   "src": "edb47f3b4441",
-  "uk": "Ліве внутрішнє оздоблення на передній частині ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення ліфа: ліва передня внутрішня частина",
+  "status": "manual"
  },
  "content:3352372871938118": {
   "src": "35fcb22b392d",
-  "uk": "Праве внутрішнє оздоблення на передній частині ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення ліфа: права передня внутрішня частина",
+  "status": "manual"
  },
  "content:3352372871938119": {
   "src": "cce8c89785d5",
-  "uk": "Задня лямка ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Бретель ліфа: задня частина",
+  "status": "manual"
  },
  "content:3352372871938120": {
   "src": "d63e7f0859c5",
-  "uk": "Лямка ліфа навколо шиї",
+  "uk": "Бретель ліфа навколо шиї",
   "status": "manual"
  },
  "content:3352372871938121": {
   "src": "631dbf22e9dc",
-  "uk": "Передня лямка ліфа",
+  "uk": "Бретель ліфа: передня частина",
   "status": "manual"
  },
  "content:3352372871938122": {
   "src": "5d2776a0e1c7",
-  "uk": "Бант на шиї ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Бант на горловині ліфа",
+  "status": "manual"
  },
  "content:3352372871938123": {
   "src": "4dd9a650468c",
-  "uk": "Ліва задня частина жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Жакет: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938124": {
   "src": "e8101bc475f4",
-  "uk": "Права задня частина жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Жакет: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938125": {
   "src": "e36f76113d82",
-  "uk": "Оздоблення лівого коміра жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення коміра жакета: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938126": {
   "src": "fbb9651d304f",
-  "uk": "Оздоблення правого коміра жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення коміра жакета: права частина",
+  "status": "manual"
  },
  "content:3352372871938127": {
   "src": "5ea13b5d9668",
-  "uk": "Ліва частина жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Жакет: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938128": {
   "src": "3e2de26886f2",
-  "uk": "Права частина жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Жакет: права частина",
+  "status": "manual"
  },
  "content:3352372871938129": {
   "src": "834933813aef",
@@ -8619,228 +8425,153 @@
  },
  "content:3352372871938131": {
   "src": "a055af259c66",
-  "uk": "Оздоблення лівої задньої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення жакета: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938132": {
   "src": "8de19f66ed57",
-  "uk": "Оздоблення правої передньої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення жакета: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938133": {
   "src": "f7e3c77825b2",
-  "uk": "Оздоблення лівої передньої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення жакета: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938134": {
   "src": "9571eeb50d71",
-  "uk": "Оздоблення правої задньої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення жакета: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938135": {
   "src": "c2e3baaec52e",
-  "uk": "Оздоблення передньої лівої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Оздоблення лівої передньої частини жакета"
+  "uk": "Оздоблення жакета: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938136": {
   "src": "1662f264964a",
-  "uk": "Оздоблення передньої правої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Оздоблення правої передньої частини жакета"
+  "uk": "Оздоблення жакета: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938137": {
   "src": "b0d3bcc68d5b",
-  "uk": "Нижня частина задньої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Нижня задня частина жакета"
+  "uk": "Жакет: нижня задня частина",
+  "status": "manual"
  },
  "content:3352372871938138": {
   "src": "475510627837",
-  "uk": "Верхня кокетка задньої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кокетка жакета: верхня задня частина",
+  "status": "manual"
  },
  "content:3352372871938139": {
   "src": "1adf22b5b47f",
-  "uk": "Ліва частина коміра жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір жакета: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938140": {
   "src": "c92cde6b3f7e",
-  "uk": "Права частина коміра жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір жакета: права частина",
+  "status": "manual"
  },
  "content:3352372871938141": {
   "src": "8d27ebf9e3ba",
-  "uk": "Ліва кокетка передньої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кокетка жакета: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938142": {
   "src": "3d0be8eb9a81",
-  "uk": "Права кокетка передньої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кокетка жакета: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938143": {
   "src": "0f0ca8c865d8",
-  "uk": "Ліва планка передньої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Планка жакета: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938144": {
   "src": "a2f4d20b5691",
-  "uk": "Права планка передньої частини жакета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Планка жакета: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938145": {
   "src": "24f35fa3e879",
-  "uk": "Ліва частина задньої стрічки на шиї ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Обшивка горловини ліфа: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938146": {
   "src": "3ac47b512362",
-  "uk": "Права частина задньої стрічки на шиї ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Обшивка горловини ліфа: права частина",
+  "status": "manual"
  },
  "content:3352372871938147": {
   "src": "a549aa250f58",
-  "uk": "Задня частина задньої стрічки на шиї ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Обшивка горловини ліфа: задня частина",
+  "status": "manual"
  },
  "content:3352372871938148": {
   "src": "4eee0499596b",
-  "uk": "Талія, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Передня частина талії"
+  "uk": "Талія: передня частина",
+  "status": "manual"
  },
  "content:3352372871938149": {
   "src": "be2647cdedf4",
-  "uk": "Ліва задня частина талії ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Талія ліфа: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938150": {
   "src": "c54235b15e6e",
-  "uk": "Ліф. Талія. Спинка. Праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Права задня частина талії ліфа"
+  "uk": "Талія ліфа: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938151": {
   "src": "937274121a78",
-  "uk": "Ліф. Талія. Спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Задня частина талії"
+  "uk": "Талія ліфа: задня частина",
+  "status": "manual"
  },
  "content:3352372871938152": {
   "src": "96778346decf",
-  "uk": "Ліф. Талія. Перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Передня частина талії"
+  "uk": "Талія ліфа: передня частина",
+  "status": "manual"
  },
  "content:3352372871938153": {
   "src": "41207e23df44",
-  "uk": "Спинка. Ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ліворуч"
+  "uk": "Ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938154": {
   "src": "9ab44ffb4766",
-  "uk": "Спинка. Праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Праворуч"
+  "uk": "Права задня частина",
+  "status": "manual"
  },
  "content:3352372871938155": {
   "src": "c30c9d21f410",
-  "uk": "Ліф. Ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ліва частина ліфа"
+  "uk": "Ліф: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938156": {
   "src": "9b6d35bc5d1e",
-  "uk": "Ліф. Комір. Спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Комір задньої частини ліфа"
+  "uk": "Комір ліфа: задня частина",
+  "status": "manual"
  },
  "content:3352372871938157": {
   "src": "5ccfb6aa872b",
-  "uk": "Волан. Перед. Ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Лівий передній волан"
+  "uk": "Волан: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938158": {
   "src": "9bf8580feb87",
-  "uk": "Волан. Спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Задній волан"
+  "uk": "Волан: задня частина",
+  "status": "manual"
  },
  "content:3352372871938159": {
   "src": "f4ed5b428528",
-  "uk": "Волан. Перед. Праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Правий передній волан"
+  "uk": "Волан: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938160": {
   "src": "ac13ff87af4d",
-  "uk": "Ліф. Праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Права частина ліфа"
+  "uk": "Ліф: права частина",
+  "status": "manual"
  },
  "content:3352372871938161": {
   "src": "9997d175ea05",
@@ -8858,46 +8589,37 @@
  },
  "content:3352372871938163": {
   "src": "4449ae4c2812",
-  "uk": "Ліф. Драпірування. Спинка",
+  "uk": "Хомут ліфа: задня частина",
   "status": "manual"
  },
  "content:3352372871938164": {
   "src": "413c9ed20337",
-  "uk": "Ліф. Драпірування. Перед",
+  "uk": "Хомут ліфа: передня частина",
   "status": "manual"
  },
  "content:3352372871938165": {
   "src": "fb73cfe7defe",
-  "uk": "Передній манжет ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Манжета ліфа: передня частина",
+  "status": "manual"
  },
  "content:3352372871938166": {
   "src": "02e88fe1fe39",
-  "uk": "Верхня спинка ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Верхня задня частина ліфа"
+  "uk": "Ліф: верхня задня частина",
+  "status": "manual"
  },
  "content:3352372871938167": {
   "src": "20508a35491f",
-  "uk": "Ліва верхня передня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: верхня ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938168": {
   "src": "e3cb5e161e13",
-  "uk": "Права верхня передня частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: верхня права передня частина",
+  "status": "manual"
  },
  "content:3352372871938169": {
   "src": "bb2e1ac6432e",
-  "uk": "Передня планка ліфа з ґудзиками",
+  "uk": "Планка ліфа з ґудзиками: передня частина",
   "status": "manual"
  },
  "content:3352372871938170": {
@@ -8909,18 +8631,13 @@
  },
  "content:3352372871938171": {
   "src": "c4c4be97e82b",
-  "uk": "Задня шия ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Задня частина шиї ліфа"
+  "uk": "Горловина ліфа: задня частина",
+  "status": "manual"
  },
  "content:3352372871938172": {
   "src": "8d926ea53c10",
-  "uk": "Бант на комірі",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Бант коміра",
+  "status": "manual"
  },
  "content:3352372871938173": {
   "src": "09e0ecc184e1",
@@ -8940,10 +8657,8 @@
  },
  "content:3352372871938175": {
   "src": "b4703f6d6d93",
-  "uk": "Комір центральний",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір: центральна частина",
+  "status": "manual"
  },
  "content:3352372871938176": {
   "src": "a17942232101",
@@ -8954,24 +8669,18 @@
  },
  "content:3352372871938177": {
   "src": "0220365b8163",
-  "uk": "Комір задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір: задня частина",
+  "status": "manual"
  },
  "content:3352372871938178": {
   "src": "1e4b86f9582b",
-  "uk": "Комір лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938179": {
   "src": "04818adc3050",
-  "uk": "Комір правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір: права частина",
+  "status": "manual"
  },
  "content:3352372871938180": {
   "src": "9ee63d99fbb5",
@@ -8982,225 +8691,148 @@
  },
  "content:3352372871938181": {
   "src": "a3bce7829b31",
-  "uk": "Спідниця, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця задня"
+  "uk": "Спідниця: задня частина",
+  "status": "manual"
  },
  "content:3352372871938182": {
   "src": "9c538fd930db",
-  "uk": "Спідниця, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця передня"
+  "uk": "Спідниця: передня частина",
+  "status": "manual"
  },
  "content:3352372871938183": {
   "src": "bb045ea85505",
-  "uk": "Спідниця, ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця ліва"
+  "uk": "Спідниця: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938184": {
   "src": "d48fa7a8c6a0",
-  "uk": "Спідниця, праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця права"
+  "uk": "Спідниця: права частина",
+  "status": "manual"
  },
  "content:3352372871938185": {
   "src": "21963b49864c",
-  "uk": "Волан спідниці, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан спідниці задній"
+  "uk": "Волан спідниці: задня частина",
+  "status": "manual"
  },
  "content:3352372871938186": {
   "src": "09302c3760d3",
-  "uk": "Волан спідниці, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан спідниці передній"
+  "uk": "Волан спідниці: передня частина",
+  "status": "manual"
  },
  "content:3352372871938187": {
   "src": "6a8708b2cbc5",
-  "uk": "Фартух спідниці, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Фартух спідниці передній"
+  "uk": "Фартух спідниці: передня частина",
+  "status": "manual"
  },
  "content:3352372871938188": {
   "src": "abd46aff85fd",
-  "uk": "Волан фартуха спідниці, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан фартуха спідниці передній"
+  "uk": "Волан фартуха спідниці: передня частина",
+  "status": "manual"
  },
  "content:3352372871938189": {
   "src": "fdccb6bc4411",
-  "uk": "Спідниця, ліва спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця ліва задня"
+  "uk": "Спідниця: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938190": {
   "src": "80328aca48a6",
-  "uk": "Спідниця, права спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця права задня"
+  "uk": "Спідниця: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938191": {
   "src": "9265d427c1cd",
-  "uk": "Спідниця, права передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця права передня"
+  "uk": "Спідниця: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938192": {
   "src": "d383e8074c45",
-  "uk": "Спідниця, ліва передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця ліва передня"
+  "uk": "Спідниця: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938193": {
   "src": "ef8568316b0f",
-  "uk": "Пояс спідниці, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Пояс спідниці задній"
+  "uk": "Пасок спідниці: задня частина",
+  "status": "manual"
  },
  "content:3352372871938194": {
   "src": "b96f80e3d4f6",
-  "uk": "Пояс спідниці, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Пояс спідниці передній"
+  "uk": "Пасок спідниці: передня частина",
+  "status": "manual"
  },
  "content:3352372871938195": {
   "src": "2513c4a4a6ed",
-  "uk": "Бант лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Бант лівий"
+  "uk": "Бант: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938196": {
   "src": "2e41e7cbad60",
-  "uk": "Хвіст банта А",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Хвіст банта А"
+  "uk": "Кінець банта A",
+  "status": "manual"
  },
  "content:3352372871938197": {
   "src": "d911b3013cd2",
-  "uk": "Хвіст банта Б",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Хвіст банта Б"
+  "uk": "Кінець банта B",
+  "status": "manual"
  },
  "content:3352372871938198": {
   "src": "739107aac701",
-  "uk": "Вушка банта",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вушка банта"
+  "uk": "Петлі банта",
+  "status": "manual"
  },
  "content:3352372871938199": {
   "src": "d86559ee13aa",
-  "uk": "Спідниця задня ліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця задня ліва"
+  "uk": "Спідниця: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938200": {
   "src": "c6557ba6db63",
-  "uk": "Спідниця задня права",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938201": {
   "src": "5b8d30a6f6a3",
-  "uk": "Спідниця передня ліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938202": {
   "src": "f787c83c9aeb",
-  "uk": "Спідниця передня права",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938203": {
   "src": "a0c57fa87c9e",
-  "uk": "Баска задня",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска: задня частина",
+  "status": "manual"
  },
  "content:3352372871938204": {
   "src": "8241f6d6f3c8",
-  "uk": "Баска задня ліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938205": {
   "src": "55a36f7a848d",
-  "uk": "Баска задня права",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938206": {
   "src": "97ca02117f2a",
-  "uk": "Баска передня ліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938207": {
   "src": "e25e5c99e921",
-  "uk": "Баска передня права",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938208": {
   "src": "7904509b4fb3",
-  "uk": "Баска ліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска: ліва частина",
+  "status": "manual"
  },
  "content:3352372871938209": {
   "src": "dd1127800b42",
-  "uk": "Баска права",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска: права частина",
+  "status": "manual"
  },
  "content:3352372871938210": {
   "src": "31c3b8812875",
@@ -9211,1401 +8843,923 @@
  },
  "content:3352372871938211": {
   "src": "e54ae81bc7d0",
-  "uk": "Низ спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця: нижня частина",
+  "status": "manual"
  },
  "content:3352372871938212": {
   "src": "775477eb3efb",
-  "uk": "Волан спідниці нижній перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан спідниці нижній передній"
+  "uk": "Нижній рюш спідниці: передня частина",
+  "status": "manual"
  },
  "content:3352372871938213": {
   "src": "45e262556153",
-  "uk": "Волан спідниці верхній перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан спідниці верхній передній"
+  "uk": "Верхній рюш спідниці: передня частина",
+  "status": "manual"
  },
  "content:3352372871938214": {
   "src": "465d80dc3e9e",
-  "uk": "Волан спідниці нижній зад",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан спідниці нижній задній"
+  "uk": "Нижній рюш спідниці: задня частина",
+  "status": "manual"
  },
  "content:3352372871938215": {
   "src": "d987655b95e7",
-  "uk": "Волан спідниці верхній зад",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан спідниці верхній задній"
+  "uk": "Верхній рюш спідниці: задня частина",
+  "status": "manual"
  },
  "content:3352372871938216": {
   "src": "c304b03ea1c5",
-  "uk": "Ярус 1 спідниці задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: задня частина",
+  "status": "manual"
  },
  "content:3352372871938217": {
   "src": "54669058f4ab",
-  "uk": "Ярус 1 спідниці передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: передня частина",
+  "status": "manual"
  },
  "content:3352372871938218": {
   "src": "61ae7ae56495",
-  "uk": "Ярус 1 спідниці лівий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938219": {
   "src": "15ff9aae8df6",
-  "uk": "Ярус 1 спідниці лівий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938220": {
   "src": "3796dc78c8c0",
-  "uk": "Ярус 1 спідниці правий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938221": {
   "src": "6c3358de50cf",
-  "uk": "Ярус 1 спідниці правий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938222": {
   "src": "b7483e0be24e",
-  "uk": "Волан ярусу 1 спідниці задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан спідниці, ярус 1: задня частина",
+  "status": "manual"
  },
  "content:3352372871938223": {
   "src": "13f5ab5c1702",
-  "uk": "Волан ярусу 1 спідниці передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан спідниці, ярус 1: передня частина",
+  "status": "manual"
  },
  "content:3352372871938224": {
   "src": "4563f383e2ce",
-  "uk": "Ярус 2 спідниці задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 2: задня частина",
+  "status": "manual"
  },
  "content:3352372871938225": {
   "src": "b3443e8b4398",
-  "uk": "Ярус 2 передньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 2 спідниці передній"
+  "uk": "Спідниця, ярус 2: передня частина",
+  "status": "manual"
  },
  "content:3352372871938226": {
   "src": "50c824e6b9f1",
-  "uk": "Ярус 2 лівої задньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 2 спідниці лівий задній"
+  "uk": "Спідниця, ярус 2: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938227": {
   "src": "f36a8a43e650",
-  "uk": "Ярус 2 лівої передньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 2 спідниці лівий передній"
+  "uk": "Спідниця, ярус 2: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938228": {
   "src": "bb7c27a017cf",
-  "uk": "Ярус 2 правої задньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 2 спідниці правий задній"
+  "uk": "Спідниця, ярус 2: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938229": {
   "src": "ec37570ac990",
-  "uk": "Ярус 2 правої передньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 2 спідниці правий передній"
+  "uk": "Спідниця, ярус 2: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938230": {
   "src": "7ca0f848fbef",
-  "uk": "Волан ярусу 2 задньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан ярусу 2 спідниці задній"
+  "uk": "Волан спідниці, ярус 2: задня частина",
+  "status": "manual"
  },
  "content:3352372871938231": {
   "src": "d61495d32e25",
-  "uk": "Волан ярусу 2 передньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан ярусу 2 спідниці передній"
+  "uk": "Волан спідниці, ярус 2: передня частина",
+  "status": "manual"
  },
  "content:3352372871938232": {
   "src": "7003c7e3afe9",
-  "uk": "Ярус 3 задньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 3 спідниці задній"
+  "uk": "Спідниця, ярус 3: задня частина",
+  "status": "manual"
  },
  "content:3352372871938233": {
   "src": "eebd6da365a5",
-  "uk": "Ярус 3 передньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 3 спідниці передній"
+  "uk": "Спідниця, ярус 3: передня частина",
+  "status": "manual"
  },
  "content:3352372871938234": {
   "src": "7f9cd072a2b0",
-  "uk": "Ярус 3 лівої задньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 3 спідниці лівий задній"
+  "uk": "Спідниця, ярус 3: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372871938235": {
   "src": "7eae95d242d8",
-  "uk": "Ярус 3 лівої передньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 3 спідниці лівий передній"
+  "uk": "Спідниця, ярус 3: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372871938236": {
   "src": "e85c88669133",
-  "uk": "Ярус 3 правої задньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 3 спідниці правий задній"
+  "uk": "Спідниця, ярус 3: права задня частина",
+  "status": "manual"
  },
  "content:3352372871938237": {
   "src": "e15686e73825",
-  "uk": "Ярус 3 правої передньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 3 спідниці правий передній"
+  "uk": "Спідниця, ярус 3: права передня частина",
+  "status": "manual"
  },
  "content:3352372871938238": {
   "src": "3317e0964ba6",
-  "uk": "Волан ярусу 3 передньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан ярусу 3 спідниці передній"
+  "uk": "Волан спідниці, ярус 3: передня частина",
+  "status": "manual"
  },
  "content:3352372876132352": {
   "src": "445baeacba91",
-  "uk": "Волан ярусу 3 задньої спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан ярусу 3 спідниці задній"
+  "uk": "Волан спідниці, ярус 3: задня частина",
+  "status": "manual"
  },
  "content:3352372876132353": {
   "src": "be4c00b77022",
-  "uk": "Талія задньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Талія спідниці задній"
+  "uk": "Талія спідниці: задня частина",
+  "status": "manual"
  },
  "content:3352372876132354": {
   "src": "3aaa32c09cc6",
-  "uk": "Талія передньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Талія спідниці передній"
+  "uk": "Талія спідниці: передня частина",
+  "status": "manual"
  },
  "content:3352372876132355": {
   "src": "23a4e3310d5e",
-  "uk": "Талія лівої задньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Талія спідниці лівий задній"
+  "uk": "Талія спідниці: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132356": {
   "src": "0fa10772a554",
-  "uk": "Талія лівої передньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Талія спідниці лівий передній"
+  "uk": "Талія спідниці: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132357": {
   "src": "40cce9851df2",
-  "uk": "Талія правої задньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Талія спідниці правий задній"
+  "uk": "Талія спідниці: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132358": {
   "src": "ff077fbcec5c",
-  "uk": "Талія правої передньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Талія спідниці правий передній"
+  "uk": "Талія спідниці: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132359": {
   "src": "19bb8b37fb35",
-  "uk": "Ярус 4 правої задньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 4 спідниці правий задній"
+  "uk": "Спідниця, ярус 4: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132360": {
   "src": "ee1e15913e69",
-  "uk": "Ярус 4 задньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 4 спідниці задній"
+  "uk": "Спідниця, ярус 4: задня частина",
+  "status": "manual"
  },
  "content:3352372876132361": {
   "src": "24d29bb4ec0d",
-  "uk": "Ярус 4 лівої передньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 4 спідниці лівий передній"
+  "uk": "Спідниця, ярус 4: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132362": {
   "src": "793793c1bdae",
-  "uk": "Ярус 4 правої передньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 4 спідниці правий передній"
+  "uk": "Спідниця, ярус 4: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132363": {
   "src": "c95ab70d52b3",
-  "uk": "Ярус 4 лівої задньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 4 спідниці лівий задній"
+  "uk": "Спідниця, ярус 4: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132364": {
   "src": "5d95f7958426",
-  "uk": "Ярус 4 передньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 4 спідниці передній"
+  "uk": "Спідниця, ярус 4: передня частина",
+  "status": "manual"
  },
  "content:3352372876132365": {
   "src": "ce01986c27e8",
-  "uk": "Пояс лівої задньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Пояс спідниці лівий задній"
+  "uk": "Пасок спідниці: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132366": {
   "src": "ae8240c7b5e8",
-  "uk": "Пояс лівої передньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Пояс спідниці лівий передній"
+  "uk": "Пасок спідниці: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132367": {
   "src": "05dadc9f3e71",
-  "uk": "Пояс правої задньої частини спідниці",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Пояс спідниці правий задній"
+  "uk": "Пасок спідниці: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132368": {
   "src": "02c4ec5dd6b7",
-  "uk": "Пояс спідниці правий перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Пояс спідниці правий передній"
+  "uk": "Пасок спідниці: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132369": {
   "src": "228d39cc9520",
-  "uk": "Нижня спідниця задня",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Нижня спідниця задній"
+  "uk": "Нижня спідниця: задня частина",
+  "status": "manual"
  },
  "content:3352372876132370": {
   "src": "5e88a332af48",
-  "uk": "Нижня спідниця передня",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Нижня спідниця передній"
+  "uk": "Нижня спідниця: передня частина",
+  "status": "manual"
  },
  "content:3352372876132371": {
   "src": "85f853a48604",
-  "uk": "Нижня спідниця лівий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня спідниця: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132372": {
   "src": "cc576c212a36",
-  "uk": "Нижня спідниця лівий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня спідниця: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132373": {
   "src": "546537e3b6cf",
-  "uk": "Нижня спідниця правий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня спідниця: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132374": {
   "src": "bdc4f4c77178",
-  "uk": "Нижня спідниця правий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня спідниця: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132375": {
   "src": "6d75384ff868",
-  "uk": "Верхня спідниця задня",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Верхня спідниця задній"
+  "uk": "Верхня спідниця: задня частина",
+  "status": "manual"
  },
  "content:3352372876132376": {
   "src": "a0bd34c580ef",
-  "uk": "Верхня спідниця передня",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Верхня спідниця передній"
+  "uk": "Верхня спідниця: передня частина",
+  "status": "manual"
  },
  "content:3352372876132377": {
   "src": "e5906f71b816",
-  "uk": "Верхня спідниця лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Верхня спідниця: ліва частина",
+  "status": "manual"
  },
  "content:3352372876132378": {
   "src": "a0087b49aeb0",
-  "uk": "Верхня спідниця правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Верхня спідниця: права частина",
+  "status": "manual"
  },
  "content:3352372876132379": {
   "src": "e20243bc46b3",
-  "uk": "Волан передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан: передня частина",
+  "status": "manual"
  },
  "content:3352372876132380": {
   "src": "7778347d2c22",
-  "uk": "Волан лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан: ліва частина",
+  "status": "manual"
  },
  "content:3352372876132381": {
   "src": "bcc5c4998298",
-  "uk": "Волан правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан: права частина",
+  "status": "manual"
  },
  "content:3352372876132382": {
   "src": "6e616c43dd5e",
-  "uk": "Нижня спідниця правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня спідниця: права частина",
+  "status": "manual"
  },
  "content:3352372876132383": {
   "src": "5a566837af44",
-  "uk": "Нижня спідниця ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Нижня спідниця лівий"
+  "uk": "Нижня спідниця: ліва частина",
+  "status": "manual"
  },
  "content:3352372876132384": {
   "src": "33ac7d5c34e2",
-  "uk": "Спідниця правий бік, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця правий задній"
+  "uk": "Спідниця: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132385": {
   "src": "79b0aef4749a",
-  "uk": "Баска спідниці, лівий бік, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Баска спідниці задній лівий"
+  "uk": "Баска спідниці: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132386": {
   "src": "c3499bcef239",
-  "uk": "Баска спідниці, правий бік, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Баска спідниці задній правий"
+  "uk": "Баска спідниці: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132387": {
   "src": "5254b35af8b5",
-  "uk": "Баска спідниці, лівий бік, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Баска спідниці передній лівий"
+  "uk": "Баска спідниці: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132388": {
   "src": "03bad60aaf60",
-  "uk": "Баска спідниці, правий бік, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Баска спідниці передній правий"
+  "uk": "Баска спідниці: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132389": {
   "src": "e03162c444ff",
-  "uk": "Баска спідниці, лівий бік",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Баска спідниці лівий"
+  "uk": "Баска спідниці: ліва частина",
+  "status": "manual"
  },
  "content:3352372876132390": {
   "src": "d2bf25e541a7",
-  "uk": "Баска спідниці, правий бік",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Баска спідниці правий"
+  "uk": "Баска спідниці: права частина",
+  "status": "manual"
  },
  "content:3352372876132391": {
   "src": "5211cb4a3045",
-  "uk": "Ярус 1 спідниці, лівий бік",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 1 спідниці лівий"
+  "uk": "Спідниця, ярус 1: ліва частина",
+  "status": "manual"
  },
  "content:3352372876132392": {
   "src": "286421f8c5e0",
-  "uk": "Ярус 1 спідниці, правий бік",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 1 спідниці правий"
+  "uk": "Спідниця, ярус 1: права частина",
+  "status": "manual"
  },
  "content:3352372876132393": {
   "src": "cf9985f0ec27",
-  "uk": "Ярус 2 спідниці, лівий бік, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 2 спідниці задній лівий"
+  "uk": "Спідниця, ярус 2: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132394": {
   "src": "2f2a725377fb",
-  "uk": "Ярус 2 спідниці, правий бік, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 2 спідниці задній правий"
+  "uk": "Спідниця, ярус 2: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132395": {
   "src": "a25f6bd8b0ca",
-  "uk": "Ярус 2 спідниці, лівий бік, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 2 спідниці передній лівий"
+  "uk": "Спідниця, ярус 2: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132396": {
   "src": "ab8474c93047",
-  "uk": "Ярус 2 спідниці, правий бік, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 2 спідниці передній правий"
+  "uk": "Спідниця, ярус 2: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132397": {
   "src": "d0e9934c3db8",
-  "uk": "Ярус 2 спідниці, лівий бік",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 2 спідниці лівий"
+  "uk": "Спідниця, ярус 2: ліва частина",
+  "status": "manual"
  },
  "content:3352372876132398": {
   "src": "1adf533a579c",
-  "uk": "Ярус 2 спідниці праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 2 спідниці правий"
+  "uk": "Спідниця, ярус 2: права частина",
+  "status": "manual"
  },
  "content:3352372876132399": {
   "src": "1f471a76bb84",
-  "uk": "Ярус 3 спідниці ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 3 спідниці лівий"
+  "uk": "Спідниця, ярус 3: ліва частина",
+  "status": "manual"
  },
  "content:3352372876132400": {
   "src": "dc160b660acd",
-  "uk": "Ярус 3 спідниці праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 3 спідниці правий"
+  "uk": "Спідниця, ярус 3: права частина",
+  "status": "manual"
  },
  "content:3352372876132401": {
   "src": "5785125a695f",
-  "uk": "Ярус 1 спідниці заднє оздоблення",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення спідниці, ярус 1: задня частина",
+  "status": "manual"
  },
  "content:3352372876132402": {
   "src": "cb7affd2c17a",
-  "uk": "Ярус 1 спідниці переднє оздоблення",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення спідниці, ярус 1: передня частина",
+  "status": "manual"
  },
  "content:3352372876132403": {
   "src": "6de63a09edc2",
-  "uk": "Ярус 1 спідниці ліве оздоблення",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення спідниці, ярус 1: ліва частина",
+  "status": "manual"
  },
  "content:3352372876132404": {
   "src": "b81af32dafca",
-  "uk": "Ярус 1 спідниці праве оздоблення",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення спідниці, ярус 1: права частина",
+  "status": "manual"
  },
  "content:3352372876132405": {
   "src": "cc891b23e304",
-  "uk": "Оздоблення 2 ярусу спідниці заднє ліве",
+  "uk": "Оздоблення спідниці, ярус 2: ліва задня частина",
   "status": "manual"
  },
  "content:3352372876132406": {
   "src": "a73ae3da3fa7",
-  "uk": "Оздоблення 2 ярусу спідниці заднє праве",
+  "uk": "Оздоблення спідниці, ярус 2: права задня частина",
   "status": "manual"
  },
  "content:3352372876132407": {
   "src": "0cddee3143ef",
-  "uk": "Ярус 2 спідниці переднє ліве оздоблення",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення спідниці, ярус 2: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132408": {
   "src": "6e9f620ddee3",
-  "uk": "Ярус 2 спідниці переднє праве оздоблення",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення спідниці, ярус 2: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132409": {
   "src": "0ff5e8de9d8f",
-  "uk": "Ярус 2 спідниці ліве оздоблення",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення спідниці, ярус 2: ліва частина",
+  "status": "manual"
  },
  "content:3352372876132410": {
   "src": "ff8285d0a168",
-  "uk": "Ярус 2 спідниці праве переднє оздоблення",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Оздоблення спідниці, ярус 2: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132411": {
   "src": "6848fa6c679c",
-  "uk": "Волан 1 спідниці задній лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 1: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132412": {
   "src": "02c82949c6ae",
-  "uk": "Волан 1 спідниці передній лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 1: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132413": {
   "src": "3b5c96851f65",
-  "uk": "Волан 01 задній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан 1: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132414": {
   "src": "3911df2317ca",
-  "uk": "Волан 1 спідниці передній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 1: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132415": {
   "src": "9bdd6d5e4bdc",
-  "uk": "Волан 1 спідниці лівий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 1: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132416": {
   "src": "389443715930",
-  "uk": "Волан 1 спідниці лівий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 1: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132417": {
   "src": "57af7620b724",
-  "uk": "Волан 1 спідниці правий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 1: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132418": {
   "src": "4f5d873be5e5",
-  "uk": "Волан 1 спідниці правий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 1: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132419": {
   "src": "5172e32671a6",
-  "uk": "Волан 2 спідниці задній лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 2: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132420": {
   "src": "d172a4213995",
-  "uk": "Волан 2 спідниці задній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 2: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132421": {
   "src": "a79fab9db2e3",
-  "uk": "Волан 2 спідниці передній лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 2: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132422": {
   "src": "58bf0066b075",
-  "uk": "Волан 2 спідниці передній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 2: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132423": {
   "src": "5518dfb6f6a4",
-  "uk": "Волан 2 спідниці лівий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 2: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132424": {
   "src": "68768fa60f15",
-  "uk": "Волан 2 спідниці лівий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 2: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132425": {
   "src": "9f858dd78f77",
-  "uk": "Волан 2 спідниці правий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 2: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132426": {
   "src": "fdca605a172f",
-  "uk": "Волан 2 спідниці правий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 2: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132427": {
   "src": "7212f228f5e8",
-  "uk": "Волан 3 спідниці задній лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, волан 3: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132428": {
   "src": "01f9e8a002f3",
-  "uk": "Волан 3, спідниця, задня права частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 3 спідниці задній правий"
+  "uk": "Спідниця, волан 3: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132429": {
   "src": "2fc29edf65d8",
-  "uk": "Волан 3, спідниця, передня ліва частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 3 спідниці передній лівий"
+  "uk": "Спідниця, волан 3: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132430": {
   "src": "a7dcdb4b7a53",
-  "uk": "Волан 3, спідниця, передня права частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 3 спідниці передній правий"
+  "uk": "Спідниця, волан 3: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132431": {
   "src": "9b6c89f161a8",
-  "uk": "Волан 3, спідниця, ліва задня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 3 спідниці лівий задній"
+  "uk": "Спідниця, волан 3: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132432": {
   "src": "2ca3f05a9e01",
-  "uk": "Волан 3, спідниця, ліва передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 3 спідниці лівий передній"
+  "uk": "Спідниця, волан 3: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132433": {
   "src": "23caaedf1bdf",
-  "uk": "Волан 3, спідниця, права задня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 3 спідниці правий задній"
+  "uk": "Спідниця, волан 3: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132434": {
   "src": "a7301374bfcd",
-  "uk": "Волан 3, спідниця, права передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 3 спідниці правий передній"
+  "uk": "Спідниця, волан 3: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132435": {
   "src": "dea89fb1398d",
-  "uk": "Волан 4, спідниця, задня ліва частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 4 спідниці задній лівий"
+  "uk": "Спідниця, волан 4: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132436": {
   "src": "182413ec977c",
-  "uk": "Волан 4, спідниця, задня права частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 4 спідниці задній правий"
+  "uk": "Спідниця, волан 4: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132437": {
   "src": "93fac87679c3",
-  "uk": "Волан 4, спідниця, передня ліва частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 4 спідниці передній лівий"
+  "uk": "Спідниця, волан 4: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132438": {
   "src": "e5cffd1a9a79",
-  "uk": "Волан 4, спідниця, передня права частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 4 спідниці передній правий"
+  "uk": "Спідниця, волан 4: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132439": {
   "src": "b8c4e7d18092",
-  "uk": "Волан 4, спідниця, ліва задня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 4 спідниці лівий задній"
+  "uk": "Спідниця, волан 4: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132440": {
   "src": "c60a5281c05f",
-  "uk": "Волан 4, спідниця, ліва передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 4 спідниці лівий передній"
+  "uk": "Спідниця, волан 4: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132441": {
   "src": "8a8541482b6e",
-  "uk": "Волан 4, спідниця, права задня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 4 спідниці правий задній"
+  "uk": "Спідниця, волан 4: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132442": {
   "src": "507d5cca11d3",
-  "uk": "Волан 4, спідниця, права передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 4 спідниці правий передній"
+  "uk": "Спідниця, волан 4: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132443": {
   "src": "13e8f8cdaffe",
-  "uk": "Волан 5 задній лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 5 спідниці задній лівий"
+  "uk": "Спідниця, волан 5: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132444": {
   "src": "92f85298d64c",
-  "uk": "Волан 5 задній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 5 спідниці задній правий"
+  "uk": "Спідниця, волан 5: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132445": {
   "src": "337db251acd9",
-  "uk": "Волан 5 передній лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 5 спідниці передній лівий"
+  "uk": "Спідниця, волан 5: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132446": {
   "src": "75d057f067ba",
-  "uk": "Волан 5 лівий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 5 спідниці лівий задній"
+  "uk": "Спідниця, волан 5: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132447": {
   "src": "9eb8bcce87e0",
-  "uk": "Волан 5 лівий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 5 спідниці лівий передній"
+  "uk": "Спідниця, волан 5: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132448": {
   "src": "22ad8655adeb",
-  "uk": "Волан 5 передній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 5 спідниці передній правий"
+  "uk": "Спідниця, волан 5: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132449": {
   "src": "7b42e4ddf745",
-  "uk": "Волан 5 правий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Волан 5 спідниці правий задній"
+  "uk": "Спідниця, волан 5: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132450": {
   "src": "18008cf56243",
-  "uk": "Пояс спинки",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Пояс спинка"
+  "uk": "Пояс: задня частина",
+  "status": "manual"
  },
  "content:3352372876132451": {
   "src": "03eae65b7873",
-  "uk": "Пояс переду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Пояс перед"
+  "uk": "Пояс: передня частина",
+  "status": "manual"
  },
  "content:3352372876132452": {
   "src": "86be91ee4ea9",
-  "uk": "Пояс лівий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пояс: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132453": {
   "src": "bba6f3cb9168",
-  "uk": "Пояс лівий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пояс: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132454": {
   "src": "09ddddc27d81",
-  "uk": "Пояс правий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пояс: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132455": {
   "src": "46cf3c57cbf4",
-  "uk": "Пояс правий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пояс: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132456": {
   "src": "e2d9dde8eca6",
-  "uk": "Волан 05 передній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан 5: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132457": {
   "src": "b94d797d8088",
-  "uk": "Спідниця передній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця правий передній"
+  "uk": "Спідниця: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132458": {
   "src": "9065d438af09",
-  "uk": "Ярус 01 спідниці, задній лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 01 спідниці задній лівий"
+  "uk": "Спідниця, ярус 1: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132459": {
   "src": "dd07366a9692",
-  "uk": "Ярус 01 спідниці, задній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 01 спідниці задній правий"
+  "uk": "Спідниця, ярус 1: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132460": {
   "src": "9b5e07d7ed14",
-  "uk": "Ярус 01 спідниці, передній лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 01 спідниці передній лівий"
+  "uk": "Спідниця, ярус 1: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132461": {
   "src": "2141211f630c",
-  "uk": "Ярус 01 спідниці, передній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 01 спідниці передній правий"
+  "uk": "Спідниця, ярус 1: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132462": {
   "src": "323aa444ee54",
-  "uk": "Ярус 01 спідниці, лівий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 01 спідниці лівий задній"
+  "uk": "Спідниця, ярус 1: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132463": {
   "src": "85529addb075",
-  "uk": "Ярус 01 спідниці, лівий перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 01 спідниці лівий перед"
+  "uk": "Спідниця, ярус 1: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132464": {
   "src": "d62128cea984",
-  "uk": "Ярус 01 спідниці, правий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 01 спідниці правий задній"
+  "uk": "Спідниця, ярус 1: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132465": {
   "src": "f6dda18b35f3",
-  "uk": "Ярус 01 спідниці, правий перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 01 спідниці правий перед"
+  "uk": "Спідниця, ярус 1: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132466": {
   "src": "32c8b4291d4e",
-  "uk": "Ярус 02 спідниці, задній лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 02 спідниці задній лівий"
+  "uk": "Спідниця, ярус 2: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132467": {
   "src": "1548595e09c6",
-  "uk": "Ярус 02 спідниці, задній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 02 спідниці задній правий"
+  "uk": "Спідниця, ярус 2: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132468": {
   "src": "8671babb37e5",
-  "uk": "Ярус 02 спідниці, передній лівий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 02 спідниці передній лівий"
+  "uk": "Спідниця, ярус 2: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132469": {
   "src": "15dd24a918ed",
-  "uk": "Ярус 02 спідниці, передній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 02 спідниці передній правий"
+  "uk": "Спідниця, ярус 2: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132470": {
   "src": "6c7449aea92a",
-  "uk": "Ярус 02 спідниці, лівий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 02 спідниці лівий задній"
+  "uk": "Спідниця, ярус 2: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132471": {
   "src": "748b30f99b6f",
-  "uk": "Ярус 02 спідниці, лівий перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 02 спідниці лівий перед"
+  "uk": "Спідниця, ярус 2: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132472": {
   "src": "1a128fe8a6da",
-  "uk": "Ярус 02 спідниці, правий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 02 спідниці правий задній"
+  "uk": "Спідниця, ярус 2: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132473": {
   "src": "4d69e7ca8fb2",
-  "uk": "Ярус 02 спідниці передній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 02 спідниці правий перед"
+  "uk": "Спідниця, ярус 2: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132474": {
   "src": "199cc54beeef",
-  "uk": "Спідниця правий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132475": {
   "src": "a787bde1cdb1",
-  "uk": "Ярус спідниці передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус спідниці перед"
+  "uk": "Ярус спідниці: передня частина",
+  "status": "manual"
  },
  "content:3352372876132476": {
   "src": "870e7d76687b",
-  "uk": "Ярус спідниці задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ярус спідниці: задня частина",
+  "status": "manual"
  },
  "content:3352372876132477": {
   "src": "14c84332a1b4",
-  "uk": "Ярус спідниці лівий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ярус спідниці: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132478": {
   "src": "c5c4c157df8d",
-  "uk": "Ярус спідниці лівий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус спідниці лівий перед"
+  "uk": "Ярус спідниці: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132479": {
   "src": "a0f1f27e2501",
-  "uk": "Ярус спідниці передній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус спідниці правий перед"
+  "uk": "Ярус спідниці: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132480": {
   "src": "6775f53d58e4",
-  "uk": "Ярус спідниці задній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус спідниці правий задній"
+  "uk": "Ярус спідниці: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132481": {
   "src": "b0ecb2e37de5",
-  "uk": "Верхня спідниця передній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Верхня спідниця правий перед"
+  "uk": "Верхня спідниця: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132482": {
   "src": "ffee8f0e6c23",
-  "uk": "Верхня спідниця задній правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Верхня спідниця правий задній"
+  "uk": "Верхня спідниця: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132483": {
   "src": "02d4b12496b7",
-  "uk": "Верхня спідниця лівий задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Верхня спідниця: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132484": {
   "src": "75f1d40a630c",
-  "uk": "Верхня спідниця лівий передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Верхня спідниця лівий перед"
+  "uk": "Верхня спідниця: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132485": {
   "src": "dac6d10ae021",
-  "uk": "Пояс спідниці правий",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пасок спідниці: права частина",
+  "status": "manual"
  },
  "content:3352372876132486": {
   "src": "e1b54347c07d",
-  "uk": "Ярус 01 спідниці задній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: задня частина",
+  "status": "manual"
  },
  "content:3352372876132487": {
   "src": "59a76b9c79ab",
-  "uk": "Ярус 01 спідниці передній",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 01 спідниці перед"
+  "uk": "Спідниця, ярус 1: передня частина",
+  "status": "manual"
  },
  "content:3352372876132488": {
   "src": "3c4b3e9e04f5",
-  "uk": "Ярус 01 спідниці, передня права частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 01 спідниці правий перед"
+  "uk": "Спідниця, ярус 1: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132489": {
   "src": "e57067c5acfe",
-  "uk": "Ярус 02 спідниці, задня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 02 спідниці задній"
+  "uk": "Спідниця, ярус 2: задня частина",
+  "status": "manual"
  },
  "content:3352372876132490": {
   "src": "4a3be5d63ab4",
-  "uk": "Ярус 02 спідниці, передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 02 спідниці перед"
+  "uk": "Спідниця, ярус 2: передня частина",
+  "status": "manual"
  },
  "content:3352372876132491": {
   "src": "5e11f75c2417",
-  "uk": "Ярус 03 спідниці, задня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 03 спідниці задній"
+  "uk": "Спідниця, ярус 3: задня частина",
+  "status": "manual"
  },
  "content:3352372876132492": {
   "src": "3921337e8f16",
-  "uk": "Ярус 03 спідниці, передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 03 спідниці перед"
+  "uk": "Спідниця, ярус 3: передня частина",
+  "status": "manual"
  },
  "content:3352372876132493": {
   "src": "b4909fe64756",
-  "uk": "Ярус 03 спідниці, ліва задня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 03 спідниці лівий задній"
+  "uk": "Спідниця, ярус 3: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132494": {
   "src": "8c369ee766a1",
-  "uk": "Ярус 03 спідниці, ліва передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 03 спідниці лівий перед"
+  "uk": "Спідниця, ярус 3: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132495": {
   "src": "4068ec23f69b",
-  "uk": "Ярус 03 спідниці, права задня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 03 спідниці правий задній"
+  "uk": "Спідниця, ярус 3: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132496": {
   "src": "8ef937b7d82a",
-  "uk": "Ярус 03 спідниці, права передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 03 спідниці правий перед"
+  "uk": "Спідниця, ярус 3: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132497": {
   "src": "5490c05d4b71",
-  "uk": "Шлейф спідниці, задня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Шлейф спідниці задній"
+  "uk": "Шлейф спідниці: задня частина",
+  "status": "manual"
  },
  "content:3352372876132498": {
   "src": "4e2eaea4fd4d",
-  "uk": "Шлейф спідниці, передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Шлейф спідниці передній"
+  "uk": "Шлейф спідниці: передня частина",
+  "status": "manual"
  },
  "content:3352372876132499": {
   "src": "bee29c8f7633",
-  "uk": "Шлейф спідниці, ліва задня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Шлейф спідниці лівий задній"
+  "uk": "Шлейф спідниці: ліва задня частина",
+  "status": "manual"
  },
  "content:3352372876132500": {
   "src": "430cef171c5d",
-  "uk": "Шлейф спідниці, ліва передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Шлейф спідниці лівий передній"
+  "uk": "Шлейф спідниці: ліва передня частина",
+  "status": "manual"
  },
  "content:3352372876132501": {
   "src": "eae421857a5d",
-  "uk": "Шлейф спідниці, права задня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Шлейф спідниці правий задній"
+  "uk": "Шлейф спідниці: права задня частина",
+  "status": "manual"
  },
  "content:3352372876132502": {
   "src": "b299fdb37ec4",
-  "uk": "Шлейф спідниці, права передня частина",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Шлейф спідниці правий передній"
+  "uk": "Шлейф спідниці: права передня частина",
+  "status": "manual"
  },
  "content:3352372876132503": {
   "src": "130fb47f894f",
-  "uk": "Спідниця, стегно ліворуч, ззаду",
+  "uk": "Кокетка спідниці: ліва задня частина",
   "status": "manual"
  },
  "content:3352372876132504": {
   "src": "625a8e604f1c",
-  "uk": "Спідниця, стегно ліворуч, спереду",
+  "uk": "Кокетка спідниці: ліва передня частина",
   "status": "manual"
  },
  "content:3352372876132505": {
   "src": "0b7ac21c8344",
-  "uk": "Спідниця, стегно праворуч, ззаду",
+  "uk": "Кокетка спідниці: права задня частина",
   "status": "manual"
  },
  "content:3352372876132506": {
   "src": "8122fce209e2",
-  "uk": "Спідниця, стегно праворуч, спереду",
+  "uk": "Кокетка спідниці: права передня частина",
   "status": "manual"
  },
  "content:3352372876132507": {
   "src": "6da84219877e",
-  "uk": "Правий бант",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Бант правий"
+  "uk": "Бант: права частина",
+  "status": "manual"
  },
  "content:3352372876132508": {
   "src": "9791269e7c00",
@@ -10659,75 +9813,53 @@
  },
  "content:3352372876132516": {
   "src": "88ebd2f20daf",
-  "uk": "Права манжета рукава",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Манжета правого рукава",
+  "status": "manual"
  },
  "content:3352372876132517": {
   "src": "59adb1a5c2ba",
-  "uk": "Ліва манжета рукава",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Манжета лівого рукава",
+  "status": "manual"
  },
  "content:3352372876132518": {
   "src": "b87ae8ae34b4",
-  "uk": "Волан на лівому рукаві",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан лівого рукава",
+  "status": "manual"
  },
  "content:3352372876132519": {
   "src": "75e23621a31a",
-  "uk": "Волан на правому рукаві",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Волан правого рукава",
+  "status": "manual"
  },
  "content:3352372876132520": {
   "src": "cc17e47c940e",
-  "uk": "Середина правого рукава",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Правий рукав: середня частина",
+  "status": "manual"
  },
  "content:3352372876132521": {
   "src": "79830d2be88c",
-  "uk": "Плече правого рукава",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Плечова частина правого рукава",
+  "status": "manual"
  },
  "content:3352372876132522": {
   "src": "f9f775740179",
-  "uk": "Середина лівого рукава",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Лівий рукав: середня частина",
+  "status": "manual"
  },
  "content:3352372876132523": {
   "src": "b8501dab5ad4",
-  "uk": "Плече лівого рукава",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Плечова частина лівого рукава",
+  "status": "manual"
  },
  "content:3352372876132524": {
   "src": "f4f3a2681a3c",
-  "uk": "Ліва манжета рукава",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ліва стрічка рукава"
+  "uk": "Обшивка лівого рукава",
+  "status": "manual"
  },
  "content:3352372876132525": {
   "src": "00df25e7f342",
-  "uk": "Права манжета рукава",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Права стрічка рукава"
+  "uk": "Обшивка правого рукава",
+  "status": "manual"
  },
  "content:3352372876132526": {
   "src": "0340b8b6eead",
@@ -10741,33 +9873,23 @@
  },
  "content:3352372876132528": {
   "src": "41e11dec83d6",
-  "uk": "Лівий верхній рукав-пуф",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Буф лівого рукава",
+  "status": "manual"
  },
  "content:3352372876132529": {
   "src": "5ddf3c732151",
-  "uk": "Правий верхній рукав-пуф",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Буф правого рукава",
+  "status": "manual"
  },
  "content:3352372876132530": {
   "src": "771a030f6c06",
-  "uk": "Ліва манжета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ліва манжета рукава"
+  "uk": "Манжета лівого рукава",
+  "status": "manual"
  },
  "content:3352372876132531": {
   "src": "e73ed89e67ae",
-  "uk": "Права манжета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Права манжета рукава"
+  "uk": "Манжета правого рукава",
+  "status": "manual"
  },
  "content:3352372876132532": {
   "src": "b1f9e83d5040",
@@ -10905,10 +10027,8 @@
  },
  "content:6250741051146240": {
   "src": "c1aabc69eefc",
-  "uk": "Ліф із піднятими воланами та квадратним вирізом",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вишуканий ліф з воланами й квадратним вирізом",
+  "status": "manual"
  },
  "content:6250741051146241": {
   "src": "648a3db6baae",
@@ -10919,136 +10039,98 @@
  },
  "content:6250741059534848": {
   "src": "31db1fbc924a",
-  "uk": "Комір, спинка, ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір: ліва задня частина",
+  "status": "manual"
  },
  "content:6250741059534849": {
   "src": "cb5a17031edc",
-  "uk": "Комір, спинка, праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір: права задня частина",
+  "status": "manual"
  },
  "content:6250741059534850": {
   "src": "3de6d7a2dbc3",
-  "uk": "Комір, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір: передня частина",
+  "status": "manual"
  },
  "content:6250741059534851": {
   "src": "f92300b1c1ec",
-  "uk": "Комір, ліворуч, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір: ліва задня частина",
+  "status": "manual"
  },
  "content:6250741059534852": {
   "src": "5e8239bd7980",
-  "uk": "Комір, ліворуч, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір: ліва передня частина",
+  "status": "manual"
  },
  "content:6250741059534853": {
   "src": "3f37838d9a8e",
-  "uk": "Комір, планка, спинка, ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Планка коміра: ліва задня частина",
+  "status": "manual"
  },
  "content:6250741059534854": {
   "src": "6f56b5ce5ce5",
-  "uk": "Комір, планка, спинка, праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Планка коміра: права задня частина",
+  "status": "manual"
  },
  "content:6250741059534855": {
   "src": "85abed8ab120",
-  "uk": "Комір, праворуч, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір: права задня частина",
+  "status": "manual"
  },
  "content:6250741059534856": {
   "src": "323ddda8d142",
-  "uk": "Комір, праворуч, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір: права передня частина",
+  "status": "manual"
  },
  "content:6250741059534857": {
   "src": "03d3a0f830ac",
-  "uk": "Комір, спинка, стрічка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Стрічка коміра: задня частина",
+  "status": "manual"
  },
  "content:6250741059534858": {
   "src": "5a3f09b6509e",
-  "uk": "Спідниця, ярус 4, праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 4: права частина",
+  "status": "manual"
  },
  "content:6250741059534859": {
   "src": "1d3233ba6a86",
-  "uk": "Спідниця, ярус 5, праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 5: права частина",
+  "status": "manual"
  },
  "content:6250741059534860": {
   "src": "b6fa4b519002",
-  "uk": "Спідниця, ярус 4, ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 4: ліва частина",
+  "status": "manual"
  },
  "content:6250741059534861": {
   "src": "b956446bac6e",
-  "uk": "Спідниця, ярус 5, ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 5: ліва частина",
+  "status": "manual"
  },
  "content:6250741059534862": {
   "src": "36490d8cdadb",
-  "uk": "Рукав, праворуч, манжета, рюш",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Рюш манжети правого рукава",
+  "status": "manual"
  },
  "content:6250741059534863": {
   "src": "391bd9b9978d",
-  "uk": "Рукав, ліворуч, буф",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Буф лівого рукава",
+  "status": "manual"
  },
  "content:6250741059534864": {
   "src": "4523dd066d84",
-  "uk": "Рукав, ліворуч, крило",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Крильце лівого рукава",
+  "status": "manual"
  },
  "content:6250741059534865": {
   "src": "f5fd05fc2025",
-  "uk": "Рукав, праворуч, крило",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Крильце правого рукава",
+  "status": "manual"
  },
  "content:6250741059534866": {
   "src": "25d5d543be95",
-  "uk": "Рукав, праворуч, буф",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Буф правого рукава",
+  "status": "manual"
  },
  "content:9146445998309376": {
   "src": "25ee95e80f47",
@@ -12086,161 +11168,113 @@
  },
  "content:20347480242634752": {
   "src": "b9ecb39c6d86",
-  "uk": "Внутрішня чашка ліфа зліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліва чашка ліфа: внутрішня частина",
+  "status": "manual"
  },
  "content:20347480242634753": {
   "src": "29bc92cc5a80",
-  "uk": "Внутрішня чашка ліфа справа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Права чашка ліфа: внутрішня частина",
+  "status": "manual"
  },
  "content:20347480242634754": {
   "src": "4980f48b4373",
-  "uk": "Зовнішня чашка ліфа зліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліва чашка ліфа: зовнішня частина",
+  "status": "manual"
  },
  "content:20347480242634755": {
   "src": "ddb3fa6ad024",
-  "uk": "Зовнішня чашка ліфа справа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Права чашка ліфа: зовнішня частина",
+  "status": "manual"
  },
  "content:20347480242634756": {
   "src": "c255a02a7fd0",
-  "uk": "Плече ліфа зліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліве плече ліфа",
+  "status": "manual"
  },
  "content:20347480242634757": {
   "src": "17491dec5172",
-  "uk": "Плече ліфа зліва ззаду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліве плече ліфа: задня частина",
+  "status": "manual"
  },
  "content:20347480242634758": {
   "src": "5af3bce866cf",
-  "uk": "Плече ліфа зліва спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліве плече ліфа: передня частина",
+  "status": "manual"
  },
  "content:20347480242634759": {
   "src": "cf47c16e987d",
-  "uk": "Плече ліфа справа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Праве плече ліфа",
+  "status": "manual"
  },
  "content:20347480242634760": {
   "src": "fbc436d88a06",
-  "uk": "Плече ліфа справа ззаду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Праве плече ліфа: задня частина",
+  "status": "manual"
  },
  "content:20347480242634761": {
   "src": "34039ba537cf",
-  "uk": "Плече ліфа справа спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Праве плече ліфа: передня частина",
+  "status": "manual"
  },
  "content:20347480242634762": {
   "src": "d26bdc570d21",
-  "uk": "Бретелька ліфа спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Бретель ліфа: передня частина",
+  "status": "manual"
  },
  "content:20347480242634763": {
   "src": "12512ecf488c",
-  "uk": "Бретелька ліфа зліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Бретелька ліфа стрічка зліва"
+  "uk": "Стрічка лівої бретелі ліфа",
+  "status": "manual"
  },
  "content:20347480242634764": {
   "src": "c424689225b2",
-  "uk": "Комір ліфа спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір ліфа: передня частина",
+  "status": "manual"
  },
  "content:20347480242634765": {
   "src": "06e6ce66a8d6",
-  "uk": "Перед ліфа спереду зліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634766": {
   "src": "d11879bfc288",
-  "uk": "Стрічка ліфа ззаду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Стрічка ліфа: задня частина",
+  "status": "manual"
  },
  "content:20347480242634767": {
   "src": "9ae8e3819b4d",
-  "uk": "Спинка дірндля",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Дірндль: задня частина",
+  "status": "manual"
  },
  "content:20347480242634768": {
   "src": "57c2a80807ff",
-  "uk": "Передня частина дірндля зліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Дірндль: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634769": {
   "src": "ab50d9e1c9d9",
-  "uk": "Передня частина дірндля справа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Дірндль: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634770": {
   "src": "46fbb625cbdf",
-  "uk": "Ліва задня частина дірндля",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Дірндль: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634771": {
   "src": "7136bb5b0ef7",
-  "uk": "Ліва передня частина дірндля",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ліва передня частина дірндля"
+  "uk": "Дірндль: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634772": {
   "src": "9009d7c858ce",
-  "uk": "Права задня частина дірндля",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Права задня частина дірндля"
+  "uk": "Дірндль: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634773": {
   "src": "8bf98f278ed9",
-  "uk": "Права передня частина дірндля",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Права передня частина дірндля"
+  "uk": "Дірндль: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634774": {
   "src": "5e524c8ec824",
@@ -12260,153 +11294,117 @@
  },
  "content:20347480242634776": {
   "src": "6d93135b0e87",
-  "uk": "Задня нижня сорочка ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня сорочка: задня частина",
+  "status": "manual"
  },
  "content:20347480242634777": {
   "src": "e7629ae25890",
-  "uk": "Передня нижня сорочка ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня сорочка: передня частина",
+  "status": "manual"
  },
  "content:20347480242634778": {
   "src": "0795acb384ce",
-  "uk": "Задній рюш ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Рюш ліфа: задня частина",
+  "status": "manual"
  },
  "content:20347480242634779": {
   "src": "d4fe03483348",
-  "uk": "Передній рюш ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Рюш ліфа: передня частина",
+  "status": "manual"
  },
  "content:20347480242634780": {
   "src": "21d3a68c63c8",
-  "uk": "Нижня сорочка ліфа, перед ліворуч",
+  "uk": "Нижня сорочка: ліва передня частина",
   "status": "manual"
  },
  "content:20347480242634781": {
   "src": "c7a9d2ffb26d",
-  "uk": "Права передня планка нижньої сорочки ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня сорочка: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634782": {
   "src": "6aceff89830a",
-  "uk": "Планка нижньої сорочки ліфа спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Планка нижньої сорочки: передня частина",
+  "status": "manual"
  },
  "content:20347480242634783": {
   "src": "aed11b55e407",
-  "uk": "Корсет ззаду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет: задня частина",
+  "status": "manual"
  },
  "content:20347480242634784": {
   "src": "a01521114260",
-  "uk": "Ліва передня планка корсета з люверсами",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліва планка корсета з люверсами: передня частина",
+  "status": "manual"
  },
  "content:20347480242634785": {
   "src": "1bafd2fc059f",
-  "uk": "Права передня планка корсета з люверсами",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Права планка корсета з люверсами: передня частина",
+  "status": "manual"
  },
  "content:20347480242634786": {
   "src": "3a5e0624e68d",
-  "uk": "Корсет спереду зліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634787": {
   "src": "92826bd9c8b7",
-  "uk": "Корсет спереду справа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634788": {
   "src": "61576de6e91a",
-  "uk": "Ліва задня частина корсета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634789": {
   "src": "a938b80e3cca",
-  "uk": "Ліва передня частина корсета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634790": {
   "src": "e8cf3f0fce95",
-  "uk": "Права задня частина корсета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634791": {
   "src": "131be10e279d",
-  "uk": "Права передня частина корсета",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Корсет: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634792": {
   "src": "322dcce1766b",
-  "uk": "Ліва пришивна частина рукава ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пришивна частина лівого рукава",
+  "status": "manual"
  },
  "content:20347480242634793": {
   "src": "d3926e73babd",
-  "uk": "Права пришивна частина рукава ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пришивна частина правого рукава",
+  "status": "manual"
  },
  "content:20347480242634794": {
   "src": "1c7c6fb5c0f0",
-  "uk": "Стрічка ліфа спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Стрічка ліфа: передня частина",
+  "status": "manual"
  },
  "content:20347480242634795": {
   "src": "62041291cbd1",
-  "uk": "Задня частина нижнього топа ліфа",
+  "uk": "Нижній топ: задня частина",
   "status": "manual"
  },
  "content:20347480242634796": {
   "src": "e029b13ad63f",
-  "uk": "Ліва передня частина нижнього топа ліфа",
+  "uk": "Нижній топ: ліва передня частина",
   "status": "manual"
  },
  "content:20347480242634797": {
   "src": "bbf6472b7dac",
-  "uk": "Права передня частина нижнього топа ліфа",
+  "uk": "Нижній топ: права передня частина",
   "status": "manual"
  },
  "content:20347480242634798": {
   "src": "d87051e47b1f",
-  "uk": "Передня частина нижнього топа ліфа",
+  "uk": "Нижній топ: передня частина",
   "status": "manual"
  },
  "content:20347480242634799": {
@@ -12418,681 +11416,463 @@
  },
  "content:20347480242634800": {
   "src": "5655129ef33a",
-  "uk": "Задня частина нижнього топа",
+  "uk": "Нижній топ: задня частина",
   "status": "manual"
  },
  "content:20347480242634801": {
   "src": "08e329d15181",
-  "uk": "Передня частина нижньої сорочки",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижній топ: передня частина",
+  "status": "manual"
  },
  "content:20347480242634802": {
   "src": "7fd12c70cab5",
-  "uk": "Планка передньої частини нижньої сорочки",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Планка нижнього топа: передня частина",
+  "status": "manual"
  },
  "content:20347480242634803": {
   "src": "5975af5b65dd",
-  "uk": "Нижня сорочка спереду",
+  "uk": "Нижня сорочка: передня частина",
   "status": "manual"
  },
  "content:20347480242634804": {
   "src": "91481ac970ff",
-  "uk": "Верхня ліва частина передньої частини ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: верхня ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634805": {
   "src": "be704ea1657c",
-  "uk": "Верхня права частина ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф: верхня права частина",
+  "status": "manual"
  },
  "content:20347480242634806": {
   "src": "5f752d52d64b",
-  "uk": "Лівий передній комір ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ліва передня частина коміра ліфа"
+  "uk": "Комір ліфа: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634807": {
   "src": "6553da8506d9",
-  "uk": "Правий передній комір ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Права передня частина коміра ліфа"
+  "uk": "Комір ліфа: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634808": {
   "src": "d63569596feb",
-  "uk": "Планка передньої частини нижнього топу ліфа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Планка передньої частини нижньої сорочки ліфа"
+  "uk": "Планка нижнього топа: передня частина",
+  "status": "manual"
  },
  "content:20347480242634809": {
   "src": "713f8a3a2741",
-  "uk": "Лівий передній комір",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ліва передня частина коміра"
+  "uk": "Комір: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634810": {
   "src": "c71dd56b0b60",
-  "uk": "Правий передній комір",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Права передня частина коміра"
+  "uk": "Комір: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634811": {
   "src": "68dc2829424f",
-  "uk": "Комірний рюш",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Рюш коміра"
+  "uk": "Рюш коміра",
+  "status": "manual"
  },
  "content:20347480242634812": {
   "src": "236206d530b8",
-  "uk": "Передня і задня частини коміра",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Передня і задня частина коміра"
+  "uk": "Комір: передня й задня частини",
+  "status": "manual"
  },
  "content:20347480242634813": {
   "src": "d79a3f6c0d23",
-  "uk": "Передня панель коміра",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Вставка коміра: передня частина",
+  "status": "manual"
  },
  "content:20347480242634814": {
   "src": "a4d11c092093",
-  "uk": "Ліва планка задньої частини коміра",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Планка коміра: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634815": {
   "src": "8c8018f84242",
-  "uk": "Права планка задньої частини коміра",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Планка коміра: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634816": {
   "src": "7175bcae0ad4",
-  "uk": "Комірна стрічка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Стрічка коміра"
+  "uk": "Стрічка коміра",
+  "status": "manual"
  },
  "content:20347480242634817": {
   "src": "b9a8a418aa25",
-  "uk": "Ліва накладка на плече коміра",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Накладка коміра на ліве плече",
+  "status": "manual"
  },
  "content:20347480242634818": {
   "src": "7890b14cba6a",
-  "uk": "Права накладка на плече коміра",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Накладка коміра на праве плече",
+  "status": "manual"
  },
  "content:20347480242634819": {
   "src": "d0d1ab0ea4e1",
-  "uk": "Передня баска",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска: передня частина",
+  "status": "manual"
  },
  "content:20347480242634820": {
   "src": "006f252342b2",
-  "uk": "П’ятий ярус спідниці ззаду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 5: задня частина",
+  "status": "manual"
  },
  "content:20347480242634821": {
   "src": "09045b6955d1",
-  "uk": "П'ятий ярус спідниці спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 5: передня частина",
+  "status": "manual"
  },
  "content:20347480242634822": {
   "src": "2e469489e44f",
-  "uk": "П'ятий ярус спідниці спереду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 5: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634823": {
   "src": "16796213181d",
-  "uk": "П'ятий ярус спідниці спереду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 5: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634824": {
   "src": "a8c3b326c587",
-  "uk": "П'ятий ярус спідниці ззаду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 5: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634825": {
   "src": "24edf47d2ce5",
-  "uk": "П'ятий ярус спідниці ззаду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 5: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634826": {
   "src": "47e065950483",
-  "uk": "Перший ярус спідниці ззаду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Перший ярус спідниці ззаду зліва"
+  "uk": "Спідниця, ярус 1: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634827": {
   "src": "80f95438c23f",
-  "uk": "Перший ярус спідниці ззаду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Перший ярус спідниці ззаду справа"
+  "uk": "Спідниця, ярус 1: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634828": {
   "src": "9987d8cbb23a",
-  "uk": "Перший ярус спідниці ззаду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634829": {
   "src": "a0a018937302",
-  "uk": "Перший ярус спідниці ззаду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634830": {
   "src": "e4e0e859d1e6",
-  "uk": "Перший ярус спідниці спереду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Перший ярус спідниці спереду зліва"
+  "uk": "Спідниця, ярус 1: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634831": {
   "src": "2b2c44fd6b07",
-  "uk": "Перший ярус спідниці спереду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Перший ярус спідниці спереду справа"
+  "uk": "Спідниця, ярус 1: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634832": {
   "src": "982bc624e652",
-  "uk": "Перший ярус спідниці спереду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634833": {
   "src": "07f058ff1176",
-  "uk": "Перший ярус спідниці спереду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634834": {
   "src": "e8d96695e266",
-  "uk": "Перший ярус спідниці зліва ззаду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634835": {
   "src": "d0280d00adbd",
-  "uk": "Перший ярус спідниці зліва спереду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 1: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634836": {
   "src": "eb83f923206c",
-  "uk": "Ярус 1 спідниці праворуч ззаду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Перший ярус спідниці справа ззаду праворуч"
+  "uk": "Спідниця, ярус 1: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634837": {
   "src": "d0c01103ff39",
-  "uk": "Ярус 1 спідниці праворуч спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Перший ярус спідниці справа спереду праворуч"
+  "uk": "Спідниця, ярус 1: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634838": {
   "src": "32db9306ff3c",
-  "uk": "Спідниця спереду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634839": {
   "src": "d1127673f571",
-  "uk": "Спідниця спереду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634840": {
   "src": "c6bffafce175",
-  "uk": "Стрічка на спідниці ззаду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Стрічка спідниці ззаду"
+  "uk": "Стрічка спідниці: задня частина",
+  "status": "manual"
  },
  "content:20347480242634841": {
   "src": "e7191da4d680",
-  "uk": "Вставка на спідниці ззаду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вставка спідниці ззаду"
+  "uk": "Вставка спідниці: задня частина",
+  "status": "manual"
  },
  "content:20347480242634842": {
   "src": "a4fedce34e13",
-  "uk": "Вставка на спідниці спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вставка спідниці спереду"
+  "uk": "Вставка спідниці: передня частина",
+  "status": "manual"
  },
  "content:20347480242634843": {
   "src": "a77da8ac8164",
-  "uk": "Вставка на спідниці спереду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вставка спідниці спереду ліворуч"
+  "uk": "Вставка спідниці: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634844": {
   "src": "4cc2f349fea7",
-  "uk": "Вставка на спідниці справа спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вставка спідниці справа спереду"
+  "uk": "Вставка спідниці: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634845": {
   "src": "9ef77b2cba95",
-  "uk": "Вставка на спідниці зліва",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вставка спідниці зліва"
+  "uk": "Вставка спідниці: ліва частина",
+  "status": "manual"
  },
  "content:20347480242634846": {
   "src": "e9a91cb3d74b",
-  "uk": "Вставка на спідниці ззаду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вставка спідниці ззаду ліворуч"
+  "uk": "Вставка спідниці: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634847": {
   "src": "b6e3417b65bb",
-  "uk": "Вставка на спідниці справа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вставка спідниці справа"
+  "uk": "Вставка спідниці: права частина",
+  "status": "manual"
  },
  "content:20347480242634848": {
   "src": "c8bfa23b161a",
-  "uk": "Вставка на спідниці ззаду справа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Вставка спідниці ззаду справа"
+  "uk": "Вставка спідниці: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634849": {
   "src": "39282e274f96",
-  "uk": "Спіднична панель ззаду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Полотнище спідниці: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634850": {
   "src": "66bfd0c4da2f",
-  "uk": "Спіднична панель ззаду справа",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Полотнище спідниці: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634851": {
   "src": "53ab6d3f0f64",
-  "uk": "Спіднична панель спереду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Полотнище спідниці: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634852": {
   "src": "97c1df306020",
-  "uk": "Спіднична панель спереду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спіднична панель спереду справа"
+  "uk": "Полотнище спідниці: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634853": {
   "src": "387757d78461",
-  "uk": "Спіднична панель зліва ззаду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спіднична панель ліворуч ззаду"
+  "uk": "Полотнище спідниці: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634854": {
   "src": "6a2225b8234b",
-  "uk": "Спіднична панель зліва спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спіднична панель ліворуч спереду"
+  "uk": "Полотнище спідниці: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634855": {
   "src": "759beb054c3a",
-  "uk": "Спіднична панель справа ззаду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спіднична панель праворуч ззаду"
+  "uk": "Полотнище спідниці: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634856": {
   "src": "8c2c52204487",
-  "uk": "Спіднична панель справа спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спіднична панель праворуч спереду"
+  "uk": "Полотнище спідниці: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634857": {
   "src": "41f4e310d51d",
-  "uk": "Ярус 3 спідниці ззаду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 3: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634858": {
   "src": "0c4751d05d9e",
-  "uk": "Ярус 3 спідниці ззаду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 3 спідниці ззаду справа"
+  "uk": "Спідниця, ярус 3: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634859": {
   "src": "910b46e7e588",
-  "uk": "Ярус 3 спідниці спереду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 3: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634860": {
   "src": "5b593643c913",
-  "uk": "Ярус 3 спідниці спереду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 3 спідниці спереду справа"
+  "uk": "Спідниця, ярус 3: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634861": {
   "src": "8141e2429d8c",
-  "uk": "Ярус 4 спідниці ззаду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 4: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634862": {
   "src": "8834f3b04ebe",
-  "uk": "Ярус 4 спідниці ззаду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 4 спідниці ззаду справа"
+  "uk": "Спідниця, ярус 4: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634863": {
   "src": "b746ff8e5c04",
-  "uk": "Ярус 4 спідниці спереду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 4: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634864": {
   "src": "9aee3515849f",
-  "uk": "Ярус 4 спідниці спереду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 4 спідниці спереду справа"
+  "uk": "Спідниця, ярус 4: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634865": {
   "src": "912a1d4ae987",
-  "uk": "Ярус 6 спідниці ззаду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 6: задня частина",
+  "status": "manual"
  },
  "content:20347480242634866": {
   "src": "66322355c2da",
-  "uk": "Ярус 6 спідниці ззаду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 6: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634867": {
   "src": "4e1414ab44c0",
-  "uk": "Ярус 6 спідниці ззаду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 6 спідниці ззаду справа"
+  "uk": "Спідниця, ярус 6: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634868": {
   "src": "71d7d5ada19f",
-  "uk": "Ярус 6 спідниці спереду",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 6: передня частина",
+  "status": "manual"
  },
  "content:20347480242634869": {
   "src": "ea513c817b2c",
-  "uk": "Ярус 6 спідниці спереду ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, ярус 6: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634870": {
   "src": "95fd75a181ef",
-  "uk": "Ярус 6 спідниці спереду праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Ярус 6 спідниці спереду справа"
+  "uk": "Спідниця, ярус 6: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634871": {
   "src": "64844e5b71e8",
-  "uk": "Нижня спідниця, ярус 5, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня спідниця, ярус 5: задня частина",
+  "status": "manual"
  },
  "content:20347480242634872": {
   "src": "969b7427452b",
-  "uk": "Нижня спідниця, ярус 5, спинка ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня спідниця, ярус 5: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634873": {
   "src": "900016dde3b2",
-  "uk": "Нижня спідниця, ярус 5, спинка праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня спідниця, ярус 5: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634874": {
   "src": "b9161ec1c05f",
-  "uk": "Нижня спідниця, ярус 5, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня спідниця, ярус 5: передня частина",
+  "status": "manual"
  },
  "content:20347480242634875": {
   "src": "1a41d43f88fe",
-  "uk": "Нижня спідниця, ярус 5, перед ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня спідниця, ярус 5: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634876": {
   "src": "f58a5eb7d771",
-  "uk": "Нижня спідниця, ярус 5, перед праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Нижня спідниця, ярус 5: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634877": {
   "src": "994325a96e39",
-  "uk": "Спідниця, баска, ліворуч, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска спідниці: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634878": {
   "src": "9ab248a50478",
-  "uk": "Спідниця, баска, ліворуч, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска спідниці: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634879": {
   "src": "e6dd25117179",
-  "uk": "Спідниця, баска, праворуч, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска спідниці: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634880": {
   "src": "9879cdd40955",
-  "uk": "Спідниця, баска, праворуч, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска спідниці: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634881": {
   "src": "cf1ece39680c",
-  "uk": "Спідниця, занижена талія, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця із заниженою талією: задня частина",
+  "status": "manual"
  },
  "content:20347480242634882": {
   "src": "d9202995937a",
-  "uk": "Спідниця, занижена талія, спинка, ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця, занижена талія, спинка ліворуч"
+  "uk": "Спідниця із заниженою талією: ліва задня частина",
+  "status": "manual"
  },
  "content:20347480242634883": {
   "src": "0233a61cd56f",
-  "uk": "Спідниця, занижена талія, спинка, праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця, занижена талія, спинка праворуч"
+  "uk": "Спідниця із заниженою талією: права задня частина",
+  "status": "manual"
  },
  "content:20347480242634884": {
   "src": "3da144aab71f",
-  "uk": "Спідниця, занижена талія, перед, ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця, занижена талія, перед ліворуч"
+  "uk": "Спідниця із заниженою талією: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634885": {
   "src": "1a9727a308cf",
-  "uk": "Спідниця, занижена талія, перед, праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Спідниця, занижена талія, перед праворуч"
+  "uk": "Спідниця із заниженою талією: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634886": {
   "src": "b2e06fa17479",
-  "uk": "Спідниця, занижена талія, ліворуч, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця із заниженою талією: ліва передня частина",
+  "status": "manual"
  },
  "content:20347480242634887": {
   "src": "bcc885932978",
-  "uk": "Спідниця, занижена талія, праворуч, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця із заниженою талією: права передня частина",
+  "status": "manual"
  },
  "content:20347480242634888": {
   "src": "c96f1ffdc38c",
-  "uk": "Спідниця, баска, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Баска спідниці: задня частина",
+  "status": "manual"
  },
  "content:20347480242634889": {
   "src": "ccdfe6a36483",
-  "uk": "Манжета рукава, ліворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Обшивка лівого рукава",
+  "status": "manual"
  },
  "content:20347480242634890": {
   "src": "af952182dd34",
-  "uk": "Манжета рукава, праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Обшивка правого рукава",
+  "status": "manual"
  },
  "content:20347480242634891": {
   "src": "e90544d9e02e",
-  "uk": "Манжета рукава, права",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Манжета правого рукава",
+  "status": "manual"
  },
  "content:20347480242634892": {
   "src": "957e86521755",
@@ -13101,32 +11881,23 @@
  },
  "content:20347480242634893": {
   "src": "0e4084997ee9",
-  "uk": "Рукав, ліворуч, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Лівий рукав: задня частина",
+  "status": "manual"
  },
  "content:20347480242634894": {
   "src": "7f9a64eda3d1",
-  "uk": "Рукав, ліворуч, перед",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Лівий рукав: передня частина",
+  "status": "manual"
  },
  "content:20347480242634895": {
   "src": "47e91054bbca",
-  "uk": "Рукав, праворуч, спинка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Правий рукав: задня частина",
+  "status": "manual"
  },
  "content:20347480242634896": {
   "src": "aa52cf31b8b6",
-  "uk": "Рукав перед, праворуч",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Рукав, праворуч, перед"
+  "uk": "Правий рукав: передня частина",
+  "status": "manual"
  },
  "content:20674054695403520": {
   "src": "57161a370a84",
@@ -13194,10 +11965,8 @@
  },
  "content:22892765491597313": {
   "src": "93f9432b0fcc",
-  "uk": "Кант «Блакитна азур»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кант «Лазуровий»",
+  "status": "manual"
  },
  "content:22892765491597314": {
   "src": "8ad2dc314839",
@@ -13213,10 +11982,8 @@
  },
  "content:22892765491597316": {
   "src": "bba619d42120",
-  "uk": "Кант «Янтарний»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кант «Бурштиновий»",
+  "status": "manual"
  },
  "content:22892765491597317": {
   "src": "38ff7378b7e1",
@@ -13288,10 +12055,8 @@
  },
  "content:22892765491597327": {
   "src": "a856adb3efee",
-  "uk": "Кант «Терракотовий»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кант «Теракотовий»",
+  "status": "manual"
  },
  "content:22892765491597328": {
   "src": "94c28c0aea40",
@@ -13335,61 +12100,43 @@
  },
  "content:22892765491597333": {
   "src": "4ae7124a2dfc",
-  "uk": "Маковий червоний кант",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кант «Маковий червоний»",
+  "status": "manual"
  },
  "content:22892765491597334": {
   "src": "d8bd76cf5981",
-  "uk": "Лососевий кант",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кант «Лососевий»",
+  "status": "manual"
  },
  "content:22892765491597335": {
   "src": "ab22162359a7",
-  "uk": "Сиенський кант",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кант «Сієна»",
+  "status": "manual"
  },
  "content:22892765491597336": {
   "src": "eaea11e5720c",
-  "uk": "Тауповий кант",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кант «Тауп»",
+  "status": "manual"
  },
  "content:22892765491597337": {
   "src": "41f80dd31a9d",
-  "uk": "Віридиновий зелений кант",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кант «Віридіан»",
+  "status": "manual"
  },
  "content:22892765491597338": {
   "src": "f20e294a7315",
-  "uk": "Гліцинієвий кант",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Кант «Гліцинія»",
+  "status": "manual"
  },
  "content:22892765491597339": {
   "src": "eab4c85f6fda",
-  "uk": "Чорне оздоблення віші",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Чорне оздоблення «Віші»"
+  "uk": "Оздоблення в чорну клітинку",
+  "status": "manual"
  },
  "content:22892765491597340": {
   "src": "43513aa91ce4",
-  "uk": "Зелене оздоблення віші",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Зелене оздоблення «Віші»"
+  "uk": "Оздоблення в зелену клітинку",
+  "status": "manual"
  },
  "content:22892765495791616": {
   "src": "5b89577cbeab",
@@ -13414,24 +12161,18 @@
  },
  "content:22892765499985920": {
   "src": "6cfed3d5d9a4",
-  "uk": "Зібраний ліф",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф зі збірками",
+  "status": "manual"
  },
  "content:22892765499985921": {
   "src": "872ce2a40fed",
-  "uk": "Квадратний ліф",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф із квадратним вирізом",
+  "status": "manual"
  },
  "content:22892765499985922": {
   "src": "ca7705d8427a",
-  "uk": "Сердечкоподібний ліф",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Ліф із вирізом «серце»",
+  "status": "manual"
  },
  "content:22892765499985923": {
   "src": "ccf872f78023",
@@ -13442,31 +12183,23 @@
  },
  "content:22892765499985924": {
   "src": "a380d569229f",
-  "uk": "Комір-стійка",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Гострий комір",
+  "status": "manual"
  },
  "content:22892765499985925": {
   "src": "628344bc226d",
-  "uk": "Комір-метелик",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Комір-бант",
+  "status": "manual"
  },
  "content:22892765504180224": {
   "src": "6f319574a5b3",
-  "uk": "Спідниця з косою ниткою",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця, скроєна по косій",
+  "status": "manual"
  },
  "content:22892765504180225": {
   "src": "4b6a91ecf7df",
-  "uk": "Кльошована спідниця",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця кльош",
+  "status": "manual"
  },
  "content:22892765504180226": {
   "src": "08c6dd9997f4",
@@ -13492,10 +12225,8 @@
  },
  "content:22892765504180229": {
   "src": "4ca86aab50ce",
-  "uk": "Принцеса",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Спідниця «Принцеса»",
+  "status": "manual"
  },
  "content:22892765504180230": {
   "src": "9d123684cb22",
@@ -13513,10 +12244,8 @@
  },
  "content:22892765508374529": {
   "src": "43847b9eab1b",
-  "uk": "Довга пайова спідниця",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true
+  "uk": "Пряма довга спідниця",
+  "status": "manual"
  },
  "content:22892765508374530": {
   "src": "5d4b81055ff9",
@@ -15305,11 +14034,8 @@
  },
  "content:25451161560199224": {
   "src": "316cb4d4a2b0",
-  "uk": "Оздоблення «Віші рожевого кольору»",
-  "status": "ok",
-  "model": "hf.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v2.0-GGUF:Q8_0",
-  "proofed": true,
-  "uk_before_proof": "Оздоблення «Віші Рожевого Кольору»"
+  "uk": "Оздоблення в рожеву клітинку",
+  "status": "manual"
  },
  "content:25451161560199225": {
   "src": "e320e11b8266",

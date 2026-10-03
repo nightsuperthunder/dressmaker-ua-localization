@@ -28,7 +28,15 @@ BepInEx/config/ua.dressmaker.localization.cfg: AutoUpdate = false.
   Якщо його немає — BepInEx не запустився: перевірте рядок у Параметрах запуску.
 - Не вмикайте «Відкривати за допомогою Rosetta» вручну: скрипт запуску сам запускає гру
   через Rosetta (BepInEx поки не працює на чипах Apple нативно).
-- Напишіть нам і додайте файл BepInEx/LogOutput.log.
+- Напишіть нам і додайте файл BepInEx/LogOutput.log (див. «ЗВОРОТНИЙ ЗВ'ЯЗОК» нижче).
+
+ЗВОРОТНИЙ ЗВ'ЯЗОК
+Напишіть, що саме не так, де в грі це видно, додайте знімок екрана і, за бажанням,
+свій варіант виправлення. Якщо мод не працює — додайте ще BepInEx/LogOutput.log.
+- Discord (швидше): створіть пост у каналі фідбеку з тегом Dressmaker.
+  Спершу гляньте відкриті пости: можливо, про це вже писали; закриті пости означають виправлене.
+  https://discord.gg/AQ82syeM6V
+- GitHub: створіть Issue — https://github.com/nightsuperthunder/dressmaker-ua-localization/issues
 
 ВИДАЛЕННЯ
 Очистіть Параметри запуску в Steam. За бажанням видаліть BepInEx, libdoorstop.dylib,

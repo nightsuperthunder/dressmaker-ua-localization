@@ -22,6 +22,14 @@ BepInEx/config/ua.dressmaker.localization.cfg: AutoUpdate = false.
 ВИДАЛЕННЯ
 Видаліть winhttp.dll, doorstop_config.ini і папку BepInEx з папки гри.
 
+ЗВОРОТНИЙ ЗВ'ЯЗОК
+Напишіть, що саме не так, де в грі це видно, додайте знімок екрана і, за бажанням,
+свій варіант виправлення. Якщо мод не працює — додайте ще BepInEx/LogOutput.log.
+- Discord (швидше): створіть пост у каналі фідбеку з тегом Dressmaker.
+  Спершу гляньте відкриті пости: можливо, про це вже писали; закриті пости означають виправлене.
+  https://discord.gg/AQ82syeM6V
+- GitHub: створіть Issue — https://github.com/nightsuperthunder/dressmaker-ua-localization/issues
+
 ДЛЯ ПЕРЕКЛАДАЧІВ
 - Переклад: BepInEx/plugins/DressmakerUA/translations/uk.json
   (таблиця → ID рядка → текст; відсутні рядки показуються англійською).
